@@ -1,0 +1,860 @@
+Gabriel Rolón Vivir es estar expuesto - Mandatos, vulnerabilidad y amor en
+https://www.youtube.com/watch?v=NBcvkHwFIAE
+Empece 17:45
+Termine 21:30
+
+
+[0:00:00 - 0:00:04.240000] ( Andy): Pregunta, hay que, voy a arrancar con todo con Rolón, el licenciado Gabriel Rolón.
+[0:00:08.480000 - 0:00:18.280000] ( Andy): Primero, me parece que no demos por sentado que es un placer que estés acá.
+[0:00:28.080000 - 0:00:39.880000] ( Eve): Sí, privilegio.
+[0:00:51.680000 - 0:01:06.680000] ( Andy): Che, viene Rolón. Bueno, para nosotros nos encanta, está buenísimo.
+[0:01:21.680000 - 0:01:42.960000] ( Andy): Creo que, como hemos hablado fuera del aire, tenés una magia para explicar cosas que nos pasan,
+[0:02:04.240000 - 0:02:28.440000] ( Andy): para entender, para ayudarnos a pensar, reflexionar.
+[0:02:52.640000 - 0:03:19.840000] ( Andy): Y eso después tiene su vida propia.
+[0:03:19.840000 - 0:03:21.840000] ( SPEAKER_03):
+[0:03:21.840000 - 0:03:22.680000] ( SPEAKER_03): 
+[0:03:22.680000 - 0:03:23.680000] ( SPEAKER_03): 
+[0:03:24.680000 - 0:03:26.680000] ( Andy): Queda
+[0:03:26.680000 - 0:03:31.560000] ( Andy): En la semana, queda trabajando en redes, en las cosas, en los videos,
+[0:03:36.540000 - 0:03:42.620000] ( Sofi): en nosotros mismos.
+[0:03:48.700000 - 0:03:58.780000] ( Andy): A veces yo me doy cuenta que los videos con el tic toc y las cosas.
+[0:03:58.780000 - 0:04:02.500000] ( SPEAKER_03): 
+[0:04:02.500000 - 0:04:03] ( SPEAKER_03): 
+[0:04:03 - 0:04:07] ( Andy): como vos estabas boludeando y te viene un rolón y esperáis un minuto.
+[0:04:11 - 0:04:15.640000] ( Eve): Te acomoda.
+[0:04:20.280000 - 0:04:26.920000] ( Andy): Te acomoda. Después seguís.
+[0:04:33.560000 - 0:04:41] ( Andy): ¿Entendés?
+[0:04:48.440000 - 0:04:56.880000] ( Sofi): Te deja pensando.
+[0:05:05.320000 - 0:05:16.960000] ( Andy): Y queda. Y muchos salen de acá, otros salen de los vídeos que has hecho toda tu vida,
+[0:05:28.600000 - 0:05:43.040000] ( Andy): pero un placer que estés acá todas las semanas.
+[0:05:57.480000 - 0:06:12.920000] ( Rolón): Bueno, gracias.
+[0:06:12.920000 - 0:06:14.200000] ( SPEAKER_03): 
+[0:06:14.200000 - 0:06:15.040000] ( SPEAKER_03): 
+[0:06:15.040000 - 0:06:18.040000] ( SPEAKER_03):
+[0:06:18.040000 - 0:06:20.040000] ( Rolón): Bueno, gracias, para mí también.
+[0:06:22.120000 - 0:06:29.320000] ( Rolón): Por eso hemos, este año, modificado la manera
+[0:06:36.600000 - 0:06:45.800000] ( Rolón): que teníamos y venimos todas las semanas,
+[0:06:55.080000 - 0:07:07.360000] ( Rolón): porque de verdad es un momento de mucho disfrute para mí,
+[0:07:19.720000 - 0:07:37.160000] ( Rolón): Osea la paso muy bien, son todos muy provocadores
+[0:07:54.680000 - 0:08:15.480000] ( Rolón): y eso me encanta, Digamos, cuando alguien te sale al cruce, Digamos
+[0:08:36.360000 - 0:09:00.040000] ( Rolón): que no tienen un sí fácil, sino que te cuestionan,
+[0:09:23.800000 - 0:09:50.200000] ( Rolón): te preguntan, pero a ver, a ver, entonces, ¿cómo sería?
+[0:10:16.680000 - 0:10:46.120000] ( Rolón): Me encanta porque es el ejercicio, justamente,
+[0:11:15.560000 - 0:11:47.600000] ( Rolón): que es casi platónico, lo que ocurre,
+[0:12:19.720000 - 0:12:53.840000] ( Rolón): esto de empezar a conversar y que el otro te contradiga
+[0:13:28.040000 - 0:14:04.320000] ( Rolón): o te diga o te pregunte, todo lo que era,
+[0:14:40.680000 - 0:15:19.440000] ( Rolón): bueno, como se fue construyendo el pensamiento, no?
+[0:15:58.280000 - 0:16:39.880000] ( Rolón): así que a mí me encanta venir, soy muy feliz, Cada dia que vengo aca
+[0:16:39.880000 - 0:16:42.680000] ( Andy): Le mandamos un beso, le pedimos disculpas a Ana O,
+[0:16:45.560000 - 0:16:51.160000] ( Andy): la paciente que hubo que echarla en este horario
+[0:16:56.840000 - 0:17:04.520000] ( Andy): que estaba acostumbrada.
+[0:17:12.280000 - 0:17:24.600000] ( Andy): Y también a Gabriel F, otro paciente que también voló
+[0:17:37 - 0:17:52.120000] ( Andy): de este horario, también para que pueda venir el licenciado acá.
+[0:18:07.320000 - 0:18:27] ( Andy): Dicho esto, tenemos un menú de cosas cada uno un tema
+[0:18:46.760000 - 0:19:11.160000] ( Andy): ¿por qué no elegimos, me parece que entre todos, todas,
+[0:19:35.640000 - 0:20:03.800000] ( Andy): qué sería lo mejor para, en base a lo que le está pasando
+[0:20:32.040000 - 0:21:02.120000] ( Andy): más o menos a cada uno, a ver si va?
+[0:21:32.280000 - 0:22:04.760000] ( Andy): A vos, por ejemplo, si te toca sesión con Rolón,
+[0:22:37.320000 - 0:23:10.920000] ( Andy): ¿Cuál sería el título? Nada más que el titulo
+[0:23:44.600000 - 0:24:19.240000] ( Sofi): Si, la ansiedad.
+[0:24:53.960000 - 0:25:30.440000] ( Andy): Ansiedad, buen punto, ansiedad.
+[0:26:07 - 0:26:44.680000] ( Andy): Vos, Ana...
+[0:26:44.680000 - 0:26:49.680000] ( SPEAKER_03): 
+[0:26:49.680000 - 0:26:50.680000] ( SPEAKER_03): 
+[0:26:51.680000 - 0:26:53.680000] ( SPEAKER_04): 
+[0:26:55.680000 - 0:26:58.680000] ( SPEAKER_00): 
+[0:26:58.680000 - 0:26:59.180000] ( SPEAKER_02): 
+[0:26:59.180000 - 0:27:00.180000] ( SPEAKER_03): 
+[0:27:01.180000 - 0:27:02.680000] ( SPEAKER_04): 
+[0:27:02.680000 - 0:27:03.680000] ( SPEAKER_03): 
+[0:27:03.680000 - 0:27:05.680000] ( Andy): Distracción. Bien.
+[0:27:05.680000 - 0:27:06.180000] ( Andy): Vos Claudio?
+[0:27:06.180000 - 0:27:09.620000] ( Claudio): Yo un chico que no quiere ser de mi equipo que el padre
+[0:27:13.160000 - 0:27:17.560000] ( Claudio): y usa la camiseta de Julián Álvarez.
+[0:27:17.560000 - 0:27:19.560000] ( Andy): Ah, tiene un caso, un caso concreto.
+[0:27:21.560000 - 0:27:28.060000] ( Andy): Un chico que no quiere ser, o sea, el padre quiere que sea como él, de su equipo, por supuesto,
+[0:27:34.560000 - 0:27:47.560000] ( Andy): de estudiantes, me dice, y el pibe usa la camioneta, la camioneta no, la camiseta de Julián Hernández porque le gusta.
+[0:28:00.560000 - 0:28:14.060000] ( Rolón): Sí.
+[0:28:27.560000 - 0:28:45.060000] ( Andy): Y punto, y además no quiere sentirse obligado a ser lo del padre. Buen tema.
+[0:29:02.560000 - 0:29:22.060000] ( Andy): En este caso me gusta más de la madre.
+[0:29:41.560000 - 0:30:03.060000] ( Andy): Eh, y Leonardo.
+[0:30:24.560000 - 0:30:47.560000] ( Andy): Uh, agarrate.
+[0:31:10.560000 - 0:31:34.560000] ( Andy): Sí, Leo.
+[0:31:34.560000 - 0:31:36.560000] ( Leo): No, jag får ju inte det.
+[0:31:36.560000 - 0:31:37.560000] ( Eve): ¡Uy!
+[0:31:38.560000 - 0:31:41.560000] ( Sofi): Lo agarraste justo comiendo, que garron.
+[0:31:44.560000 - 0:31:49.560000] ( Andy): ¿Vos no te imaginaste que ibas a preguntar qué pensabas, que te ibas a escapar?
+[0:31:54.560000 - 0:32:01.560000] ( Leo): No, pensé que me ibas a pasar algo.
+[0:32:08.560000 - 0:32:17.560000] ( Andy): No, no, Leo.
+[0:31:54.560000 - 0:32:01.560000] ( Eve): Te amo Leo.
+[0:32:17.560000 - 0:32:19.560000] ( SPEAKER_03):
+[0:32:21.560000 - 0:32:25.560000] ( SPEAKER_04): 
+[0:32:29.560000 - 0:32:35.560000] ( SPEAKER_00): 
+[0:32:35.560000 - 0:32:37.900000] ( SPEAKER_03):
+[0:32:40.320000 - 0:32:43.640000] ( SPEAKER_04): 
+[0:32:43.640000 - 0:32:45.640000] ( Sofi): Se clavo un sándwich, mira, justo.
+[0:32:43.640000 - 0:32:45.640000] ( Andy): Un título Leo, un título.
+[0:32:45.640000 - 0:32:50.880000] ( Eve): Dejalo tragar
+[0:32:45.640000 - 0:32:50.880000] ( Andy): Queres que diga yo tu título?
+[0:32:50.880000 - 0:32:52.880000] ( Rolón): Ya hay un título ahí.
+[0:32:50.880000 - 0:32:52.880000] ( Leo): Es de maicena, espera que…
+[0:32:52.880000 - 0:32:54.880000] ( SPEAKER_03): 
+[0:32:56.880000 - 0:33:00.880000] ( Sofi): Un año tiene.
+[0:32:56.880000 - 0:33:00.880000] ( Rolón): Ahí hay un titulo Andy
+[0:33:04.880000 - 0:33:10.880000] ( Andy): Yo te doy un título.
+[0:33:16.880000 - 0:33:24.880000] ( Andy): Hay gente que en momentos claves se come un alfajor de maicena.
+[0:33:32.880000 - 0:33:42.880000] ( Andy): Para no poder...
+[0:33:52.880000 - 0:34:04.880000] ( Andy): Es como varios que...
+[0:34:16.880000 - 0:34:30.880000] ( Rolón): Si, pero yo tengo otro título.
+[0:34:30.880000 - 0:34:31.880000] ( Andy): A ver.
+[0:34:32.880000 - 0:34:34.880000] ( SPEAKER_04): 
+[0:34:34.880000 - 0:34:35.380000] ( SPEAKER_03): 
+[0:34:35.380000 - 0:34:37.380000] ( SPEAKER_03): 
+[0:34:37.380000 - 0:34:40.180000] ( Rolón): Me como el alfajor de maicena total, a mi no me va a preguntar nadie.
+[0:34:40.180000 - 0:34:41.360000] ( Andy): Uuuuu
+[0:34:41.360000 - 0:34:43.360000] ( Rolón): Si yo no soy importante acá.
+[0:34:45.360000 - 0:34:48.360000] ( Eve): Ah...
+[0:34:51.360000 - 0:34:57.360000] ( Rolón): Digamos, esta especie de idea de...
+[0:35:03.360000 - 0:35:10.360000] ( Rolón): De mí van a pasar.
+[0:35:10.360000 - 0:35:12.360000] ( Eve): No come más alfajores de maicena Leo.
+[0:35:10.360000 - 0:35:12.360000] ( Rolón): A mi quien me va a preguntar?.
+[0:35:14.360000 - 0:35:18.360000] ( Andy): No, pero me encanta, lo viste, lo viste.
+[0:35:18.360000 - 0:35:20.360000] ( SPEAKER_03): 
+[0:35:20.360000 - 0:35:25.360000] ( Rolón): Hay como una cuestión que no digo, porque no quiero...
+[0:35:25.360000 - 0:35:27.860000] ( Andy): No, pero es cierto, sí. Para el oyente que no está mirando.
+[0:35:30.360000 - 0:35:36.200000] ( Andy): Le pregunto a Anita, le pregunto a Claudio, en orden venía Leo y se fue.
+[0:35:42.040000 - 0:35:49.380000] ( Andy): Se clavo el alfajor de maicena
+[0:35:49.380000 - 0:35:57.060000] ( Rolón): es que muchas veces uno dice no a mí no a mí no porque no 
+[0:35:49.380000 - 0:35:57.060000] ( Andy): Cuando en la vida decis, no, a mi no me va a pasar, me gusta
+[0:36:04.740000 - 0:36:18.820000] ( Rolón): Si si, a mi no me van a tener en cuenta esta vez no y es importante saber por qué
+[0:36:32.900000 - 0:36:52.100000] ( Rolón): uno se ubica a veces bien en este lugar de… de mi van a pasar
+[0:36:52.100000 - 0:36:54.100000] ( SPEAKER_03): 
+[0:36:56.100000 - 0:36:59.100000] (Andy): Me gusta.
+[0:37:02.100000 - 0:37:08.500000] ( SPEAKER_00): 
+[0:37:08.500000 - 0:37:10.900000] ( Andy): Lo anotamos también.
+[0:37:13.400000 - 0:37:17.500000] ( Andy): Con muchísimo miedo le pregunto a Sol,
+[0:37:21.700000 - 0:37:28.900000] ( Andy): el título de tu sesión de hoy, ¿cuál sería?
+[0:37:28.900000 - 0:37:31.580000] ( Sol): creer que el otro es más que uno.
+[0:37:34.260000 - 0:37:38.340000] ( Andy): Bueno, parecido.
+[0:37:38.340000 - 0:37:39.340000] ( SPEAKER_03): 
+[0:37:40.340000 - 0:37:42.340000] ( Rolón): Se Liga.
+[0:37:44.340000 - 0:37:46.840000] ( Andy): Sí, sí.
+[0:37:46.840000 - 0:37:47.960000] ( Rolon): Se liga con lo anterior
+[0:37:49.080000 - 0:37:50.880000] ( SPEAKER_04): 
+[0:37:52.680000 - 0:37:54.980000] ( Andy): Sí.
+[0:37:57.280000 - 0:38:01.080000] ( Andy): ¿Luciana?
+[0:38:04.880000 - 0:38:09.180000] ( SPEAKER_04): 
+[0:38:09.180000 - 0:38:11.340000] ( SPEAKER_03):
+[0:38:11.340000 - 0:38:12.460000] ( SPEAKER_03): 
+[0:38:12.460000 - 0:38:18.380000] ( Lu): ese bien perdón buen día, en la misma línea creérmela un poco más
+[0:38:18.380000 - 0:38:19.380000] ( SPEAKER_03): 
+[0:38:19.380000 - 0:38:19.880000] ( SPEAKER_03):
+[0:38:19.880000 - 0:38:21.480000] ( Andy): ¡Uy! Es un tema ese...
+[0:38:23.080000 - 0:38:27.080000] ( Andy): Bien, bueno, ya estamos llegando a...
+[0:38:31.080000 - 0:38:37.080000] ( Andy): Ansiedad, a quedársela un poco más.
+[0:38:43.080000 - 0:38:51.080000] ( Andy): Evelyn, ¿usted tiene...?
+[0:38:51.080000 - 0:38:53.160000] ( SPEAKER_03):
+[0:38:53.160000 - 0:38:55.640000] ( Eve): Gabrielito, el de siempre. Auto boycott.
+[0:38:55.640000 - 0:38:56.640000] ( Harry): Lo de siempre.
+[0:38:56.640000 - 0:38:57.640000] ( Eve): Lo de siempre.
+[0:38:57.640000 - 0:38:59.640000] ( Andy): Es muy bueno lo de siempre.
+[0:39:01.640000 - 0:39:05.640000] ( Andy): Yo tenía otro que era algo así como...
+[0:39:13.640000 - 0:39:23.640000] ( Andy): Tengo dos. Uno está en la misma línea, podría ser, que es...
+[0:39:33.640000 - 0:39:45.640000] ( Andy): Me da miedo no estar a la altura.
+[0:39:57.640000 - 0:40:11.640000] ( Andy): Un poco de síndrome del impostor, un poco de...
+[0:40:25.640000 - 0:40:41.640000] ( Andy): No se van a dar cuenta.
+[0:40:57.640000 - 0:41:15.640000] ( Andy): Me hago...
+[0:41:33.640000 - 0:41:53.640000] ( Andy): Es un poco de inseguridad y...
+[0:42:13.640000 - 0:42:35.640000] ( Andy): No, no, yo también.
+[0:42:57.640000 - 0:43:21.640000] ( Andy): Como el miedo de decir, mirá, en realidad, no sé un carajo de qué hablan,
+[0:43:45.640000 - 0:44:11.640000] ( Andy): no entiendo nada, no sé qué, no me pasa,
+[0:44:37.640000 - 0:45:05.640000] ( Andy): no me pasa nada emocionante como a vos.
+[0:45:33.640000 - 0:46:03.640000] ( Andy): Cosa que uno… viste?
+[0:46:03.640000 - 0:46:04.140000] ( SPEAKER_03):
+[0:46:04.140000 - 0:46:06.540000] ( Sofi): El otro día leía algo muy bueno con respecto a eso que estás diciendo,
+[0:46:08.940000 - 0:46:12.740000] ( Sofi): hablando de la vulnerabilidad.
+[0:46:16.540000 - 0:46:20.840000] ( Andy): A ver.
+[0:46:25.140000 - 0:46:33.940000] ( Sofi): Que en definitiva muchas veces pasa que uno le teme a sus propias vulnerabilidades
+[0:46:42.740000 - 0:46:53.540000] ( Sofi): o los lugares en donde tiene más inseguridades
+[0:47:04.740000 - 0:47:18.740000] ( Sofi): y que en realidad lo más lindo de la vida es eso, es la conexión.
+[0:47:33.040000 - 0:47:49.140000] ( Sofi): Y lo que te hace más fuerte es la conexión.
+[0:48:05.540000 - 0:48:25.140000] ( Sofi): Y que en definitiva, si uno no se anima a ser vulnerable, es imposible...
+[0:48:44.740000 - 0:49:05.040000] ( Andy): Conectarse.
+[0:49:25.340000 - 0:49:46.140000] ( Sofi): Conectar.
+[0:50:06.940000 - 0:50:28.240000] ( Andy): Bien.
+[0:50:28.240000 - 0:50:30.240000] ( SPEAKER_03):
+[0:50:30.240000 - 0:50:31.240000] ( SPEAKER_03):
+[0:50:32.240000 - 0:50:33.740000] ( SPEAKER_04): 
+[0:50:35.240000 - 0:50:37.740000] ( Andy): Me gusta.
+[0:50:40.240000 - 0:50:46.240000] ( Andy): Y también hablaba con un amigo, ayer hablamos, o anteayer,
+[0:50:52.240000 - 0:51:00.240000] ( Andy): un amigo que hablamos de...
+[0:51:00.240000 - 0:51:02.520000] ( Andy): Yo ví mucho, sobre todo en los 90.
+[0:51:02.520000 - 0:51:08.120000] ( Andy): Vos vas a entender perfecto. El flaco que la baja a ella, porque en realidad ella es más,
+[0:51:13.720000 - 0:51:25.520000] ( Andy): pero la baja para enamorarla. O sea, primero la baja, como una cosa acá, acá, papapá, papapá,
+[0:51:37.320000 - 0:51:54.120000] ( Andy): la baja, la baja, la baja. Después se sube él, tranquilo, yo te voy a ayudar, la ayudo,
+[0:52:10.920000 - 0:52:31.720000] ( Andy): porque ves esto que te dije que es una pelotudez, pero vos no entendías nada. Mirá, es así, así, así,
+[0:52:52.520000 - 0:53:17.120000] ( Andy): ella se enamora, pero en realidad nunca la levanta, ¿entendés?
+[0:53:41.720000 - 0:54:10.320000] ( Andy): Siempre él necesita bajarla para él subir con inseguridad, en vez de decir,
+[0:54:38.920000 - 0:55:11.120000] ( Andy): oye, vos sos lo más, y no sé, por ahí me vas a poner una patada en el orto,
+[0:55:43.320000 - 0:56:17.720000] ( Andy): porque sos más que yo, que esa es la verdad, es el miedo real.
+[0:56:52.120000 - 0:57:27.520000] ( Sofi): Mucha manipulación.
+[0:58:02.920000 - 0:58:43.320000] ( Andy): Mucha manipulación para mucho, y pasaba mucho, yo vi mucho eso,
+[0:59:23.720000 - 1:00:07.120000] ( Andy): un poco, muchas relaciones tóxicas son eso.
+[1:00:50.520000 - 1:01:36.920000] ( Sofi): Y los que están afuera te dicen, ¿qué haces? Y claro, la gracia del manipulador
+[1:02:23.320000 - 1:03:11.720000] ( Sofi): es que luego consigue lo que...
+[1:04:00.120000 - 1:04:55.520000] ( Andy): Y ella diciendo, es que yo sin él, sin él no soy nada. No, flaca, él sin vos no existís,
+[1:05:51.720000 - 1:06:51.920000] ( Andy): no existe el sin vos, por eso, mucho productor, mucho productor, por ejemplo,
+[1:07:52.120000 - 1:08:54.320000] ( Andy): en pareja con, ¿entendés?
+[1:09:56.520000 - 1:11:01.720000] ( Andy): Mucho, y me gustaba como tema también.
+[1:12:06.920000 - 1:13:13.120000] ( Eve): Tenés ya.
+[1:13:13.120000 - 1:13:13.960000] ( SPEAKER_03):
+[1:13:13.960000 - 1:13:15.960000] ( SPEAKER_03):
+[1:13:17.960000 - 1:13:21.960000] ( SPEAKER_04): 
+[1:13:21.960000 - 1:13:23.960000] ( SPEAKER_03): 
+[1:13:23.960000 - 1:13:24.960000] ( SPEAKER_03): 
+[1:13:24.960000 - 1:13:28.280000] ( Rolón): Bueno, acá se ha hecho como un embudo, ¿no?
+[1:13:31.600000 - 1:13:39.400000] ( Rolón): Porque empezamos un poco con la ansiedad, con la distracción,
+[1:13:47.200000 - 1:13:58.320000] ( Rolón): con los mandatos, que es un temón, ¿no?
+[1:14:09.440000 - 1:14:22.360000] ( Rolón): Digo, esto de...
+[1:14:35.280000 - 1:14:52.200000] ( Rolón): Yo no quiero ser del equipo que mi papá quiere que sea.
+[1:15:09.120000 - 1:15:27.920000] ( Rolón): Aparece como un detalle menor.
+[1:15:46.720000 - 1:16:07.920000] ( Rolón): Yo me compro una camiseta, mi papá quiere que sea estudiante
+[1:16:29.120000 - 1:16:52.520000] ( Rolón): y yo me pongo una camiseta de otro equipo.
+[1:16:52.520000 - 1:16:56.520000] ( Rolón): Para contarle la historia a Claudio en muy breve.
+[1:16:56.520000 - 1:16:57.520000] ( Claudio): Hola Gabi, buen día.
+[1:16:58.520000 - 1:17:00.520000] ( Rolón): Buen día, Claudito.
+[1:17:02.520000 - 1:17:08.760000] ( Claudio): La historia es así, el nene va a hacer fútbol, lo llama la que lo cuida, la niñera al padre,
+[1:17:15 - 1:17:23.920000] ( Claudio): le dice no quiere ir porque no le gusta la ropa que le puse.
+[1:17:32.840000 - 1:17:42.760000] ( Claudio): ¿Qué le pusiste?
+[1:17:52.680000 - 1:18:05.320000] ( Claudio): La ropa de estudiantes y él quiere la de Julián Álvarez.
+[1:18:17.960000 - 1:18:33.840000] ( Claudio): Entonces el padre le dice bueno, vamos a casa, llegan a casa y el nene le dice si no te vas
+[1:18:49.720000 - 1:19:07.080000] ( Claudio): con estudiantes, no vas.
+[1:19:24.440000 - 1:19:43.240000] ( Claudio): Y el nene no fue a jugar al fútbol.
+[1:20:02.040000 - 1:20:23.760000] ( Claudio): Y al otro día se sentó y le dijo ¿qué pasa con estudiantes?
+[1:20:23.760000 - 1:20:26.680000] ( Claudio): Y el nene dijo no, que igual era hincha Estudiantes, pero que le gustaba Julián Álvarez.
+[1:20:29.600000 - 1:20:34.520000] ( Claudio): Entonces el padre dice, como no son de La Plata,
+[1:20:39.440000 - 1:20:50.280000] ( Claudio): que es muy difícil hacer un pibe que va con los compañeritos que son de Enzo Fernández, River, Boca, River, Boca,
+[1:21:01.120000 - 1:21:15.120000] ( Claudio): mantenerlo en el mismo equipo que él. Y él se enoja y le dijo, no vas.
+[1:21:15.120000 - 1:21:15.420000] ( Sofi): Mhm.
+[1:21:15.420000 - 1:21:18.420000] ( Andy): Es un buen tema, es un buen tema de todo
+[1:21:15.420000 - 1:21:18.420000] ( Andy): Igual hay que aggiornarse a todo, no?
+[1:21:18.420000 - 1:21:23.420000] ( Rolón):Si, claro. lo que pasa que ese mandato que en este caso es vos tenés que ser
+[1:21:28.420000 - 1:21:39.900000] ( Rolón): estudiante a veces es vos tenés que ser heterosexual a veces es vos tenés que
+[1:21:51.380000 - 1:22:09.580000] ( Rolón): ser este profesional no importa cuál la forma que tome el mandato, no? el mandato
+[1:22:27.780000 - 1:22:54.300000] ( Rolón): se ubica en este lugar en el que uno queda preso del deseo del otro. Si?
+[1:23:21.140000 - 1:23:54.900000] ( Rolón): un mandato es el deseo de otro que se internaliza en vos y toma fuerza de ley
+[1:24:28.660000 - 1:25:05.700000] ( Rolón): y te pone en conflicto
+[1:25:05.700000 - 1:25:06.200000] ( SPEAKER_03): 
+[1:25:06.200000 - 1:25:06.700000] ( SPEAKER_03): 
+[1:25:06.700000 - 1:25:09.200000] ( Andy): ¿Qué pasa cuando el mandato no es el mandato?
+[1:25:11.800000 - 1:25:19.600000] ( Andy): Por ejemplo, Che, yo quiero que estudies, no porque yo estudié o no estudié
+[1:25:27.500000 - 1:25:38.400000] ( Andy): por frustración distinta, no porque quiero que seas de boca
+[1:25:49.400000 - 1:26:02.300000] ( Andy): o porque soy de boca, quiero que estudies porque es una herramienta
+[1:26:15.300000 - 1:26:30.700000] ( Andy): que lo vas a necesitar, vas a necesitar Ingles, vas a necesitar una carrera.
+[1:26:46.200000 - 1:27:05.400000] ( Andy): Y no quiere estudiar, suponete, cuando vos sabés que algo
+[1:27:24.700000 - 1:27:46.800000] ( Andy): le va a venir bien y no lo quiere hacer, cuál es el límite de decir mira…
+[1:27:46.800000 - 1:27:48.800000] ( Eve): Claro, te dejó ser y ya, no.
+[1:27:48.800000 - 1:27:49.800000] ( Andy): Claro.
+[1:27:50.800000 - 1:27:52.800000] ( Andy): Te dejo ser, pero no está bien.
+[1:27:52.800000 - 1:27:57.720000] ( Rolón): Bueno, a ver, como siempre, el límite es ese punto donde el otro
+[1:28:02.740000 - 1:28:10.120000] ( Rolón): puede empezar a hacerse cargo de sí mismo.
+[1:28:17.600000 - 1:28:28.540000] ( Rolón): Quiero decir, un chico de 4 años te va a decir no me quiero vacunar,
+[1:28:39.580000 - 1:28:54.140000] ( Rolón): no me quiero dar la BCG, y vos le decís, te la vas a dar,
+[1:29:08.800000 - 1:29:27.320000] ( Rolón): porque es mi obligación cuidarte y no quiero ir al cole, a la primaria
+[1:29:45.940000 - 1:30:08.840000] ( Rolón): o a la secundaria, vos decís, vas a ir igual, porque es mi obligación cuidarte.
+[1:30:31.840000 - 1:30:59.400000] ( Rolón): Pero hay un punto donde alguien empieza a ser responsable de su propia vida
+[1:31:26.960000 - 1:32:00.600000] ( Rolón): y las herramientas que no le diste hasta los 17, 18 años, ya está, osea 
+[1:32:34.340000 - 1:33:11.120000] ( Rolón): podes ser un elemento de consulta, alguien que uno diga, che,
+[1:33:48 - 1:34:28.840000] ( Rolón): voy a hablar con mi viejo a ver qué opina porque es un tipo inteligente.
+[1:35:09.780000 - 1:35:55.900000] ( Rolón): Pero hay un momento donde uno se apropia de su vida y por lo general...
+[1:35:55.900000 - 1:35:59.380000] ( Andy): Y el padre o la madre tiene que dejarlo ir.
+[1:36:02.860000 - 1:36:07.340000] ( Rolón): Sí.
+[1:36:11.820000 - 1:36:17.300000] ( Andy): Tiene un punto también.
+[1:36:17.300000 - 1:36:24.300000] ( Rolón): Es un punto donde vos monitoreas, donde vos acompañás, donde vos sugerís,
+[1:36:31.300000 - 1:36:43.300000] ( Rolón): pero donde tenés que empezar a comprender que el destino del otro ya está en sus manos. Si?
+[1:36:55.300000 - 1:37:17.300000] ( Rolón): Hay un punto muy crucial, o sea, por lo general, los adolescentes se van dando codazos de esta situación.
+[1:37:39.300000 - 1:38:05.300000] ( Rolón): Se van diciendo basta, no te metas en mi vida, yo soy grande, quién sos vos para decirme
+[1:38:31.300000 - 1:39:02.300000] ( Rolón): cómo me tengo que vestir, de quién me tengo que enamorar, de lo que tengo que estudiar.
+[1:39:33.300000 - 1:40:11.300000] ( Rolón): Entonces empieza ese punto y ese quiebre que suele darse de esta manera entre padres e hijos,
+[1:40:49.300000 - 1:41:33.300000] ( Rolón): en ese lugar donde el otro tiene que decir, bueno, a ver, voy a salir a hacerme cargo de mi propia vida.
+[1:42:17.300000 - 1:43:08.300000] ( Rolón): Que es todo un tema. ¿Por qué? Porque vos no salís a hacerte cargo de tu propia vida
+[1:43:59.300000 - 1:44:57.300000] ( Rolón): sin tu pasado, sin tu historia, sin tus viejos. Estos viejos a los que vos les decís frente a frente,
+[1:45:55.300000 - 1:46:57.300000] ( Rolón): vos no te metes más en mi vida, cuando hiciste media cuadra te habla de adentro de la cabeza
+[1:47:59.300000 - 1:49:08.300000] ( Rolón): y se está haciendo cargo de tu vida. ¿Por qué? Porque cuando los viejos caen afuera
+[1:50:17.300000 - 1:51:31.300000] ( Rolón): es cuando más fuertes se hacen adentro, ¿entendés? Es cuando tienen más peso.
+[1:52:45.300000 - 1:54:03.300000] ( Rolón): Como, digamos, el peso que tiene la voz de un padre muerto.
+[1:54:03.300000 - 1:54:06] ( Rolón): que es por ahí mucho más fuerte que cuando el viejo estaba vivo.
+[1:54:08.700000 - 1:54:15.300000] ( Rolón): Él, yo sé que a mi viejo esto no le hubiera gustado,
+[1:54:21.900000 - 1:54:31.100000] ( Rolón): es mucho más pesado que a mi viejo esto no le gusta.
+[1:54:40.300000 - 1:54:50.800000] ( Andy): ¿A vos te habla tu papá?
+[1:55:01.300000 - 1:55:16.100000] ( Rolón): Mi papá todo el tiempo, todo el tiempo me habla.
+[1:55:30.900000 - 1:55:49.500000] ( Rolón): A veces me habla con cosas en las que ya coincidimos.
+[1:56:08.100000 - 1:56:29.200000] ( Rolón): Entonces su voz y la mía se funden.
+[1:56:50.300000 - 1:57:15.300000] ( Rolón): Se funden y yo ya no sé, bueno, qué sé yo, si es de él, si es mía, la compartimos.
+[1:57:40.300000 - 1:58:09.800000] ( Rolón): A veces me habla con una voz muy diferente a la mía.
+[1:58:39.300000 - 1:59:13.700000] ( Rolón): Una voz con la que a veces me tengo que enfrentar y a la que a veces tengo que escuchar.
+[1:59:48.100000 - 2:00:29.200000] ( Rolón): Porque uno pensar, Ortega decía uno contiene multitudes, ¿no?
+[2:01:10.300000 - 2:01:54] ( Rolón): Ortega y Gasset, uno contiene multitudes.
+[2:02:37.700000 - 2:03:22.200000] ( Sofi): ¿El burrito?
+[2:04:06.700000 - 2:04:54.700000] ( Rolón): Claro, no el burrito, que era un enorme jugador de fútbol.
+[2:05:42.700000 - 2:06:40.200000] ( Rolón): Lo que está también intentando decir es que todos estamos recorridos por infinidad de voces.
+[2:07:37.700000 - 2:08:37.800000] ( Rolón): O sea, por eso nuestra ambivalencia.
+[2:09:37.900000 - 2:10:44.100000] ( Rolón): Por eso le decimos, no sé, al amigo camionero, venite para acá, dice.
+[2:11:50.300000 - 2:13:01.500000] ( Rolón): Y por ahí, dentro de 20 minutos dice, ché, llámenlo, díganle que no venga, porque no tengo ganas.
+[2:14:12.700000 - 2:15:27.300000] ( Rolón): ¿Por qué hace 20 minutos querías y ahora se te fueron?
+[2:16:41.900000 - 2:18:04.600000] ( Rolón): Bueno, porque son esas distintas voces que te recorren, que te hablan, que te marcan miedos distintos, deseos diferentes.
+[2:19:27.400000 - 2:20:54.900000] ( Rolón): Entonces, cuando vos vas ahí, alguien hablaba recién de la vulnerabilidad, ¿no?
+[2:22:22.400000 - 2:23:59.100000] ( Rolón): Y en esto de ser o no ser vulnerable, uno conoce, si tiene suerte y es sincero, conoce sus vulnerabilidades.
+[2:25:35.800000 - 2:27:14] ( Rolón): Algunos las ocultan.
+[2:27:14 - 2:27:14.500000] ( SPEAKER_03):
+[2:27:14.500000 - 2:27:16.500000] ( SPEAKER_03):
+[2:27:16.500000 - 2:27:22.100000] ( Rolón): otros las exageran y las muestran como para estar a salvo ya de que me hagan...
+[2:27:27.700000 - 2:27:35.800000] ( Rolón): Si sabes que yo le tengo mucho miedo a esto, listo, ya está.
+[2:27:43.900000 - 2:27:56.900000] ( Rolón): Lo confesé, lo digo, pero cada uno de nosotros hace lo que puede con eso.
+[2:28:09.900000 - 2:28:25.900000] ( Rolón): Y yo creo que, por ejemplo...
+[2:28:25.900000 - 2:28:27.900000] ( Rolón): ¿Cómo avanza un vínculo de amor?
+[2:28:27.900000 - 2:28:29.900000] ( Rolón): Pero ¿cómo avanza de verdad? eh!
+[2:28:31.900000 - 2:28:36.460000] ( Rolón): No digo, bueno, nos conocimos, nos conocimos en una red,
+[2:28:41.020000 - 2:28:48.860000] ( Rolón): nos encontramos en un café, hace un mes que estamos hablando,
+[2:28:56.700000 - 2:29:07.420000] ( Rolón): ya nos conocemos y entonces te cuento toda mi verdad.
+[2:29:18.140000 - 2:29:31.260000] ( Rolón): No, no funciona así la vida.
+[2:29:44.380000 - 2:29:58.060000] ( Andy): ¿Cómo funciona?
+[2:30:11.740000 - 2:30:28.860000] ( Rolón): Digo, hay un momento, digo, por más que uno cree que funciona así,
+[2:30:45.980000 - 2:31:10.460000] ( Rolón): ¿sabes cuándo vos empezás a sentir que el otro puede ser un amor en vos?
+[2:31:10.460000 - 2:31:12.520000] ( SPEAKER_03): 
+[2:31:12.520000 - 2:31:17.040000] ( Rolón): cuando genuinamente le empezás a abrir la puerta a tus zonas vulnerables.
+[2:31:17.040000 - 2:31:21.680000] ( Rolón): ¿Sí? Cuando de un modo auténtico, vos abrís y decís...
+[2:31:21.680000 - 2:31:24.220000] ( Rolón): Sí, pero lo que pasa es que a mí me pasó algo, no sé si...
+[2:31:26.760000 - 2:31:30.740000] ( Rolón): Mirá, esto no se lo conté a nadie.
+[2:31:30.740000 - 2:31:35.740000] ( Rolón): O uno dice, mira, yo prefiero no hablar de esto, pero te lo voy a comentar.
+[2:31:40.740000 - 2:31:50.240000] ( Rolón): Es decir, son esas cosas, esos secretos, esas vivencias.
+[2:31:59.740000 - 2:32:15.240000] ( Rolón): ¿Quién de los que están en este lugar, en este estudio, de todos los amigos que somos acá?
+[2:32:30.740000 - 2:32:51.240000] ( Rolón): ¿Quién no guarda alguna vivencia que no le gustaría compartir con nadie?
+[2:32:51.240000 - 2:32:57.440000] ( Rolón): ¿Sí? Una vivencia que es íntima, que es dolorosa, que es vergonzante,
+[2:33:03.640000 - 2:33:13.560000] ( Rolón): que es, no sé, donde uno fue un poco cobarde,
+[2:33:23.480000 - 2:33:36.680000] ( Rolón): donde uno se sintió avasallado, lo que fuere,
+[2:33:49.880000 - 2:34:05.480000] ( Rolón): pero una vivencia que uno no tiene ganas de compartir,
+[2:34:21.080000 - 2:34:38.040000] ( Rolón): a veces ni con uno, ¿no?
+[2:34:55 - 2:35:14.840000] ( Rolón): Entonces uno trata de olvidársela, la reprime, se la olvida,
+[2:35:34.680000 - 2:35:56.280000] ( Rolón): y dice, no, mejor de eso no hablemos.
+[2:36:17.880000 - 2:36:43.920000] ( Rolón): Entonces, bueno, ese punto del amor y la confianza por el otro.
+[2:37:09.960000 - 2:37:37.280000] ( Rolón): Por ejemplo, los analistas.
+[2:37:37.280000 - 2:37:40.920000] ( Rolón): que tenemos una relación de amor con nuestros pacientes,
+[2:37:44.560000 - 2:37:50] ( Rolón): se llama amor de transferencia,
+[2:37:55.440000 - 2:38:03.080000] ( Rolón): es decir, se llama un amor que es un amor de...
+[2:38:03.080000 - 2:38:10.080000] ( Rolón): Confías en mí, o sea, sos capaz de poner tus dolores en mis manos y yo soy capaz de cuidar esos dolores y ayudarte.
+[2:38:17.080000 - 2:38:31.080000] ( Rolón): Este tipo de amor hablo, ¿no? No, no, no de un amor erótico, sexualizado, pero es una manera del amor.
+[2:38:45.080000 - 2:39:03.080000] ( Rolón): ¿Cuándo uno empieza a tener ese vínculo con el paciente? Cuando el paciente viene y te dice,
+[2:39:21.080000 - 2:39:43.080000] ( Rolón): mirá, te voy a contar algo que yo no se lo conté nunca a nadie, listo.
+[2:40:05.080000 - 2:40:31.080000] ( Rolón): Ahí se abre una puerta donde decís, esto empieza a funcionar.
+[2:40:57.080000 - 2:41:29.080000] ( Rolón): Del mismo modo pasa con las relaciones. Uno empieza a mostrar con qué cosas es vulnerable,
+[2:42:01.080000 - 2:42:39.080000] ( Rolón): a qué le tiene miedo, qué anhela, qué sueños cree que va a alcanzar, cuáles cree que son imposibles
+[2:43:17.080000 - 2:44:05.080000] ( Rolón): y empieza a escuchar la voz de ese otro y empieza a entender que este otro también pasa a ser una voz
+[2:44:53.080000 - 2:45:46.080000] ( Rolón): que va a ser mía después de un tiempo. Funciona o no funcione para siempre, ¿eh?
+[2:46:39.080000 - 2:47:38.080000] ( Rolón): Porque muchos llevamos una frase o alguien que uno podrá decir, ¿sabés qué me decía una pareja
+[2:48:37.080000 - 2:49:42.080000] ( Rolón): que alguna vez tuve? Y tirás esa frase que ahora es tuya, que te quedó recorriendo, que te lo dijo en un momento.
+[2:50:47.080000 - 2:51:57.080000] ( Rolón): Bueno, lo dejaste empezar a formar parte de las multitudes que te componen, ¿sí?
+[2:53:07.080000 - 2:54:28.080000] ( Rolón): Entonces yo creo que este es ese punto. Y bueno, y los mandatos son esas voces que a veces son maravillosas.
+[2:54:28.080000 - 2:54:31.620000] ( Rolón): Digo, porque uno escucha la palabra mandato y piensa que es algo malo.
+[2:54:35.160000 - 2:54:41.200000] ( Rolón): Pero cuando vos decís...
+[2:54:41.200000 - 2:54:44.200000] ( SPEAKER_03): 
+[2:54:44.200000 - 2:54:49.600000] ( Rolón): Mira, mi viejo o mi vieja me decían que yo tenía que seguir.
+[2:54:55 - 2:55:02.960000] ( Rolón): Cuando tenía ganas de dejar, me decían, no, no, no,
+[2:55:10.920000 - 2:55:21.440000] ( Rolón): vos no tenés que dejar, vos tenés que seguir,
+[2:55:31.960000 - 2:55:45.080000] ( Rolón): porque este es tu sueño, vos no aflojés.
+[2:55:58.200000 - 2:56:14.040000] ( Rolón): Digo, pienso, no sé, en esos momentos,
+[2:56:29.880000 - 2:56:48.920000] ( Rolón): en esa emoción que quebró al Dibu Martínez, cuando dijo,
+[2:57:07.960000 - 2:57:29.840000] ( Rolón): me acuerdo mi vieja laburando, mi viejo laburando,
+[2:57:51.720000 - 2:58:16.160000] ( Rolón): y yo que en algún momento el tipo había pensado en dejar
+[2:58:40.600000 - 2:59:08.080000] ( Rolón): porque no había un espacio para él y alguien que vino le dijo,
+[2:59:35.560000 - 3:00:05.160000] ( Rolón): no, ¿cómo vas a dejar si este es tu sueño?
+[3:00:34.800000 - 3:01:07.800000] ( Rolón): Bueno, esos son mandatos, y son mandatos que a veces
+[3:01:40.800000 - 3:02:18.200000] ( Rolón): te ayudan a recordar que sos lo que deseás
+[3:02:55.600000 - 3:03:35.280000] ( Rolón): y que tu deseo auténtico es ese.
+[3:04:14.960000 - 3:04:57.160000] ( Rolón): Y hay otros mandatos que por el contrario,
+[3:05:39.360000 - 3:06:26.920000] ( Rolón): te llenan de culpa, te llenan de miedo, te frustran,
+[3:07:14.480000 - 3:08:04.920000] ( Rolón): que vienen y te dicen, ¿en serio querés jugar al fútbol?
+[3:08:55.360000 - 3:09:48.040000] ( Rolón): ¿En serio querés bailar? ¿Vos sabés cuántos llegan?
+[3:10:40.720000 - 3:11:34.920000] ( Rolón): ¿Cuántos cantantes llegan?
+[3:12:29.120000 - 3:13:24.920000] ( Rolón): Dejáte de embromar, ¿qué vas a cantar?
+[3:14:20.720000 - 3:15:18.600000] ( Rolón): ¿Por qué vas a llegar vos?
+[3:16:16.560000 - 3:17:17.080000] ( Rolón): Entonces, bueno, con todas esas voces,
+[3:18:17.600000 - 3:19:20.760000] ( Rolón): y esto de vos no podés ser de otro equipo,
+[3:20:23.920000 - 3:21:28.840000] ( Rolón): ¿sabés qué quiere decir?
+[3:22:33.760000 - 3:23:39.640000] ( Rolón): Mira que si yo soy de otro equipo,
+[3:24:45.520000 - 3:25:52.400000] ( Rolón): yo te voy a querer menos.
+[3:25:52.400000 - 3:25:56.400000] ( Rolón): ¿Por qué? Porque te vas a parecer menos a mí.
+[3:26:00.400000 - 3:26:06.640000] ( Rolón): Y es tremendo eso.
+[3:26:12.880000 - 3:26:23.360000] ( Rolón): Es tremendo instalar en el otro que sólo va a ser querido si nos parecemos
+[3:26:33.840000 - 3:26:45.840000] ( Rolón): a esa persona.
+[3:26:57.840000 - 3:27:14.080000] ( Rolón): Porque a veces corremos el riesgo de, para ser amados, confundirnos tanto con
+[3:27:30.320000 - 3:27:47.280000] ( Rolón): el otro
+[3:28:04.240000 - 3:28:23.480000] ( Rolón): que terminamos sin saber quiénes somos nosotros de verdad.
+[3:28:23.480000 - 3:28:28.680000] ( Sofi): Es es otro tema, ¿no? La independencia o la no dependencia emocional del otro.
+[3:28:33.880000 - 3:28:43.280000] ( Sofi): ¿Hasta qué punto uno puede depender emocionalmente del otro?
+[3:28:52.680000 - 3:29:03.480000] ( Sofi): ¿Hasta qué punto es sano? ¿Hasta qué punto no?
+[3:29:03.480000 - 3:29:05.880000] ( Rolón): Mira, todos dependemos emocionalmente de alguien.
+[3:29:05.880000 - 3:29:12.480000] ( Rolón): digo, la independencia total es una compadrada de algunos que dicen
+[3:29:19.080000 - 3:29:29.480000] ( Rolón): yo no dependo de nadie, a mí no me interesa lo que diga nadie, es mentira.
+[3:29:29.480000 - 3:29:31.480000] ( Rolón): esa persona se engaña. Si?
+[3:29:34.480000 - 3:29:39.880000] ( Rolón): El punto, una cosa es que vos digas,
+[3:29:45.280000 - 3:29:53.880000] ( Rolón): mira, tuve un día tremendo, me pasó algo horrible,
+[3:30:02.480000 - 3:30:13.280000] ( Rolón): ¿sabes qué? ¿Te habrá pasado, Andy?
+[3:30:24.080000 - 3:30:37.880000] ( Rolón): No veo la hora de llegar a mi casa y que mi mujer me dé un abrazo.
+[3:30:51.680000 - 3:31:08.080000] ( Rolón): No veo la hora de abrazar a mi hija, sentarme,
+[3:31:24.480000 - 3:31:44.080000] ( Rolón): estar con mi familia. ¿Y eso qué es?
+[3:32:03.680000 - 3:32:27.680000] ( Rolón): Y sí, dependo de ellos para ser feliz,
+[3:32:51.680000 - 3:33:20.680000] ( Rolón): para sentirme contenido, para compartir una alegría.
+[3:33:49.680000 - 3:34:21.280000] ( Rolón): Mira, no veía la hora de llegar y contártelo, no?
+[3:34:52.880000 - 3:35:27.880000] ( Rolón): algo que me hace bien o algo que me hace mal.
+[3:36:02.880000 - 3:36:42.880000] ( Rolón): Algún tipo de dependencia en ese sentido hay.
+[3:37:22.880000 - 3:38:05.880000] ( Rolón): ¿Cuál es el problema?
+[3:38:48.880000 - 3:39:35.880000] ( Rolón): Cuando esa dependencia se extralimita a un punto tal
+[3:40:22.880000 - 3:41:12.480000] ( Rolón): que yo sin la aprobación del otro, sin el otro,
+[3:42:02.080000 - 3:42:53.080000] ( Rolón): siento que no puedo vivir.
+[3:43:44.080000 - 3:44:38.080000] ( Rolón): Cuando me duele de un modo tal que soy incapaz de decidir
+[3:45:32.080000 - 3:46:28.080000] ( Rolón): si el otro no me dice qué hacer.
+[3:47:24.080000 - 3:48:23.080000] ( Rolón): Cuando siento que si el otro me deja, me muero,
+[3:49:22.080000 - 3:50:23.480000] ( Rolón): que mi vida no tiene sentido si no estoy con el otro.
+[3:51:24.880000 - 3:52:29.680000] ( Rolón): En esa desmesura es donde la dependencia se hace mal.
+[3:52:29.680000 - 3:52:33.680000] ( Sofi): Sí, ahora, sin ir a ponerle a un ejemplo tan extremo.
+[3:52:37.680000 - 3:52:45.680000] ( Sofi): Pasa mucho, lo veo en mis relaciones, en mis amigos o lo que sea,
+[3:52:53.680000 - 3:53:06.680000] ( Sofi): esto de, che, está en línea no me responde un mensaje, mezcla un poco con la ansiedad también,
+[3:53:19.680000 - 3:53:34.680000] ( Sofi): quizás, pero al toque le enojo.
+[3:53:49.680000 - 3:54:08.680000] ( Sofi): No sé, por ahí, la dependencia emocional no me refiero a esto de mi vida no tiene sentido,
+[3:54:27.680000 - 3:54:48.680000] ( Sofi): pero sí que ya me pone mal humor y me cambia el día.
+[3:55:09.680000 - 3:55:32.680000] ( Sofi): Dale, ¿por qué no me respondes?
+[3:55:55.680000 - 3:56:20.680000] ( Sofi): Si estás en línea, si yo veo que estás en línea.
+[3:56:45.680000 - 3:57:17.680000] ( Sofi): No sé, como en esos pequeños detalles, no me respondió si viene conmigo a no sé dónde.
+[3:57:17.680000 - 3:57:19.680000] ( Rolón): Bueno
+[3:57:17.680000 - 3:57:19.680000] ( Andy): En una pareja directamente.
+[3:57:19.680000 - 3:57:21.680000] ( Sofi): Sí. Uy, nada, mi historia también puede ser, eh.
+[3:57:23.680000 - 3:57:26.980000] ( Sofi): Porque yo pongo mi grupo de amigos,
+[3:57:30.280000 - 3:57:35.580000] ( Sofi): che, quien está para hacer algo y nadie me responde.
+[3:57:40.880000 - 3:57:46.680000] ( Andy): Estoy mal.
+[3:57:52.480000 - 3:57:59.280000] ( Sofi): Son todos unos pelos.
+[3:58:06.080000 - 3:58:14.080000] ( Rolón): Bueno, no, ¿sabés qué?
+[3:58:14.080000 - 3:58:14.580000] ( SPEAKER_03): 
+[3:58:14.580000 - 3:58:17.580000] ( Rolón): Bueno, pero ¿sabes qué pasa, Sofí?
+[3:58:20.580000 - 3:58:28.580000] ( Rolón): El intercambio con los demás, digo, la vida en general,
+[3:58:36.580000 - 3:58:48.580000] ( Rolón): puede provocarte muchas sensaciones, siempre.
+[3:59:00.580000 - 3:59:15.580000] ( Rolón): De vez en cuando la vida nos besa en la boca, dice Serrat,
+[3:59:30.580000 - 3:59:50.580000] ( Rolón): y de vez en cuando nos encontramos sin saber qué pasa, dice sobre el final,
+[4:00:10.580000 - 4:00:32.580000] ( Rolón): como están los extremos.
+[4:00:54.580000 - 4:01:20.580000] ( Rolón): Una de esas cosas que la vida te puede generar es frustración.
+[4:01:20.580000 - 4:01:23.980000] ( Rolón): Yo digo, Che, chicos, ¿quién sale conmigo hoy?
+[4:01:27.380000 - 4:01:31.940000] ( Rolón): Que estoy solo.
+[4:01:31.940000 - 4:01:35.660000] ( Rolón): no me responde nadie, o sea, somos 14 en el grupo,
+[4:01:39.380000 - 4:01:44.940000] ( Rolón): ninguno de los otros 13 tiene...
+[4:01:50.500000 - 4:01:57.660000] ( Rolón): nadie me responde.
+[4:02:04.820000 - 4:02:15.460000] ( Rolón): Bueno, te frustra, ¿sí?
+[4:02:26.100000 - 4:02:39.860000] ( Rolón): ¿Por qué? Porque la frustración es
+[4:02:53.620000 - 4:03:09.580000] ( Rolón): una emoción que aparece cuando a vos no te dan algo
+[4:03:25.540000 - 4:03:43.740000] ( Rolón): que vos creés que te mereces.
+[4:04:01.940000 - 4:04:21.460000] ( Rolón): Esa es la frustración.
+[4:04:40.980000 - 4:05:04.500000] ( Rolón): ¿Sí? Yo creo que me merezco un mejor horario en la radio,
+[4:05:28.020000 - 4:05:53.260000] ( Rolón): creo que me merezco un mejor sueldo,
+[4:06:18.500000 - 4:06:46.740000] ( Rolón): creo que me merezco que alguien me elija como pareja,
+[4:07:14.980000 - 4:07:45.620000] ( Rolón): creo que me merezco que mis amigos me respondan.
+[4:08:16.260000 - 4:08:49.700000] ( Rolón): O sea, yo creo que me merezco algo y no me lo dan.
+[4:09:23.140000 - 4:10:01.140000] ( Rolón): Entonces aparece una emoción que se llama frustración, ¿sí?
+[4:10:39.140000 - 4:11:18.500000] ( Rolón): ¿Y sabes qué genera la frustración?
+[4:11:57.860000 - 4:12:38.220000] ( Rolón): Enojo.
+[4:12:38.220000 - 4:12:39.220000] ( SPEAKER_03): .
+[4:12:39.220000 - 4:12:40.020000] ( Sofi): No lo puedo controlar.
+[4:12:40.820000 - 4:12:42.120000] ( Rolón): Enojo.
+[4:12:43.920000 - 4:12:46.220000] ( Rolón): Enojo.
+[4:12:46.220000 - 4:12:51.020000] ( Rolón): Hay situaciones que no te frustran, te duelen, te generan un dolor.
+[4:12:55.820000 - 4:13:03.620000] ( Rolón): La frustración no genera dolor, genera enojo. Si?
+[4:13:11.420000 - 4:13:22.620000] ( Rolón): Entonces vos decís, esto es una manga de salame, ¿qué hacen acá?
+[4:13:33.820000 - 4:13:47.420000] ( Rolón): Mirá, ¿sabes qué? Me voy del grupo, dice uno.
+[4:14:01.020000 - 4:14:16.820000] ( Rolón): Entonces uno dice, che, ¿qué pasó con Sofi que se fue?
+[4:14:32.620000 - 4:14:51.020000] ( Rolón): Listo, seguramente a las 3 horas alguien la llama y vuelve.
+[4:15:09.420000 - 4:15:29.220000] ( Andy): ¿Cómo lo manejas?
+[4:15:49.020000 - 4:16:18.420000] ( Rolón): Bueno, ahí hay que ser muy, muy, muy rápido, digo, mentalmente, conocerse.
+[4:16:47.820000 - 4:17:20.820000] ( Rolón): Es todo un laburo, Andy, ¿por qué? Porque la emoción es más rápida que el pensamiento.
+[4:17:20.820000 - 4:17:22.820000] ( SPEAKER_03): 
+[4:17:22.820000 - 4:17:24.460000] ( Rolón): Yo digo algo que no te gusta.
+[4:17:24.460000 - 4:17:25.660000] ( Eve): lo siento en mi cuerpo.
+[4:17:25.660000 - 4:17:29.140000] ( Rolón): No, yo digo o hago un comentario, por ahí, sin mala intención,
+[4:17:32.620000 - 4:17:37.980000] ( Rolón): que a Eve le cae mal.
+[4:17:43.340000 - 4:17:52.740000] ( Rolón): Eve lo siente y se queda mal conmigo.
+[4:18:02.140000 - 4:18:14.180000] ( Rolón): Después, cuando lo piensa, puede decir, no, che...
+[4:18:14.180000 - 4:18:15.180000] ( Rolón): A ver...
+[4:18:15.180000 - 4:18:24.680000] ( Rolón): Gaby no lo dijo para lastimarme seguramente, pero es todo un proceso racional mientras que la emoción te pega en el momento uno.
+[4:18:34.180000 - 4:18:47.680000] ( SPEAKER_04): La emoción es como el deseo, ¿no?
+[4:18:47.680000 - 4:18:48.800000] ( SPEAKER_03):
+[4:18:48.800000 - 4:18:49.640000] ( SPEAKER_03):
+[4:18:49.640000 - 4:18:55.140000] ( SPEAKER_03):
+[4:18:55.140000 - 4:18:57.140000] ( Andy): Pasa eso
+[4:18:59.140000 - 4:19:06.140000] ( Andy): De sentirte rechazado, de sentirte que no te tienen en cuenta
+[4:19:13.140000 - 4:19:22.140000] ( Andy): porque las redes sociales, es un poco eso.
+[4:19:31.140000 - 4:19:43.140000] ( Andy): No me pusieron like a esto, no me aceptaron, no me dijeron,
+[4:19:55.140000 - 4:20:11.140000] ( Andy): no me meten comentarios, vi que el otro está con el otro
+[4:20:27.140000 - 4:20:45.140000] ( Andy): en tal lugar y no me llamaron.
+[4:21:03.140000 - 4:21:24.140000] ( Andy): Es frustrante casi todo el tiempo las redes sociales.
+[4:21:45.140000 - 4:22:07.140000] ( Rolón): Sí, claro.
+[4:22:07.140000 - 4:22:10.580000] ( Rolón): Claro. Es más, viste que uno estaba contento y dice,
+[4:22:14.020000 - 4:22:20.500000] ( Rolón): ¿viste cuántos likes tuvo lo que dije?
+[4:22:26.980000 - 4:22:36.700000] ( Rolón): Es como, viste, una cosa maravillosa y, che,
+[4:22:46.420000 - 4:22:57.780000] ( Rolón): al final no gustó lo que subí.
+[4:23:09.140000 - 4:23:22.220000] ( Rolón): Viste, no, nada.
+[4:23:35.300000 - 4:23:51.780000] ( Rolón): Sentís esa desaprobación de los demás, ¿no?
+[4:24:08.260000 - 4:24:25.740000] ( Sofi): Sí, sí.
+[4:24:43.220000 - 4:25:01.700000] ( Rolón): Todo el tiempo.
+[4:25:20.180000 - 4:25:40.740000] ( Rolón): Bueno, y eso obvio que te frustra.
+[4:26:01.300000 - 4:26:24.660000] ( Rolón): O sea, te frustra hasta el punto tal de obnubilarte.
+[4:26:48.020000 - 4:27:14.500000] ( Rolón): Digo, si de verdad tuviste mil comentarios maravillosos y
+[4:27:40.980000 - 4:28:11.340000] ( Rolón): el mil uno es feo te fruta, te quedas con ese.
+[4:28:11.340000 - 4:28:12.180000] ( SPEAKER_03): 
+[4:28:12.180000 - 4:28:20.180000] ( Rolón): Y el que no se expone, no se frustra. Exponerse puede ser frustrante también.
+[4:28:28.180000 - 4:28:42.180000] ( Rolón): Porque si yo no me expongo y no propongo nada, nadie me va a rechazar.
+[4:28:56.180000 - 4:29:15.180000] ( Rolón): Si yo no digo nada, tiro un chiste, no tiro chiste, nadie se va a reír.
+[4:29:34.180000 - 4:29:55.180000] ( Rolón): Osea, no está ni la rechazo, no me expongo.
+[4:30:16.180000 - 4:30:39.180000] ( Sofi): Listo, no me expongo más.
+[4:31:02.180000 - 4:31:27.180000] ( Andy): Listo, chau. Pero no vivo tampoco.
+[4:31:27.180000 - 4:31:27.680000] ( SPEAKER_03): 
+[4:31:27.680000 - 4:31:29.760000] ( SPEAKER_03):
+[4:31:29.760000 - 4:31:31.760000] ( SPEAKER_03):
+[4:31:31.760000 - 4:31:32.760000] ( Rolón): Claro, lo que pasa...
+[4:31:33.760000 - 4:31:35.760000] ( SPEAKER_04): 
+[4:31:37.760000 - 4:31:41.760000] ( Rolón): Por eso es difícil retirarse de la vida, ¿no?
+[4:31:45.760000 - 4:31:51.760000] ( Rolón): O sea, porque es eso.
+[4:31:57.760000 - 4:32:05.760000] ( Rolón): Es decir, A ver, vivir es estar expuesto.
+[4:32:05.760000 - 4:32:06.260000] ( SPEAKER_03): 
+[4:32:06.260000 - 4:32:09.820000] ( Rolón): Estás expuesto a enamorarte, por ejemplo.
+[4:32:09.820000 - 4:32:11.880000] ( SPEAKER_03):
+[4:32:11.880000 - 4:32:13.880000] ( Rolón): y el amor es exponerte a sufrir.
+[4:32:13.880000 - 4:32:16.320000] ( Rolón): ¿No te querés exponer a ese sufrimiento?
+[4:32:18.760000 - 4:32:23.200000] ( Rolón): Bueno, listo, yo no me enamoro de nadie.
+[4:32:27.640000 - 4:32:33.280000] ( Rolón): Yo no salgo con nadie.
+[4:32:38.920000 - 4:32:46.840000] ( Rolón): A mí no me gustan las relaciones serias, dice alguien.
+[4:32:54.760000 - 4:33:04.800000] ( Rolón): No, ¿sabés qué? Yo a esta altura ya está.
+[4:33:14.840000 - 4:33:26.040000] ( Rolón): Yo no me quiero comprometer.
+[4:33:37.240000 - 4:33:50.280000] ( Rolón): Tenés miedo a veces.
+[4:33:50.280000 - 4:33:52.280000] ( SPEAKER_03): 
+[4:33:52.280000 - 4:33:54.520000] ( Rolón): Entiendo que a veces alguien pueda decir genuinamente,
+[4:33:56.760000 - 4:34:00.800000] ( Rolón): mira, no es mi momento para estar con alguien.
+[4:34:04.840000 - 4:34:12.440000] ( Rolón): Pero a veces, todo ese, no, yo hace como 5 o 6 años que no salgo con...
+[4:34:20.040000 - 4:34:29.840000] ( Rolón): ¿Sabés lo que pasa? Que estoy tan bien...
+[4:34:39.640000 - 4:34:51.560000] ( Rolón): Yo te juro que muchas veces, no digo todos,
+[4:35:03.480000 - 4:35:17.800000] ( Rolón): pero muchas veces eso esconde un miedo.
+[4:35:32.120000 - 4:35:49.240000] ( Rolón): Un miedo a qué? A la vulnerabilidad que te genera el amor.
+[4:35:49.240000 - 4:35:51.240000] ( Rolón): a eso que 
+[4:35:49.240000 - 4:35:51.240000] ( Sofi): Es que estas muy vulnerable eh!.
+[4:35:53.240000 - 4:36:01.240000] ( Rolón): Claro, es que a partir de ahora, con vos, lo que me haga me va a doler potencialmente.
+[4:36:09.240000 - 4:36:19.240000] ( Rolón): No tengo ganas, dice uno.
+[4:36:29.240000 - 4:36:41.240000] ( Rolón): No quiero pasar por ese...
+[4:36:53.240000 - 4:37:09.240000] ( Rolón): Me decía un amigo que había sufrido mucho por amor,
+[4:37:25.240000 - 4:37:43.240000] ( Rolón): estaba conociendo a alguien y me dice,
+[4:38:01.240000 - 4:38:21.240000] ( Rolón): yo cuando veo que me pasa algo, ya interrumpo.
+[4:38:41.240000 - 4:39:03.240000] ( Rolón): Le digo, ¿por qué?
+[4:39:25.240000 - 4:39:49.240000] ( Rolón): Porque ya estuve ahí.
+[4:39:49.240000 - 4:39:50.080000] ( SPEAKER_03):
+[4:39:50.080000 - 4:39:51.620000] ( SPEAKER_03): 
+[4:39:51.620000 - 4:39:55.300000] ( Rolón): Ya estuve en el amor y ¿sabes qué? No me gustó lo que se siente.
+[4:39:58.980000 - 4:40:09.260000] ( Rolón): ¿No? Como una situación de mucho... Claro, porque sentís incertidumbre, temor,
+[4:40:19.540000 - 4:40:32.420000] ( Rolón): discutís, falta de aprobación.
+[4:40:45.300000 - 4:41:00.500000] ( Rolón): Vos dijiste algo y te das cuenta que tu pareja te dice,
+[4:41:15.700000 - 4:41:33.420000] ( Rolón): bueno, ¿sabes qué? Mejor hablemos luego después cuando llegues a casa.
+[4:41:51.140000 - 4:42:10.860000] ( Rolón): Ya está, te quedaste todo el día mal.
+[4:42:10.860000 - 4:42:16.360000] ( SPEAKER_03):
+[4:42:16.360000 - 4:42:18.360000] ( Sofi): Esa es la dependencia emocional. No?
+[4:42:18.360000 - 4:42:24.360000] ( Rolón): Bueno, porque tiene que ver con qué tu emoción es afectada por lo que le pasa al otro.
+[4:42:30.360000 - 4:42:38.360000] ( Rolón): Pero estos son los riesgos de estar vivo.
+[4:42:46.360000 - 4:42:58.360000] ( Rolón): Y en la vida todo el tiempo alguien nos aprueba y alguien nos desaprueba.
+[4:43:10.360000 - 4:43:25.360000] ( Rolón): Yo me imagino que debe ser muy frustrante.
+[4:43:40.360000 - 4:44:02.360000] ( Rolón): No es mi caso, pero quien entra a estos sitios de redes, no los conozco bien,
+[4:44:24.360000 - 4:44:52.360000] ( Rolón): pero cuando vos le mandás un intento de contacto a alguien, sea como fuere,
+[4:45:20.360000 - 4:45:50.360000] ( Rolón): y el otro no te responde.
+[4:46:20.360000 - 4:46:55.360000] ( Rolón): O cuando te responde y después de hablar tres minutos te bajas la cortina y desapareces.
+[4:47:30.360000 - 4:48:08.360000] ( Rolón): Debe generar esa frustración. O no?
+[4:48:08.360000 - 4:48:08.860000] ( SPEAKER_03):
+[4:48:08.860000 - 4:48:10.860000] ( SPEAKER_03): 
+[4:48:12.860000 - 4:48:20.860000] ( Eve): El otro día, creo, para lo conté recién? dentro de eso dije que volví a las aplicaciones de cita,
+[4:48:28.860000 - 4:48:42.860000] ( Eve): quería chusmear que había por ahí, y con uno hicimos, hubo coincidencia,
+[4:48:56.860000 - 4:49:14.860000] ( Eve): entonces podes empezar una conversación, la conversación duró 10 minutos,
+[4:49:32.860000 - 4:49:54.860000] ( Eve): y por algún motivo que desconozco, no, en realidad se fue por...
+[4:50:16.860000 - 4:50:44.860000] ( Eve): él canceló esa coincidencia, y hubo un segundo que dije, ¡oh!
+[4:51:12.860000 - 4:51:42.860000] ( Eve): Y después dije, bueno, ya está.
+[4:52:12.860000 - 4:52:48.860000] ( Eve): Pero sentí ese rechazo, dije, ¡wow! No le gusté, y fue muy obvio,
+[4:53:24.860000 - 4:54:04.860000] ( Eve): porque en otros casos quizás alguien no te presta atención o directamente ni aparece.
+[4:54:44.860000 - 4:55:26.860000] ( Eve): Acá hubo algo y se fue.
+[4:56:08.860000 - 4:56:52.860000] ( Eve): ¿Qué es esto que estabas diciendo vos?
+[4:56:52.860000 - 4:56:54.860000] ( SPEAKER_03): 
+[4:56:54.860000 - 4:56:56.860000] ( Rolón): Lo que pasa es que...
+[4:56:56.860000 - 4:57:03.360000] ( Rolón): El peor dolor que puede experimentar alguien emocional, ¿no?
+[4:57:09.860000 - 4:57:19.160000] ( Rolón): Es el dolor que se siente ante la indiferencia.
+[4:57:19.160000 - 4:57:22.160000] ( SPEAKER_03): 
+[4:57:22.160000 - 4:57:27.160000] ( Rolón): ante esta sensación de no ser nada para el otro.
+[4:57:27.160000 - 4:57:29.160000] ( SPEAKER_03): 
+[4:57:31.160000 - 4:57:36.160000] ( Andy): Tiene que ver con lo que habías planteado de Leo.
+[4:57:41.160000 - 4:57:48.160000] ( Andy): ¿Por qué a mí, Coso?
+[4:57:48.160000 - 4:57:54.160000] ( Rolón): Claro, claro, bueno, entonces a veces uno se protege de la indiferencia y se excluye, se queda fuera.
+[4:58:00.160000 - 4:58:06.660000] ( Andy): Solo.
+[4:58:13.160000 - 4:58:23.160000] ( Rolón): Viste, claro, como vos decís, bueno, soy el más tronco, entonces cuando van a hacer el pan y queso digo,
+[4:58:33.160000 - 4:58:49.160000] ( Rolón): che, yo no juego, porque sé que me van a elegir último y no quiero comerme ese dolor de saber que siempre,
+[4:59:05.160000 - 4:59:24.160000] ( Rolón): bueno, está bien, usted tiene uno más, pero llévatelo a Rolón.
+[4:59:43.160000 - 5:00:05.660000] ( Rolón): Claro, viste, como diciendo, total, este es uno menos, ¿no?
+[5:00:28.160000 - 5:00:58.660000] ( Rolón): Pero digo, es esa indiferencia que a veces hay que concientizar para no cometer con los demás.
+[5:00:58.660000 - 5:01:00.660000] ( SPEAKER_03): 
+[5:01:00.660000 - 5:01:02.660000] ( SPEAKER_03): 
+[5:01:02.660000 - 5:01:04.660000] ( Rolón): Es esa indiferencia a la que nos acostumbramos.
+[5:01:04.660000 - 5:01:06.060000] ( Rolón): de ver que...
+[5:01:06.060000 - 5:01:12.460000] ( Rolón): un pibe pasa cuando están los coches estacionados pidiendo una moneda
+[5:01:18.860000 - 5:01:28.760000] ( Rolón): y uno sigue conversando y no quiere ni mirarlo.
+[5:01:38.660000 - 5:01:52.260000] ( Rolón): Es esa indiferencia que nos genera ahora ya cuando alguien está durmiendo en la calle
+[5:02:05.860000 - 5:02:20.860000] ( Rolón): y uno pasa como si nada.
+[5:02:35.860000 - 5:02:54.860000] ( Rolón): Digo, eso es lo que duele, eso es lo que lastima, eso es lo que excluye,
+[5:03:13.860000 - 5:03:41.460000] ( Rolón): eso es lo que nos, como género, nos vuelve seres difíciles, complejos.
+[5:04:09.060000 - 5:04:41.160000] ( Rolón): Que es el hecho de tener una mirada indiferente sobre el dolor de los demás.
+[5:05:13.260000 - 5:05:50.860000] ( Rolón): A veces, y yo creo que todo el mundo merece el respeto, con justo derecho,
+[5:06:28.460000 - 5:07:10.560000] ( Rolón): si yo te digo, si estamos en una red Eve, y a los diez minutos digo,
+[5:07:52.660000 - 5:08:40.760000] ( Rolón): Eve, no te enojes, pero estamos yendo para un lado que me parece que no era lo que yo quería,
+[5:09:28.860000 - 5:10:22.460000] ( Rolón): igual, gracias, me encantó charlar con vos, pero dejemos acá, ¿te parece?
+[5:11:16.060000 - 5:12:14.660000] ( Rolón): Listo, a vos por ahí no te va a gustar lo que digo, pero no es lo mismo que vos me pones una pregunta
+[5:13:13.260000 - 5:14:13.860000] ( Rolón): y yo desaparezca de la nada.
+[5:15:14.460000 - 5:16:21.060000] ( Rolón): Porque por lo menos te ganaste el derecho a que yo te dijera, mira, yo quería, iba por otro lado
+[5:17:27.660000 - 5:18:37.260000] ( Rolón): y veo que no estamos buscando lo mismo.
+[5:19:46.860000 - 5:21:01.960000] ( Rolón): Entonces yo creo que esa sensación la tenemos cada vez que salimos a la vida,
+[5:22:17.060000 - 5:23:34.660000] ( Rolón): la tenemos cada vez nosotros que enfrentamos un micrófono.
+[5:24:52.260000 - 5:26:12.360000] ( Rolón): ¿Cómo saldrá hoy? ¿Nos aprobarán? ¿No nos aprobarán?
+[5:27:32.460000 - 5:28:54.560000] ( Rolón): ¿Dirán que estuvo el programa bueno? ¿Dirán que estuvo malo?
+[5:30:16.660000 - 5:31:40.760000] ( Rolón): ¿Nos citarán? ¿No nos levantará nadie?
+[5:33:04.860000 - 5:34:35.460000] ( Rolón): O sea, todos enfrentamos a nuestra manera y en su escala el desafío de ser aprobados por la vida.
+[5:36:06.060000 - 5:37:41.660000] ( Rolón): Entonces, hay que vivir sabiendo que esto es parte de la vida,
+[5:39:17.260000 - 5:40:56.860000] ( Rolón): que es necesario el reconocimiento de los demás para estar bien,
+[5:42:36.460000 - 5:44:21.060000] ( Rolón): pero que no puede ser esa necesidad de reconocimiento tan excesiva,
+[5:46:05.660000 - 5:47:54.760000] ( Rolón): digamos que nuestro deseo quede opacado simplemente porque a otro no le gusta lo que deseamos.
+[5:47:54.760000 - 5:47:55.260000] ( SPEAKER_03):
+[5:47:55.260000 - 5:48:00.260000] ( SPEAKER_03): 
+[5:48:00.260000 - 5:48:02.260000] ( SPEAKER_03): 
+[5:48:02.260000 - 5:48:02.940000] ( SPEAKER_03): 
+[5:48:02.940000 - 5:48:05] ( SPEAKER_03):
+[5:48:05 - 5:48:07.060000] ( SPEAKER_03):
+[5:48:07.060000 - 5:48:11.080000] ( Sofi): Claro, para mí a veces pasa esto de, bueno, cuando te animás,
+[5:48:15.100000 - 5:48:21.400000] ( Sofi): das el paso, estás con alguien, ponele, ¿no?
+[5:48:27.700000 - 5:48:36.820000] ( Sofi): Venciste esas inseguridades que te hacían sentir que nadie te
+[5:48:45.940000 - 5:48:57.580000] ( Sofi): iba a ver o, bueno, finalmente fuiste visto por alguien,
+[5:49:09.220000 - 5:49:21.980000] ( Sofi): gustaste, bien.
+[5:49:34.740000 - 5:49:48.300000] ( Sofi): Estás con alguien.
+[5:50:01.860000 - 5:50:17.740000] ( Sofi): Después viene la inseguridad propia de la relación,
+[5:50:33.620000 - 5:50:51.980000] ( Sofi): de decir, estás enganchado y qué suerte,
+[5:51:10.340000 - 5:51:31.420000] ( Sofi): pero va a pasar una y probablemente te vayas con la
+[5:51:52.500000 - 5:52:14.340000] ( Sofi): otra.
+[5:52:36.180000 - 5:52:59.820000] ( Sofi): No, me parece que un poco todos tenemos eso.
+[5:53:23.460000 - 5:53:50.220000] (Sofi): En una medida es sano, no sé, me pregunto yo.
+[5:54:16.980000 - 5:54:46.860000] ( Sofi): Y en otra puede llegar a ser realmente muy doloroso.
+[5:55:16.740000 - 5:55:49.380000] ( Sofi): Si uno vive con ese sentimiento.
+[5:55:49.380000 - 5:55:54.980000] ( Rolón): Una cosa es vivir con ese sentimiento y otra cosa es vivir con ese conocimiento,
+[5:56:00.580000 - 5:56:07.580000] ( Rolón): que no es lo mismo.
+[5:56:14.580000 - 5:56:23.580000] ( Rolón): Digo, entender que...
+[5:56:23.580000 - 5:56:26.940000] ( Rolón): tranquilamente la persona con la que está se puede ir con otra persona.
+[5:56:26.940000 - 5:56:30.940000] ( Rolón): Digo, es algo que nos puede pasar a cualquiera y en cualquier momento.
+[5:56:34.940000 - 5:56:41.640000] ( Rolón): Y entenderlo es interesante, ¿por qué?
+[5:56:48.340000 - 5:57:00.040000] ( Rolón): Porque te saca del mundo de la ilusa seguridad.
+[5:57:00.040000 - 5:57:02.340000] ( Rolón): te saca de la idea de que yo ya no tengo que hacer mucho,
+[5:57:04.640000 - 5:57:07.940000] ( Rolón): si ya está conmigo.
+[5:57:07.940000 - 5:57:11.940000] ( Rolón): Ya está, ya vive conmigo, ya nos casamos, sea cual fuere la historia de cada quien. No?
+[5:57:15.940000 - 5:57:23.220000] ( Rolón): Pero ya está, listo, sí, estamos en pareja, vamos para adelante.
+[5:57:23.220000 - 5:57:24.220000] ( Rolón): este no.
+[5:57:25.220000 - 5:57:29.020000] ( Andy): ¿Das por sentado que ya está, que eso no va a pasar?
+[5:57:29.020000 - 5:57:31.020000] ( Rolón): Claro, no, sí, porque no va a pasar. Puede pasar.
+[5:57:31.020000 - 5:57:33.020000] ( SPEAKER_03):
+[5:57:33.020000 - 5:57:36.100000] ( Andy): Porque, por ahí, la persona, En la foto de hoy, la verdad, no ves nada que pase.
+[5:57:39.180000 - 5:57:44.420000] ( Andy): Y mañana conoció a alguien y puede pasar.
+[5:57:49.660000 - 5:57:57.100000] ( Andy): ¿Qué sé yo? Como vos podés conocer a alguien, como todos,
+[5:58:04.540000 - 5:58:13.300000] ( Andy): podemos, no se, puede pasar.
+[5:58:22.060000 - 5:58:35.020000] ( Andy): Lo que pasa es que para mí generalmente es como hay algo,
+[5:58:47.980000 - 5:59:03.860000] ( Andy): si vos tenés algo que decis, sí, sigo,
+[5:59:19.740000 - 5:59:37.020000] ( Andy): que en realidad no estás feliz.
+[5:59:37.020000 - 5:59:40.380000] ( Andy): es mucho más fácil que te entre alguien de afuera y te enamore.
+[5:59:43.740000 - 5:59:49.820000] ( Andy): Si vos estás bien, estás al día, estás bien, es más difícil.
+[5:59:55.900000 - 6:00:04.060000] ( Andy): Te puede atraer otras personas,
+[6:00:12.220000 - 6:00:24.140000] ( Andy): puede venir una persona super carismática, no sé qué, te genera un deseo.
+[6:00:36.060000 - 6:00:51.340000] ( Andy): Pero vos estás bien, entonces no te pone tan en duda, pienso yo, eh!
+[6:01:06.620000 - 6:01:23.900000] ( Andy): aca este el especialista. Yo creo que...
+[6:01:23.900000 - 6:01:25.900000] ( SPEAKER_03): 
+[6:01:25.900000 - 6:01:30.220000] ( Andy): Las dudas, el agua entra cuando la gotera aparece,
+[6:01:34.860000 - 6:01:43.820000] ( Andy): cuando ya hay una rajadura que ni la viste y ahí entonces la gotera llega al techo.
+[6:01:52.860000 - 6:02:03.620000] ( Andy): Si hay un buen, ¿cómo se llama?
+[6:01:52.860000 - 6:02:03.620000] ( Sofi): Enduido?
+[6:02:14.380000 - 6:02:27.540000] ( Rolón): Una buena losa.
+[6:02:40.700000 - 6:02:57.260000] ( Andy): Aislante y puede llover, pero no te entra la gota.
+[6:02:57.260000 - 6:02:58.660000] ( SPEAKER_03):
+[6:03:00.060000 - 6:03:02.980000] ( SPEAKER_04):
+[6:03:02.980000 - 6:03:03.360000] ( SPEAKER_03):
+[6:03:03.360000 - 6:03:06.520000] ( Rolón): Mirá, se hace más difícil, siempre puede aparecer un tsunami.
+[6:03:09.680000 - 6:03:13.840000] ( Andy): Bueno, bueno.
+[6:03:18 - 6:03:26.640000] ( Rolón): Que te tira todas las ventanas al diablo y vos decis me llevo puesta.
+[6:03:35.280000 - 6:03:46.400000] ( Rolón): Y está bueno saber que puede pasar esto.
+[6:03:57.520000 - 6:04:14.960000] ( Rolón): Pero no para vivir angustiado y atemorizado, sino simplemente para estar atento
+[6:04:32.400000 - 6:04:56] ( Rolón): y siguiendo tu metáfora, cada tanto decir, ché, está bien, las ventanas están bien aseguradas,
+[6:05:19.600000 - 6:05:46.960000] ( Rolón): el aislante del techo está bien, cómo venimos con esto.
+[6:06:14.480000 - 6:06:48.320000] ( Rolón): Quiero decir, trabajar, ser conscientes de que el otro está, no por una obligación,
+[6:07:22.160000 - 6:07:58.960000] ( Rolón): no para siempre, entonces, ¿qué es lo que uno intenta?
+[6:08:35.760000 - 6:09:15.040000] ( Rolón): Es fortalecer todo el tiempo el vínculo.
+[6:09:54.320000 - 6:10:34.600000] ( Rolón): ¿Por qué?
+[6:11:14.880000 - 6:11:58.800000] ( Rolón): Porque algunos vientos van a tener que aguantarse esa casa que tenemos.
+[6:12:42.720000 - 6:13:29.760000] ( Rolón): Y para que lo aguante, nosotros tenemos que sostenerla.
+[6:13:29.760000 - 6:13:31] ( Andy): Como viene de humedad tu relación?
+[6:13:31 - 6:13:35] ( Sofi): No, viene bien. Yo hablo mucho también por lo que veo con mis amigas,
+[6:13:39 - 6:13:44.800000] ( Sofi): lo que les ha pasado y demás.
+[6:13:50.600000 - 6:13:59.400000] ( Sofi): Siento como que en esta generación, vos recién decías,
+[6:14:08.200000 - 6:14:19.800000] ( Sofi): uno da por hecho como que la relación va a seguir.
+[6:14:31.400000 - 6:14:45] ( Sofi): Creo que por ahí lo que me toca ver a mí,
+[6:14:58.600000 - 6:15:14] ( Sofi): uno da por hecho que en algún momento se va a terminar
+[6:15:29.400000 - 6:15:47.200000] ( Sofi): porque es al revés, ¿entendés?
+[6:16:05 - 6:16:26.400000] ( Sofi): Como que alguien en definitiva va a aparecer y todo.
+[6:16:47.800000 - 6:17:13] ( Sofi): Porque hay algo para mí, esto del amor para toda la vida ya como no existe,
+[6:17:38.200000 - 6:18:07.400000] ( Sofi): esa concepción no lo tiene tan presente, ni siquiera por ahí lo quiere.
+[6:18:37.400000 - 6:19:08.400000] ( Sofi): Entonces...
+[6:19:08.400000 - 6:19:08.900000] ( SPEAKER_03): 
+[6:19:08.900000 - 6:19:09.900000] ( Andy): Te da miedo.
+[6:19:10.900000 - 6:19:17.340000] ( Sofi): Creo que estar en una relación es para valientes en definitiva, esto de la vulnerabilidad.
+[6:19:23.780000 - 6:19:35.380000] ( Sofi): Porque en definitiva tarde o temprano alguien va a aparecer que me va a pasar a mí o le
+[6:19:46.980000 - 6:20:01.980000] ( Sofi): va a pasar a él o lo que sea, pero la relación como que se va a terminar.
+[6:20:16.980000 - 6:20:32.980000] ( Sofi): ¿No?
+[6:20:48.980000 - 6:21:05.980000] ( Sofi): ¿A vos no te pasa?
+[6:21:22.980000 - 6:21:40] ( Rolón): El problema... no, no.
+[6:21:40 - 6:21:40.840000] ( SPEAKER_03):
+[6:21:40.840000 - 6:21:43.920000] ( Rolón): El problema es la certeza, Sofi.
+[6:21:43.920000 - 6:21:47.920000] ( Andy): No, no, para para, a mí no me pasa, pero no tengo idea que me va a pasar.
+[6:21:51.920000 - 6:21:58.920000] ( Andy): No tengo idea, yo no digo como, no, a mí no me va a pasar. Como no se que
+[6:22:05.920000 - 6:22:14.920000] ( Andy): No, no pienso en eso.
+[6:22:23.920000 - 6:22:34.920000] ( Andy): No pienso en eso.
+[6:22:34.920000 - 6:22:38.920000] ( Sofi): pero fijate.
+[6:22:38.920000 - 6:22:40.920000] ( SPEAKER_03): 
+[6:22:42.920000 - 6:22:50.920000] ( Eve): Pero yo creo, cada vez que veo una pareja, siento que en algún momento esa relación, a la larga o a la corta, se va a terminar.
+[6:22:58.920000 - 6:23:07.920000] ( Sofi): Exacto.
+[6:23:16.920000 - 6:23:26.920000] ( Sofi): Nada es para siempre. Viste?
+[6:23:26.920000 - 6:23:30.920000] ( Rolón): Bueno, pero el problema es la certeza, insisto, ¿no?
+[6:23:34.920000 - 6:23:43.920000] ( Rolón): Es tan problemática la certeza de esto no se va a terminar nunca,
+[6:23:52.920000 - 6:24:04.920000] ( Rolón): como la certeza de y si igual se va a terminar.
+[6:24:16.920000 - 6:24:32.920000] ( Rolón): ¿Sabes por qué? Porque uno no tiene idea de lo que le va a pasar en la vida.
+[6:24:48.920000 - 6:25:10.920000] ( Rolón): Y justamente si algo tiene de mágico estar en este lugar transitando la vida,
+[6:25:32.920000 - 6:25:56.920000] ( Rolón): es la incertidumbre en algún punto.
+[6:25:56.920000 - 6:25:57.920000] ( SPEAKER_03): 
+[6:25:58.920000 - 6:26:00.920000] ( SPEAKER_04): 
+[6:26:00.920000 - 6:26:01.420000] ( SPEAKER_03): 
+[6:26:01.420000 - 6:26:04.720000] ( SPEAKER_03): 
+[6:26:08.020000 - 6:26:14.320000] ( Andy): Pero esa incertidumbre cuando lo ponés como, se va a terminar, es el miedo.
+[6:26:20.620000 - 6:26:28.920000] ( Andy): Y bueno, sí, en algún momento se va a terminar.
+[6:26:37.220000 - 6:26:49.020000] ( Andy): Porque en vez de apostar más, digo, bueno, pero igual se va a terminar.
+[6:27:00.820000 - 6:27:14.120000] ( Andy): En vez de darlo todo.
+[6:27:27.420000 - 6:27:46.420000] ( Andy): Porque si lo das todo, y la otra persona después no quiere estar con vos, te vas a sentir muy mal.
+[6:28:05.420000 - 6:28:28.220000] ( Andy): Entonces sabes que, hablo con miedo, no doy todo, porque se va a terminar.
+[6:28:51.020000 - 6:29:14.820000] ( Andy): Y bueno, hasta acá.
+[6:29:14.820000 - 6:29:16.820000] ( SPEAKER_03): y bueno, hasta acá.
+[6:29:16.820000 - 6:29:18.820000] ( Sofi): ¿Para qué lo vas a dar todo si en definitiva
+[6:29:20.820000 - 6:29:23.820000] ( Sofi): ¿Entendés?
+[6:29:26.820000 - 6:29:32.820000] ( Sofi): Porque por ahi vas a ir a fondo y se termina cuando estás en el pico.
+[6:29:38.820000 - 6:29:45.820000] ( Eve): Dale todo porque solo terminar igual.
+[6:29:52.820000 - 6:30:00.820000] ( Andy): Sofía.
+[6:30:08.820000 - 6:30:20.820000] ( Sofi): No, no. Viste cómo dice Tini, mirá, estoy citando a Tini, esto es él.
+[6:30:32.820000 - 6:30:45.820000] ( Eve): Contemporánea.
+[6:30:58.820000 - 6:31:14.820000] ( Sofi): La triple te. Cupido. Uno de los últimos temas que dice...
+[6:31:30.820000 - 6:31:48.820000] ( Sofi): Yo no sé si enamorarme porque después desenamorarme...
+[6:32:06.820000 - 6:32:26.820000] ( Eve): ¿Desenamorarte? ¿Ese laburito?
+[6:32:46.820000 - 6:33:07.820000] ( Sofi): Así arranca.
+[6:33:07.820000 - 6:33:09.820000] ( SPEAKER_03): 
+[6:33:09.820000 - 6:33:11.820000] ( SPEAKER_03): 
+[6:33:13.820000 - 6:33:17.820000] ( SPEAKER_04): 
+[6:33:17.820000 - 6:33:19.820000] ( SPEAKER_03): 
+[6:33:19.820000 - 6:33:21.820000] ( SPEAKER_03): 
+[6:33:21.820000 - 6:33:23.820000] ( SPEAKER_03): 
+[6:33:23.820000 - 6:33:25.880000] ( SPEAKER_03):
+[6:33:25.880000 - 6:33:26.380000] ( SPEAKER_03): 
+[6:33:26.380000 - 6:33:28.380000] ( SPEAKER_03):
+[6:33:28.380000 - 6:33:33.380000] ( Rolón): Sí, claro, bueno, desenamorarte se llama duelo y es dificilísimo.
+[6:33:38.380000 - 6:33:52.380000] ( Rolón): Pero ¿sabes qué? Yo creo que muchas veces lo que alguien hace es intentar de un modo patológico
+[6:34:06.380000 - 6:34:25.380000] ( Rolón): aminorar la angustia que genera la posibilidad de la pérdida.
+[6:34:44.380000 - 6:35:07.380000] ( Rolón): Entonces uno dice, yo ya sé que esto se va a terminar, ¿sí?
+[6:35:30.380000 - 6:36:03.380000] ( Rolón): Y cree que con esto y esta preparación va a alcanzar para que no te tome tan de sorpresa
+[6:36:36.380000 - 6:37:14.380000] ( Rolón): si es que ocurre y para que no te duela tanto. ¿Sabes qué? Te va a doler igual.
+[6:37:52.380000 - 6:38:31.380000] ( Andy): Claro.
+[6:39:10.380000 - 6:39:50.380000] ( SPEAKER_04): Te va a doler igual.
+[6:40:30.380000 - 6:41:12.380000] ( Andy): Y te va a doler no haberlo dado todo.
+[6:41:54.380000 - 6:42:37.380000] ( Sofi): Claro.
+[6:43:20.380000 - 6:44:04.380000] ( Andy): Si va mal.
+[6:44:04.380000 - 6:44:06.380000] ( SPEAKER_03): 
+[6:44:08.380000 - 6:44:11.380000] ( SPEAKER_04):
+[6:44:14.380000 - 6:44:18.380000] ( SPEAKER_00): 
+[6:44:22.380000 - 6:44:28.100000] ( Andy): Te va a doler decir, qué pelotuda, ¿por qué no lo doy todo?
+[6:44:33.820000 - 6:44:41.380000] ( Andy): Si lo hubiera dado todo no estaría acá.
+[6:44:48.940000 - 6:44:57.900000] ( Andy): Así que, dalo todo siempre.
+[6:45:06.860000 - 6:45:16.820000] ( Sofi): Yo lo doy todo 
+[6:45:26.780000 - 6:45:38.860000] ( Andy): No, vos dejas un poquito guardado.
+[6:45:38.860000 - 6:45:40.860000] ( Sofi): No no
+[6:45:40.860000 - 6:45:43.140000] ( Eve): No no ella lo da ella lo da
+[6:45:43.140000 - 6:45:48.140000] ( Rolón): Además, perdóname, cierta cuota de intranquilidad.
+[6:45:53.140000 - 6:45:59.140000] ( Andy): Claro.
+[6:46:05.140000 - 6:46:14.140000] ( Rolón): No digo, esa mínima cuota de intranquilidad.
+[6:46:23.140000 - 6:46:35.140000] ( Rolón): Está bien, puede pasar esto, pero también puede pasar aquello.
+[6:46:47.140000 - 6:47:04.140000] ( Rolón): Y en definitiva te preguntás, hoy, aquí y ahora, ¿está bueno estar con esta persona?
+[6:47:21.140000 - 6:47:39.140000] ( Andy): Bien.
+[6:47:57.140000 - 6:48:16.140000] ( Rolón): Listo, veremos después qué pasa.
+[6:48:16.140000 - 6:48:16.640000] ( SPEAKER_03):
+[6:48:16.640000 - 6:48:18.640000] ( SPEAKER_03):
+[6:48:18.640000 - 6:48:23.880000] ( Sofi): No, pero el tema, claro, es cuando esa mínima, se crece un poquito más y eso hace que ante
+[6:48:29.120000 - 6:48:38.860000] ( Sofi): cualquier síntoma que te puede llevar a tener una mala percepción, ya, ¿entendés?
+[6:48:48.600000 - 6:48:59.280000] ( Sofi): Sale como la reacción.
+[6:48:59.280000 - 6:49:03.280000] ( Andy): Me queda para la próxima, Rolón, porque son tantos conceptos, ya no puedo asimilar más.
+[6:49:07.280000 - 6:49:12.280000] ( Andy): No puedo asimilar más.
+[6:49:17.280000 - 6:49:24.280000] ( Andy): Pero me queda para la próxima.
+[6:49:31.280000 - 6:49:40.280000] ( Andy): Esto yo te decía que tiene que ver con eso.
+[6:49:49.280000 - 6:50:02.280000] ( Andy): ¿Por qué esa inseguridad, estos pibes que te digo que dominan, entran ahí?
+[6:50:15.280000 - 6:50:33.280000] ( Andy): En esa inseguridad entran para manejarte y te empiezan a bajar.
+[6:50:33.280000 - 6:50:33.780000] ( SPEAKER_03):
+[6:50:33.780000 - 6:50:34.780000] ( Sofi): a la manipulación.
+[6:50:34.780000 - 6:50:36.840000] ( SPEAKER_03): 
+[6:50:36.840000 - 6:50:41.240000] ( Andy): Entonces, porque si estás muy arriba, es su inseguridad, me vas a dejar a mí, porque estás muy arriba.
+[6:50:41.240000 - 6:50:44.240000] ( Sofi): ¿Cómo identificar al manipulador que te va a bajar?
+[6:50:44.240000 - 6:50:48.280000] ( Andy): De afuera se ve muy fácil, pero cómo estar ahí y darte cuenta.
+[6:50:52.320000 - 6:51:00.760000] ( Andy): Una es, tu pareja te tiene que apoyar, tiene que empujarte para adelante,
+[6:51:09.200000 - 6:51:20.360000] ( Andy): tiene que decirte dale, hacelo, dale, está buenísimo, dale.
+[6:51:31.520000 - 6:51:47.760000] ( Andy): Si empieza a decir, esto no va, es mi forma de pensar.
+[6:52:04 - 6:52:25.960000] ( Andy): Me encantaría dar un ejemplo muy conocido, público, al aire, pero no lo puedo hacer.
+[6:52:25.960000 - 6:52:26.960000] ( SPEAKER_03): 
+[6:52:26.960000 - 6:52:29.600000] ( Rolón): No, lo que pasa es que es complejo, Andy, es complejo.
+[6:52:32.240000 - 6:52:36.400000] ( Rolón): Para otro momento ya.
+[6:52:40.560000 - 6:52:45.360000] ( Andy): Para otro momento.
+[6:52:50.160000 - 6:52:57.480000] ( Rolón): No, no, pero sí, déjame señalarlo, porque...
+[6:53:05.280000 - 6:53:13.960000] ( Rolón): Porque...
+[6:53:22.640000 - 6:53:31.960000] ( Andy): Yo hacía el...
+[6:53:41.280000 - 6:53:51.440000] ( Rolón): No, no, pero la pareja...
+[6:53:51.440000 - 6:53:53.440000] ( SPEAKER_03): 
+[6:53:53.440000 - 6:53:57.440000] ( Andy): Yo voy a decir esto solo, yo hacía un programa que trabajé con muchas modelos,
+[6:54:01.440000 - 6:54:07.440000] ( Andy): en los 90s que era el rayo.
+[6:54:13.440000 - 6:54:23.440000] ( Andy): Entonces al principio era productor y vi mucho, y había muchas relaciones ahí.
+[6:54:33.440000 - 6:54:48.440000] ( Andy): Veía mucho a ella modelo y a él que la bajaba, ¿entendés?
+[6:55:03.440000 - 6:55:21.440000] ( Andy): La bajaba porque era tan linda, tan no sé qué, la bajaba, la bajaba, la bajaba
+[6:55:39.440000 - 6:55:59.440000] ( Andy): y ella creía que sin él no podía.
+[6:55:59.440000 - 6:56:01.500000] ( Rolón): Y claro
+[6:56:01.500000 - 6:56:02.840000] ( Andy): No, amiga, no es así.
+[6:56:04.180000 - 6:56:06.520000] ( Rolón): No, pero...
+[6:56:08.860000 - 6:56:12.200000] ( Sofi): ¿Se separaron?
+[6:56:12.200000 - 6:56:16.200000] ( Rolón): No, pero ojo también con él.
+[6:56:20.200000 - 6:56:24.700000] ( Andy): Sí.
+[6:56:29.200000 - 6:56:36.700000] ( Rolón): Esto que decís, que el otro te empuja, te empuja, te empuja.
+[6:56:44.200000 - 6:56:53.700000] ( Rolón): Porque en ese te empuja, ¿sabés qué hay?
+[6:57:03.200000 - 6:57:15.700000] ( Rolón): Hay un dale que vos podés, dale que vos podés con todo.
+[6:57:28.200000 - 6:57:42.200000] ( Rolón): Y nadie puede con todo.
+[6:57:56.200000 - 6:58:13.700000] ( Rolón): Yo creo que la buena pareja te acompaña.
+[6:58:31.200000 - 6:58:52.200000] ( Rolón): Hasta cuando te dice, mira, me parece que te vas a pegar un tortazo. Eh!
+[6:59:13.200000 - 6:59:34.700000] ( Andy): Claro.
+[6:59:56.200000 - 7:00:20.200000] ( Rolón): O sea, es más, yo te sugiero, bajate acá.
+[7:00:44.200000 - 7:01:09.700000] ( Rolón): Si vos decís, no, mira, yo quiero seguir.
+[7:01:35.200000 - 7:02:01.700000] ( Rolón): Listo.
+[7:02:28.200000 - 7:02:55.700000] ( Rolón): O sea, te acompaño.
+[7:03:23.200000 - 7:03:53.200000] ( Rolón): Siempre y cuando yo no me pegue el tortazo con vos.
+[7:03:53.200000 - 7:03:54.400000] ( SPEAKER_03):
+[7:03:54.400000 - 7:03:55.400000] ( SPEAKER_03): 
+[7:03:55.400000 - 7:03:57.480000] ( SPEAKER_03):
+[7:03:57.480000 - 7:03:59.480000] ( SPEAKER_03):
+[7:03:59.480000 - 7:04:01.480000] ( SPEAKER_03):
+[7:04:03.480000 - 7:04:07.480000] ( Eve): Que después no te diga yo te lo dije.
+[7:04:11.480000 - 7:04:17.480000] ( Rolón): Obvio.
+[7:04:17.480000 - 7:04:24.240000] ( Andy): lo seguimos la semana que viene, lamentablemente no hay más tiempo, pero poneme amistades peligrosas.
+[7:04:31 - 7:04:43.280000] ( Andy): Gracias Rolón, nos vemos la semana que viene.
+

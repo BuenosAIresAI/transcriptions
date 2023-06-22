@@ -1,0 +1,854 @@
+Gabriel Rolón Vivir es estar expuesto - Mandatos, vulnerabilidad y amor en
+https://www.youtube.com/watch?v=NBcvkHwFIAE
+
+[0:00:00 - 0:00:04.240000] ( SPEAKER_03): Pregunta, voy a arrancar con todo con Rolón, el licenciado Gabriel Rolón.
+[0:00:08.480000 - 0:00:18.280000] ( SPEAKER_04): Primero, me parece que no demos por sentado que es un placer que estés acá.
+[0:00:28.080000 - 0:00:39.880000] ( SPEAKER_00): Sí, privilegio.
+[0:00:51.680000 - 0:01:06.680000] ( SPEAKER_05): Che, viene Rolón. Bueno, para nosotros nos encanta, está buenísimo.
+[0:01:21.680000 - 0:01:42.960000] ( SPEAKER_04): Creo que, como hemos hablado fuera del aire, tenés una magia para explicar cosas que nos pasan,
+[0:02:04.240000 - 0:02:28.440000] ( SPEAKER_06): para entender, para ayudarnos a pensar, reflexionar.
+[0:02:52.640000 - 0:03:19.840000] ( SPEAKER_03): Y eso después tiene su vida propia.
+[0:03:19.840000 - 0:03:21.840000] ( SPEAKER_03): ¡Tiro!
+[0:03:21.840000 - 0:03:22.680000] ( SPEAKER_03): See ya.
+[0:03:22.680000 - 0:03:23.680000] ( SPEAKER_03): ¡Sí!
+[0:03:24.680000 - 0:03:26.680000] ( SPEAKER_04): ¡No debo!
+[0:03:26.680000 - 0:03:31.560000] ( SPEAKER_03): Queda en la semana, queda trabajando en redes, en las cosas, en los videos,
+[0:03:36.540000 - 0:03:42.620000] ( SPEAKER_04): en nosotros mismos.
+[0:03:48.700000 - 0:03:58.780000] ( SPEAKER_00): A veces yo me doy cuenta que los videos con el tic toc y las cosas.
+[0:03:58.780000 - 0:04:02.500000] ( SPEAKER_03): nosotros mismos. A veces.
+[0:04:02.500000 - 0:04:03] ( SPEAKER_03): Mm-hmm.
+[0:04:03 - 0:04:07] ( SPEAKER_03): como vos estabas boludeando y te viene un rolón y esperáis un minuto.
+[0:04:11 - 0:04:15.640000] ( SPEAKER_04): Te acomoda.
+[0:04:20.280000 - 0:04:26.920000] ( SPEAKER_00): Te acomoda. Después seguís.
+[0:04:33.560000 - 0:04:41] ( SPEAKER_05): ¿Entendés?
+[0:04:48.440000 - 0:04:56.880000] ( SPEAKER_04): Deja pensando.
+[0:05:05.320000 - 0:05:16.960000] ( SPEAKER_06): Y muchos salen de acá, otros salen de los vídeos que has hecho toda tu vida,
+[0:05:28.600000 - 0:05:43.040000] ( SPEAKER_03): pero un placer que estés acá todas las semanas.
+[0:05:57.480000 - 0:06:12.920000] ( SPEAKER_04): Bueno, gracias.
+[0:06:12.920000 - 0:06:14.200000] ( SPEAKER_03): 전 넷하겠습니다.
+[0:06:14.200000 - 0:06:15.040000] ( SPEAKER_03): And then...
+[0:06:15.040000 - 0:06:18.040000] ( SPEAKER_03):vicada ed emule
+[0:06:18.040000 - 0:06:20.040000] ( SPEAKER_03): Bueno, gracias, para mí también.
+[0:06:22.120000 - 0:06:29.320000] ( SPEAKER_04): Por eso hemos, este año, modificado la manera
+[0:06:36.600000 - 0:06:45.800000] ( SPEAKER_00): que teníamos y venimos todas las semanas,
+[0:06:55.080000 - 0:07:07.360000] ( SPEAKER_05): porque de verdad es un momento de mucho disfrute para mí,
+[0:07:19.720000 - 0:07:37.160000] ( SPEAKER_04): la paso muy bien, son todos muy provocadores
+[0:07:54.680000 - 0:08:15.480000] ( SPEAKER_06): y eso me encanta, cuando alguien te sale al cruce,
+[0:08:36.360000 - 0:09:00.040000] ( SPEAKER_03): que no tienen un sí fácil, sino que te cuestionan,
+[0:09:23.800000 - 0:09:50.200000] ( SPEAKER_04): te preguntan, pero a ver, a ver, entonces, ¿cómo sería?
+[0:10:16.680000 - 0:10:46.120000] ( SPEAKER_05): Me encanta porque es el ejercicio, justamente,
+[0:11:15.560000 - 0:11:47.600000] ( SPEAKER_04): que es casi platónico, lo que ocurre,
+[0:12:19.720000 - 0:12:53.840000] ( SPEAKER_03): esto de empezar a conversar y que el otro te contradiga
+[0:13:28.040000 - 0:14:04.320000] ( SPEAKER_00): o te diga o te pregunte, todo lo que era,
+[0:14:40.680000 - 0:15:19.440000] ( SPEAKER_04): bueno, como se fue construyendo el pensamiento,
+[0:15:58.280000 - 0:16:39.880000] ( SPEAKER_02): así que a mí me encanta venir, soy muy feliz, Cádiz.
+[0:16:39.880000 - 0:16:42.680000] ( SPEAKER_03): Le mandamos un beso, le pedimos disculpas a Ana O,
+[0:16:45.560000 - 0:16:51.160000] ( SPEAKER_04): la paciente que hubo que echarla en este horario
+[0:16:56.840000 - 0:17:04.520000] ( SPEAKER_00): que estaba acostumbrada.
+[0:17:12.280000 - 0:17:24.600000] ( SPEAKER_05): Y también a Gabriel F, otro paciente que también voló
+[0:17:37 - 0:17:52.120000] ( SPEAKER_04): de este horario, también para que pueda venir el licenciado acá.
+[0:18:07.320000 - 0:18:27] ( SPEAKER_06): Dicho esto, tenemos un menú de cosas cada uno,
+[0:18:46.760000 - 0:19:11.160000] ( SPEAKER_03): ¿por qué no elegimos, me parece que entre todos, todas,
+[0:19:35.640000 - 0:20:03.800000] ( SPEAKER_04): qué sería lo mejor para, en base a lo que le está pasando
+[0:20:32.040000 - 0:21:02.120000] ( SPEAKER_05): más amable a cada uno, a ver si va?
+[0:21:32.280000 - 0:22:04.760000] ( SPEAKER_04): A vos, por ejemplo, si te toca sesión con Roloco,
+[0:22:37.320000 - 0:23:10.920000] ( SPEAKER_03): ¿qué sería el título?
+[0:23:44.600000 - 0:24:19.240000] ( SPEAKER_00): El ansiedad.
+[0:24:53.960000 - 0:25:30.440000] ( SPEAKER_04): Ansiedad, buen punto, ansiedad.
+[0:26:07 - 0:26:44.680000] ( SPEAKER_02): Vos, Ana...
+[0:26:44.680000 - 0:26:49.680000] ( SPEAKER_03): and
+[0:26:49.680000 - 0:26:50.680000] ( SPEAKER_03): no.
+[0:26:51.680000 - 0:26:53.680000] ( SPEAKER_04): Gabriel F.
+[0:26:55.680000 - 0:26:58.680000] ( SPEAKER_00): Otro paciente que da
+[0:26:58.680000 - 0:26:59.180000] ( SPEAKER_03): Thank you.
+[0:26:59.180000 - 0:27:00.180000] ( SPEAKER_03): programa que tiene.
+[0:27:01.180000 - 0:27:02.680000] ( SPEAKER_04): En la ciudad.
+[0:27:02.680000 - 0:27:03.680000] ( SPEAKER_03): Mm-hmm.
+[0:27:03.680000 - 0:27:05.680000] ( SPEAKER_03): Distracción. Bien.
+[0:27:05.680000 - 0:27:06.180000] ( SPEAKER_03): Vem.
+[0:27:06.180000 - 0:27:09.620000] ( SPEAKER_03): Obvio, yo un chico que no quiere ser de mi equipo que el padre
+[0:27:13.160000 - 0:27:17.560000] ( SPEAKER_04): y usa la camita de Julián Álvarez.
+[0:27:17.560000 - 0:27:19.560000] ( SPEAKER_03): Ah, tiene un caso, un caso concreto.
+[0:27:21.560000 - 0:27:28.060000] ( SPEAKER_04): Un chico que no quiere ser, o sea, el padre quiere que sea como él, de su equipo, por supuesto,
+[0:27:34.560000 - 0:27:47.560000] ( SPEAKER_00): de estudiantes, me dice, y el pibe usa la camioneta, la camioneta no, la camiseta de Julián Hernández porque le gusta.
+[0:28:00.560000 - 0:28:14.060000] ( SPEAKER_05): Sí.
+[0:28:27.560000 - 0:28:45.060000] ( SPEAKER_04): Y punto, y además no quiere sentirse obligado a ser lo del padre. Buen tema.
+[0:29:02.560000 - 0:29:22.060000] ( SPEAKER_06): En este caso me gusta más de la madre.
+[0:29:41.560000 - 0:30:03.060000] ( SPEAKER_03): Eh, y Leonardo.
+[0:30:24.560000 - 0:30:47.560000] ( SPEAKER_04): Uh, agarrate.
+[0:31:10.560000 - 0:31:34.560000] ( SPEAKER_05): Sí, Ledo.
+[0:31:34.560000 - 0:31:36.560000] ( SPEAKER_03): Nej, jag får ju inte det.
+[0:31:36.560000 - 0:31:37.560000] ( SPEAKER_03): ¡Uy!
+[0:31:38.560000 - 0:31:41.560000] ( SPEAKER_04): Me agarraste justo comiendo, que arroba.
+[0:31:44.560000 - 0:31:49.560000] ( SPEAKER_00): ¿Vos no te imaginaste que ibas a preguntar qué pensabas?
+[0:31:54.560000 - 0:32:01.560000] ( SPEAKER_05): No, no, así me iba a pasar algo.
+[0:32:08.560000 - 0:32:17.560000] ( SPEAKER_04): No, no, Leo.
+[0:32:17.560000 - 0:32:19.560000] ( SPEAKER_03): ¿No te imaginaste que iba a preguntar qué pensaba?
+[0:32:21.560000 - 0:32:25.560000] ( SPEAKER_04): No, no, así no iba a pasar nada.
+[0:32:29.560000 - 0:32:35.560000] ( SPEAKER_00): No, no, Leo.
+[0:32:35.560000 - 0:32:37.900000] ( SPEAKER_03): Lo sabía, pasen a hablar.
+[0:32:40.320000 - 0:32:43.640000] ( SPEAKER_04): No, no...
+[0:32:43.640000 - 0:32:45.640000] ( SPEAKER_03): Se quema un sándwich, mi amor.
+[0:32:45.640000 - 0:32:50.880000] ( SPEAKER_03): Ok.
+[0:32:50.880000 - 0:32:52.880000] ( SPEAKER_03): Ya hay un título ahí.
+[0:32:52.880000 - 0:32:54.880000] ( SPEAKER_03): Nooo!
+[0:32:56.880000 - 0:33:00.880000] ( SPEAKER_04): Un año y ocho días.
+[0:33:04.880000 - 0:33:10.880000] ( SPEAKER_00): Yo te doy un título.
+[0:33:16.880000 - 0:33:24.880000] ( SPEAKER_05): Hay gente que en momentos claves se come un fajor de maicena.
+[0:33:32.880000 - 0:33:42.880000] ( SPEAKER_04): Para no poder...
+[0:33:52.880000 - 0:34:04.880000] ( SPEAKER_06): Es como varios que...
+[0:34:16.880000 - 0:34:30.880000] ( SPEAKER_03): Si, pero yo tengo otro título.
+[0:34:30.880000 - 0:34:31.880000] ( SPEAKER_03): Un año y medio.
+[0:34:32.880000 - 0:34:34.880000] ( SPEAKER_04): Pero ahí hay un título.
+[0:34:34.880000 - 0:34:35.380000] ( SPEAKER_03): Çek elini.
+[0:34:35.380000 - 0:34:37.380000] ( SPEAKER_03): Sí, pero yo tengo otro título.
+[0:34:37.380000 - 0:34:40.180000] ( SPEAKER_03): Me como el alfajor de maizena total, a mi no me va a preguntar nadie.
+[0:34:40.180000 - 0:34:41.360000] ( SPEAKER_03): Εεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεε
+[0:34:41.360000 - 0:34:43.360000] ( SPEAKER_03): Yo no soy importante acá.
+[0:34:45.360000 - 0:34:48.360000] ( SPEAKER_04): Ah...
+[0:34:51.360000 - 0:34:57.360000] ( SPEAKER_00): Digamos, esta especie de idea de...
+[0:35:03.360000 - 0:35:10.360000] ( SPEAKER_05): De mí van a pasar.
+[0:35:10.360000 - 0:35:12.360000] ( SPEAKER_03): No come más al Pacone Mercenario.
+[0:35:14.360000 - 0:35:18.360000] ( SPEAKER_04): No, pero me encanta, lo viste, lo viste.
+[0:35:18.360000 - 0:35:20.360000] ( SPEAKER_03): No, a mí quién me va a preguntar.
+[0:35:20.360000 - 0:35:25.360000] ( SPEAKER_03): Hay como una cuestión que no quiero...
+[0:35:25.360000 - 0:35:27.860000] ( SPEAKER_03): No, pero es cierto, sí. Para el oyente que no está mirando.
+[0:35:30.360000 - 0:35:36.200000] ( SPEAKER_04): Le pregunto a Anita, le pregunto a Claudio, en orden venía Leo y se fue.
+[0:35:42.040000 - 0:35:49.380000] ( SPEAKER_00): La abuela fue a hacer un...
+[0:35:49.380000 - 0:35:57.060000] ( SPEAKER_03): es que muchas veces uno dice no a mí no a mí no porque no me gusta sí sí
+[0:36:04.740000 - 0:36:18.820000] ( SPEAKER_04): igual no me van a tener en cuenta esta vez no y es importante saber por qué
+[0:36:32.900000 - 0:36:52.100000] ( SPEAKER_00): uno se ubica a veces bien en este lugar de
+[0:36:52.100000 - 0:36:54.100000] ( SPEAKER_03): cuando en la vida decís no, a mi no me va a pasar.
+[0:36:56.100000 - 0:36:59.100000] ( SPEAKER_04): Me gusta.
+[0:37:02.100000 - 0:37:08.500000] ( SPEAKER_00): Si, si, igual a mi no me van a tener en cuenta esta vez.
+[0:37:08.500000 - 0:37:10.900000] ( SPEAKER_03): No, me gusta, lo anotamos también.
+[0:37:13.400000 - 0:37:17.500000] ( SPEAKER_04): Con muchísimo miedo le pregunto a Sol,
+[0:37:21.700000 - 0:37:28.900000] ( SPEAKER_00): el título de tu sesión de hoy, ¿cuál sería?
+[0:37:28.900000 - 0:37:31.580000] ( SPEAKER_03): creer que el otro es más que uno.
+[0:37:34.260000 - 0:37:38.340000] ( SPEAKER_04): Bueno, parecido.
+[0:37:38.340000 - 0:37:39.340000] ( SPEAKER_03): Bueno, parecido.
+[0:37:40.340000 - 0:37:42.340000] ( SPEAKER_04): Seriedad.
+[0:37:44.340000 - 0:37:46.840000] ( SPEAKER_00): Sí, sí.
+[0:37:46.840000 - 0:37:47.960000] ( SPEAKER_03): Bueno, parecido.
+[0:37:49.080000 - 0:37:50.880000] ( SPEAKER_04): ¿Se liga?
+[0:37:52.680000 - 0:37:54.980000] ( SPEAKER_00): Sí.
+[0:37:57.280000 - 0:38:01.080000] ( SPEAKER_05): ¿Se liga con lo anterior?
+[0:38:04.880000 - 0:38:09.180000] ( SPEAKER_04): Sí.
+[0:38:09.180000 - 0:38:11.340000] ( SPEAKER_03): Muchas gracias.
+[0:38:11.340000 - 0:38:12.460000] ( SPEAKER_03): प्रुप्पा ले रहो ने
+[0:38:12.460000 - 0:38:18.380000] ( SPEAKER_03): ese bien perdón buen día buen día en la misma línea creérmela un poco más
+[0:38:18.380000 - 0:38:19.380000] ( SPEAKER_03): Está bien, sí.
+[0:38:19.380000 - 0:38:19.880000] ( SPEAKER_03): ¿A ver?
+[0:38:19.880000 - 0:38:21.480000] ( SPEAKER_03): ¡Uy! Es un tema...
+[0:38:23.080000 - 0:38:27.080000] ( SPEAKER_04): Bien, bueno, ya estamos llegando a...
+[0:38:31.080000 - 0:38:37.080000] ( SPEAKER_00): Ansiedad, a quedársela un poco más.
+[0:38:43.080000 - 0:38:51.080000] ( SPEAKER_05): Evelin, ¿usted tiene...?
+[0:38:51.080000 - 0:38:53.160000] ( SPEAKER_03): you
+[0:38:53.160000 - 0:38:55.640000] ( SPEAKER_03): Gabrielito, el de siempre. Autoboycott.
+[0:38:55.640000 - 0:38:56.640000] ( SPEAKER_03): Lo de siempre.
+[0:38:56.640000 - 0:38:57.640000] ( SPEAKER_03): Lo de siempre.
+[0:38:57.640000 - 0:38:59.640000] ( SPEAKER_03): Es muy bueno lo decirme.
+[0:39:01.640000 - 0:39:05.640000] ( SPEAKER_04): Yo tenía otro que era algo así como...
+[0:39:13.640000 - 0:39:23.640000] ( SPEAKER_00): Tengo dos. Uno está en la misma línea, podría ser, que es...
+[0:39:33.640000 - 0:39:45.640000] ( SPEAKER_05): Me da miedo no estar a la altura.
+[0:39:57.640000 - 0:40:11.640000] ( SPEAKER_04): Un poco de síndrome del impostor, un poco de...
+[0:40:25.640000 - 0:40:41.640000] ( SPEAKER_06): No se van a dar cuenta.
+[0:40:57.640000 - 0:41:15.640000] ( SPEAKER_03): Me hago...
+[0:41:33.640000 - 0:41:53.640000] ( SPEAKER_04): Es un poco de inseguridad y...
+[0:42:13.640000 - 0:42:35.640000] ( SPEAKER_05): No, no, yo también.
+[0:42:57.640000 - 0:43:21.640000] ( SPEAKER_04): Como el miedo de decir, mirá, en realidad, no sé un carajo de qué hablan,
+[0:43:45.640000 - 0:44:11.640000] ( SPEAKER_03): no entiendo nada, no sé qué, no me pasa,
+[0:44:37.640000 - 0:45:05.640000] ( SPEAKER_00): no me pasa nada emocionante como a vos.
+[0:45:33.640000 - 0:46:03.640000] ( SPEAKER_04): Cosa que uno...
+[0:46:03.640000 - 0:46:04.140000] ( SPEAKER_03):不行
+[0:46:04.140000 - 0:46:06.540000] ( SPEAKER_03): El otro día leía algo muy bueno con respecto a eso que estás diciendo,
+[0:46:08.940000 - 0:46:12.740000] ( SPEAKER_04): hablando de la vulnerabilidad.
+[0:46:16.540000 - 0:46:20.840000] ( SPEAKER_00): A ver.
+[0:46:25.140000 - 0:46:33.940000] ( SPEAKER_05): Que en definitiva muchas veces pasa que uno le teme a sus propias vulnerabilidades
+[0:46:42.740000 - 0:46:53.540000] ( SPEAKER_04): o los lugares en donde tiene más inseguridades
+[0:47:04.740000 - 0:47:18.740000] ( SPEAKER_06): y que en realidad lo más lindo de la vida es eso, es la conexión.
+[0:47:33.040000 - 0:47:49.140000] ( SPEAKER_03): Y lo que te hace más fuerte es la conexión.
+[0:48:05.540000 - 0:48:25.140000] ( SPEAKER_04): Y que en definitiva, si uno no se anima a ser vulnerable, es imposible...
+[0:48:44.740000 - 0:49:05.040000] ( SPEAKER_05): Conectarse.
+[0:49:25.340000 - 0:49:46.140000] ( SPEAKER_04): Conectar.
+[0:50:06.940000 - 0:50:28.240000] ( SPEAKER_03): Bien.
+[0:50:28.240000 - 0:50:30.240000] ( SPEAKER_03): Our
+[0:50:30.240000 - 0:50:31.240000] ( SPEAKER_03): Conectarse.
+[0:50:32.240000 - 0:50:33.740000] ( SPEAKER_04): Conectar.
+[0:50:35.240000 - 0:50:37.740000] ( SPEAKER_00): Bien, me gusta.
+[0:50:40.240000 - 0:50:46.240000] ( SPEAKER_05): Y también hablaba con un amigo, ayer hablamos, o anteayer,
+[0:50:52.240000 - 0:51:00.240000] ( SPEAKER_04): un amigo que hablamos de...
+[0:51:00.240000 - 0:51:02.520000] ( SPEAKER_03): Lloví mucho, sobre todo en los 90.
+[0:51:02.520000 - 0:51:08.120000] ( SPEAKER_03): Vos vas a entender perfecto. El flaco que la baja a ella, porque en realidad ella es más,
+[0:51:13.720000 - 0:51:25.520000] ( SPEAKER_04): pero la baja para enamorarla. O sea, primero la baja, como una cosa acá, acá, papapá, papapá,
+[0:51:37.320000 - 0:51:54.120000] ( SPEAKER_00): la baja, la baja, la baja. Después se sube él, tranquilo, yo te voy a ayudar, la ayudo,
+[0:52:10.920000 - 0:52:31.720000] ( SPEAKER_05): porque ves esto que te dije, pero tú no entendías nada. Mirá, es así, así, así,
+[0:52:52.520000 - 0:53:17.120000] ( SPEAKER_04): ella se enamora, pero en realidad nunca la levanta, ¿entendés?
+[0:53:41.720000 - 0:54:10.320000] ( SPEAKER_06): Siempre él necesita bajarla para él subir con inseguridad, en vez de decir,
+[0:54:38.920000 - 0:55:11.120000] ( SPEAKER_03): oye, vos sos lo más, y no sé, por ahí me vas a poner una patada en el gorto,
+[0:55:43.320000 - 0:56:17.720000] ( SPEAKER_04): porque sos más que yo, que esa es la verdad, es el miedo real.
+[0:56:52.120000 - 0:57:27.520000] ( SPEAKER_05): Mucha manipulación.
+[0:58:02.920000 - 0:58:43.320000] ( SPEAKER_04): Mucha manipulación para mucho, y pasaba mucho, yo vi mucho eso,
+[0:59:23.720000 - 1:00:07.120000] ( SPEAKER_03): un poco, muchas relaciones tóxicas son eso.
+[1:00:50.520000 - 1:01:36.920000] ( SPEAKER_00): Y los que están afuera te dicen, ¿qué haces? Y claro, la gracia del manipulador
+[1:02:23.320000 - 1:03:11.720000] ( SPEAKER_04): es que luego consigue lo que...
+[1:04:00.120000 - 1:04:55.520000] ( SPEAKER_02): Y ella diciendo, es que yo sin él, sin él no soy nada. No, flaca, él sin vos no existís,
+[1:05:51.720000 - 1:06:51.920000] ( SPEAKER_04): no existe el sin vos, pero mucho productor, mucho productor, por ejemplo,
+[1:07:52.120000 - 1:08:54.320000] ( SPEAKER_02): en pareja con, ¿entendés?
+[1:09:56.520000 - 1:11:01.720000] ( SPEAKER_03): Mucho, y me gustaba como tema también.
+[1:12:06.920000 - 1:13:13.120000] ( SPEAKER_04): Tenés ya.
+[1:13:13.120000 - 1:13:13.960000] ( SPEAKER_03): I love it.
+[1:13:13.960000 - 1:13:15.960000] ( SPEAKER_03): y los que están afuera te dicen ¿qué haces?
+[1:13:17.960000 - 1:13:21.960000] ( SPEAKER_04): y claro, la gracia del manipulador es que luego consigue lo que...
+[1:13:21.960000 - 1:13:23.960000] ( SPEAKER_03): Caro.
+[1:13:23.960000 - 1:13:24.960000] ( SPEAKER_03): Mucho y menos.
+[1:13:24.960000 - 1:13:28.280000] ( SPEAKER_03): Bueno, acá se ha hecho como un embudo, ¿no?
+[1:13:31.600000 - 1:13:39.400000] ( SPEAKER_04): Porque empezamos un poco con la ansiedad, con la distracción,
+[1:13:47.200000 - 1:13:58.320000] ( SPEAKER_00): con los mandatos, que es un temón, ¿no?
+[1:14:09.440000 - 1:14:22.360000] ( SPEAKER_05): Digo, esto de...
+[1:14:35.280000 - 1:14:52.200000] ( SPEAKER_04): Yo no quiero ser del equipo que mi papá quiere que sea.
+[1:15:09.120000 - 1:15:27.920000] ( SPEAKER_06): Aparece como un detalle menor.
+[1:15:46.720000 - 1:16:07.920000] ( SPEAKER_03): Yo me compro una camiseta, mi papá quiere que sea estudiante
+[1:16:29.120000 - 1:16:52.520000] ( SPEAKER_04): y yo me pongo una camiseta de otro equipo.
+[1:16:52.520000 - 1:16:56.520000] ( SPEAKER_03): Para contarle la historia a Claudio en muy breve.
+[1:16:56.520000 - 1:16:57.520000] ( SPEAKER_03): Hola Gabi, buen día.
+[1:16:58.520000 - 1:17:00.520000] ( SPEAKER_04): Buen día, Claudito.
+[1:17:02.520000 - 1:17:08.760000] ( SPEAKER_00): La historia es así, el nene va a hacer fútbol, lo llama la que lo cuida, la niñera, el padre,
+[1:17:15 - 1:17:23.920000] ( SPEAKER_05): le dice no quiere ir porque no le gusta la ropa que le puse.
+[1:17:32.840000 - 1:17:42.760000] ( SPEAKER_04): ¿Qué le pusiste?
+[1:17:52.680000 - 1:18:05.320000] ( SPEAKER_06): La ropa de estudiantes y él quiere la de Julián Álvarez.
+[1:18:17.960000 - 1:18:33.840000] ( SPEAKER_03): Entonces el padre le dice bueno, vamos a casa, llegan a casa y el nene le dice si no te vas
+[1:18:49.720000 - 1:19:07.080000] ( SPEAKER_04): con estudiantes, no vas.
+[1:19:24.440000 - 1:19:43.240000] ( SPEAKER_05): Y el nene no fue a jugar al fútbol.
+[1:20:02.040000 - 1:20:23.760000] ( SPEAKER_04): Y al otro día se sentó y le dijo ¿qué pasa con estudiantes?
+[1:20:23.760000 - 1:20:26.680000] ( SPEAKER_03): Y el nene dijo no, que cuál era, Encha Estudiantes, pero que le gustaba Julián Álvarez.
+[1:20:29.600000 - 1:20:34.520000] ( SPEAKER_04): Entonces el padre dice, como no son de La Plata,
+[1:20:39.440000 - 1:20:50.280000] ( SPEAKER_00): que es muy difícil hacer un pibe que va con los compañeritos que son de Enzo Fernández, River, Boca, River, Boca,
+[1:21:01.120000 - 1:21:15.120000] ( SPEAKER_05): mantenerlo en el mismo equipo que él. Y él se enoja y le dijo, no vas.
+[1:21:15.120000 - 1:21:15.420000] ( SPEAKER_03): Mhm.
+[1:21:15.420000 - 1:21:18.420000] ( SPEAKER_03): Es un bon tema, es un bon tema de todo
+[1:21:18.420000 - 1:21:23.420000] ( SPEAKER_03): a todo lo que pasa que ese mandato que en este caso es vos tenés que ser
+[1:21:28.420000 - 1:21:39.900000] ( SPEAKER_04): estudiante a veces es vos tenés que ser heterosexual a veces es vos tenés que
+[1:21:51.380000 - 1:22:09.580000] ( SPEAKER_00): ser este profesional no importa cuál la forma que tome el mandato no el mandato
+[1:22:27.780000 - 1:22:54.300000] ( SPEAKER_05): se ubica en este lugar en el que uno queda preso del deseo del otro
+[1:23:21.140000 - 1:23:54.900000] ( SPEAKER_04): un mandato es el deseo de otro que se internaliza en vos y toma fuerza de ley
+[1:24:28.660000 - 1:25:05.700000] ( SPEAKER_06): y te pone en conflicto
+[1:25:05.700000 - 1:25:06.200000] ( SPEAKER_03): Yeah.
+[1:25:06.200000 - 1:25:06.700000] ( SPEAKER_03): you
+[1:25:06.700000 - 1:25:09.200000] ( SPEAKER_03): ¿Qué pasa cuando el mandato no es el mandato?
+[1:25:11.800000 - 1:25:19.600000] ( SPEAKER_04): Por ejemplo, yo quiero que estudies, no porque yo estudié o no estudié
+[1:25:27.500000 - 1:25:38.400000] ( SPEAKER_00): por frustración distinta, no porque quiero que seas de boca
+[1:25:49.400000 - 1:26:02.300000] ( SPEAKER_05): o porque soy de boca, quiero que estudies porque es una herramienta
+[1:26:15.300000 - 1:26:30.700000] ( SPEAKER_04): que lo vas a necesitar, vas a necesitar que le das una cara.
+[1:26:46.200000 - 1:27:05.400000] ( SPEAKER_06): Y no quiere estudiar, suponete, cuando vos sabés que algo
+[1:27:24.700000 - 1:27:46.800000] ( SPEAKER_03): le va a venir bien y no lo quiere hacer, ¿cuál es el límite?
+[1:27:46.800000 - 1:27:48.800000] ( SPEAKER_03): Claro, te dejó ser y ya, no.
+[1:27:48.800000 - 1:27:49.800000] ( SPEAKER_03): Claro.
+[1:27:50.800000 - 1:27:52.800000] ( SPEAKER_04): Es gocero, pero no es que quiera.
+[1:27:52.800000 - 1:27:57.720000] ( SPEAKER_03): Bueno, a ver, como siempre, el límite es ese punto donde el otro
+[1:28:02.740000 - 1:28:10.120000] ( SPEAKER_04): puede empezar a hacerse cargo de sí mismo.
+[1:28:17.600000 - 1:28:28.540000] ( SPEAKER_00): Quiero decir, un chico de 4 años te va a decir no me quiero vacunar,
+[1:28:39.580000 - 1:28:54.140000] ( SPEAKER_05): no me quiero dar la BCG, y vos le decís, te la vas a dar,
+[1:29:08.800000 - 1:29:27.320000] ( SPEAKER_04): porque es mi obligación cuidarte y no quiero ir al cole, a la primaria
+[1:29:45.940000 - 1:30:08.840000] ( SPEAKER_06): o a la secundaria, vos decís, vas a ir igual, porque es mi obligación cuidarte.
+[1:30:31.840000 - 1:30:59.400000] ( SPEAKER_03): Pero hay un punto donde alguien empieza a ser responsable de su propia vida
+[1:31:26.960000 - 1:32:00.600000] ( SPEAKER_04): y con herramientas que no le diste hasta los 17, 18 años, ya está,
+[1:32:34.340000 - 1:33:11.120000] ( SPEAKER_05): puede ser un elemento de consulta, alguien que uno diga, che,
+[1:33:48 - 1:34:28.840000] ( SPEAKER_04): voy a hablar con mi viejo a ver qué opina porque es un tipo inteligente.
+[1:35:09.780000 - 1:35:55.900000] ( SPEAKER_03): Pero hay un momento donde uno se apropia de su vida y por lo general...
+[1:35:55.900000 - 1:35:59.380000] ( SPEAKER_03): Y el padre o la madre tiene que dejarlo ir.
+[1:36:02.860000 - 1:36:07.340000] ( SPEAKER_04): Sí.
+[1:36:11.820000 - 1:36:17.300000] ( SPEAKER_00): Tiene un punto también.
+[1:36:17.300000 - 1:36:24.300000] ( SPEAKER_03): Es un punto donde vos monitoreas, donde vos acompañás, donde vos sugerís,
+[1:36:31.300000 - 1:36:43.300000] ( SPEAKER_04): pero donde tenés que empezar a comprender que el destino del otro ya está en sus manos.
+[1:36:55.300000 - 1:37:17.300000] ( SPEAKER_00): Hay un punto muy crucial, o sea, por lo general, los adolescentes se van dando codazos de esta situación.
+[1:37:39.300000 - 1:38:05.300000] ( SPEAKER_05): Se van diciendo basta, no te metas en mi vida, yo soy grande, quién sos vos para decirme
+[1:38:31.300000 - 1:39:02.300000] ( SPEAKER_04): cómo me tengo que vestir, de quién me tengo que enamorar, de lo que tengo que estudiar.
+[1:39:33.300000 - 1:40:11.300000] ( SPEAKER_06): Entonces empieza ese punto y ese quiebre que suele darse de esta manera entre padres e hijos,
+[1:40:49.300000 - 1:41:33.300000] ( SPEAKER_03): en ese lugar donde el otro tiene que decir, bueno, a ver, voy a salir a hacerme cargo de mi propia vida.
+[1:42:17.300000 - 1:43:08.300000] ( SPEAKER_04): Que es todo un tema. ¿Por qué? Porque vos no salís a hacerte cargo de tu propia vida
+[1:43:59.300000 - 1:44:57.300000] ( SPEAKER_05): sin tu pasado, sin tu historia, sin tus viejos. Estos viejos a los que vos les decís frente a frente,
+[1:45:55.300000 - 1:46:57.300000] ( SPEAKER_04): vos no te metes más en mi vida, cuando hiciste media cuadra te habla de adentro de la cabeza
+[1:47:59.300000 - 1:49:08.300000] ( SPEAKER_03): y se está haciendo cargo de tu vida. ¿Por qué? Porque cuando los viejos caen afuera
+[1:50:17.300000 - 1:51:31.300000] ( SPEAKER_00): es cuando más fuertes se hacen adentro, ¿entendés? Es cuando tienen más peso.
+[1:52:45.300000 - 1:54:03.300000] ( SPEAKER_04): Como, digamos, el peso que tiene la voz de un padre muerto.
+[1:54:03.300000 - 1:54:06] ( SPEAKER_03): que es por ahí mucho más fuerte que cuando el viejo estaba vivo.
+[1:54:08.700000 - 1:54:15.300000] ( SPEAKER_04): Él, yo sé que a mi viejo esto no le hubiera gustado,
+[1:54:21.900000 - 1:54:31.100000] ( SPEAKER_00): es mucho más pesado que a mi viejo esto no le gusta.
+[1:54:40.300000 - 1:54:50.800000] ( SPEAKER_05): ¿A vos te habla tu papá?
+[1:55:01.300000 - 1:55:16.100000] ( SPEAKER_04): Mi papá todo el tiempo, todo el tiempo me habla.
+[1:55:30.900000 - 1:55:49.500000] ( SPEAKER_06): A veces me habla con cosas en las que ya coincidimos.
+[1:56:08.100000 - 1:56:29.200000] ( SPEAKER_03): Entonces su voz y la mía se funden.
+[1:56:50.300000 - 1:57:15.300000] ( SPEAKER_04): Se funden y yo ya no sé, bueno, qué sé yo, si es de él, si es mía, la compartimos.
+[1:57:40.300000 - 1:58:09.800000] ( SPEAKER_05): A veces me habla con una voz muy diferente a la mía.
+[1:58:39.300000 - 1:59:13.700000] ( SPEAKER_04): Una voz con la que a veces me tengo que enfrentar y a la que a veces tengo que escuchar.
+[1:59:48.100000 - 2:00:29.200000] ( SPEAKER_03): Porque uno pensar, Ortega decía uno contiene multitudes, ¿no?
+[2:01:10.300000 - 2:01:54] ( SPEAKER_00): Ortega y Gasset, uno contiene multitudes.
+[2:02:37.700000 - 2:03:22.200000] ( SPEAKER_04): ¿El burrito?
+[2:04:06.700000 - 2:04:54.700000] ( SPEAKER_02): Claro, no el burrito, que era un enorme jugador de fútbol.
+[2:05:42.700000 - 2:06:40.200000] ( SPEAKER_04): Lo que está también intentando decir es que todos estamos recorridos por infinidad de voces.
+[2:07:37.700000 - 2:08:37.800000] ( SPEAKER_02): O sea, por eso nuestra ambivalencia.
+[2:09:37.900000 - 2:10:44.100000] ( SPEAKER_03): Por eso le decimos, no sé, al amigo camionero, venite para acá, dice.
+[2:11:50.300000 - 2:13:01.500000] ( SPEAKER_04): Y por ahí, dentro de 20 minutos dice, ché, llámenlo, díganle que no venga, porque no tengo ganas.
+[2:14:12.700000 - 2:15:27.300000] ( SPEAKER_00): ¿Por qué hace 20 minutos querías y ahora se te fueron?
+[2:16:41.900000 - 2:18:04.600000] ( SPEAKER_06): Bueno, porque son esas distintas voces que te recorren, que te hablan, que te marcan miedos distintos, deseos diferentes.
+[2:19:27.400000 - 2:20:54.900000] ( SPEAKER_05): Entonces, cuando vos vas ahí, alguien hablaba recién de la vulnerabilidad, ¿no?
+[2:22:22.400000 - 2:23:59.100000] ( SPEAKER_00): Y en esto de ser o no ser vulnerable, uno conoce, si tiene suerte y es sincero, conoce sus vulnerabilidades.
+[2:25:35.800000 - 2:27:14] ( SPEAKER_03): Algunos las ocultan.
+[2:27:14 - 2:27:14.500000] ( SPEAKER_03): No?
+[2:27:14.500000 - 2:27:16.500000] ( SPEAKER_03): is
+[2:27:16.500000 - 2:27:22.100000] ( SPEAKER_03): otros las exageran y las muestran como para estar a salvo ya de que me hagan...
+[2:27:27.700000 - 2:27:35.800000] ( SPEAKER_04): Si sabes que yo le tengo mucho miedo a esto, listo, ya está.
+[2:27:43.900000 - 2:27:56.900000] ( SPEAKER_00): Lo confesé, lo digo, pero cada uno de nosotros hace lo que puede con eso.
+[2:28:09.900000 - 2:28:25.900000] ( SPEAKER_05): Y yo creo que, por ejemplo...
+[2:28:25.900000 - 2:28:27.900000] ( SPEAKER_03): ¿Cómo avanza un vínculo de amor?
+[2:28:27.900000 - 2:28:29.900000] ( SPEAKER_03): Pero ¿cómo avanza de verdad?
+[2:28:31.900000 - 2:28:36.460000] ( SPEAKER_04): No digo, bueno, nos conocimos, nos conocimos en una red,
+[2:28:41.020000 - 2:28:48.860000] ( SPEAKER_00): nos encontramos en un café, hace un mes que estamos hablando,
+[2:28:56.700000 - 2:29:07.420000] ( SPEAKER_05): ya nos conocemos y entonces te cuento toda mi verdad.
+[2:29:18.140000 - 2:29:31.260000] ( SPEAKER_04): No, no funciona así la vida.
+[2:29:44.380000 - 2:29:58.060000] ( SPEAKER_06): ¿Cómo funciona?
+[2:30:11.740000 - 2:30:28.860000] ( SPEAKER_03): Digo, hay un momento, digo, por más que uno cree que funciona así,
+[2:30:45.980000 - 2:31:10.460000] ( SPEAKER_04): ¿sabes cuándo vos empezás a sentir que el otro puede ser un amor en vos?
+[2:31:10.460000 - 2:31:12.520000] ( SPEAKER_03): you
+[2:31:12.520000 - 2:31:17.040000] ( SPEAKER_03): cuando genuinamente le empezás a abrir la puerta a tus zonas vulnerables.
+[2:31:17.040000 - 2:31:21.680000] ( SPEAKER_03): ¿Sí? Cuando de un modo auténtico, vos abrís y decís...
+[2:31:21.680000 - 2:31:24.220000] ( SPEAKER_03): Sí, pero lo que pasa es que a mí me pasó algo, no sé si...
+[2:31:26.760000 - 2:31:30.740000] ( SPEAKER_04): Mirá, esto no se lo conté a nadie.
+[2:31:30.740000 - 2:31:35.740000] ( SPEAKER_03): O uno dice, mira, yo prefiero no hablar de esto, pero te lo voy a comentar.
+[2:31:40.740000 - 2:31:50.240000] ( SPEAKER_04): Es decir, son esas cosas, esos secretos, esas vivencias.
+[2:31:59.740000 - 2:32:15.240000] ( SPEAKER_00): ¿Quién de los que están en este lugar, en este estudio, de todos los amigos que somos acá?
+[2:32:30.740000 - 2:32:51.240000] ( SPEAKER_05): ¿Quién no guarda alguna vivencia que no le gustaría compartir con nadie?
+[2:32:51.240000 - 2:32:57.440000] ( SPEAKER_03): ¿Sí? Una vivencia que es íntima, que es dolorosa, que es vergonzante,
+[2:33:03.640000 - 2:33:13.560000] ( SPEAKER_04): que es, no sé, donde uno fue un poco cobarde,
+[2:33:23.480000 - 2:33:36.680000] ( SPEAKER_00): donde uno se sintió avasallado, lo que fuere,
+[2:33:49.880000 - 2:34:05.480000] ( SPEAKER_05): pero una vivencia que uno no tiene ganas de compartir,
+[2:34:21.080000 - 2:34:38.040000] ( SPEAKER_04): a veces ni con uno, ¿no?
+[2:34:55 - 2:35:14.840000] ( SPEAKER_06): Entonces uno trata de olvidársela, la reprime, se la olvida,
+[2:35:34.680000 - 2:35:56.280000] ( SPEAKER_03): y dice, no, mejor de eso no hablemos.
+[2:36:17.880000 - 2:36:43.920000] ( SPEAKER_04): Entonces, bueno, ese punto del amor y la confianza por el otro.
+[2:37:09.960000 - 2:37:37.280000] ( SPEAKER_05): Por ejemplo, los analistas.
+[2:37:37.280000 - 2:37:40.920000] ( SPEAKER_03): que tenemos una relación de amor con nuestros pacientes,
+[2:37:44.560000 - 2:37:50] ( SPEAKER_04): se llama amor de transferencia,
+[2:37:55.440000 - 2:38:03.080000] ( SPEAKER_00): es decir, se llama un amor que es un amor de...
+[2:38:03.080000 - 2:38:10.080000] ( SPEAKER_03): Confías en mí, o sea, sos capaz de poner tus dolores en mis manos y yo soy capaz de cuidar esos dolores y ayudarte.
+[2:38:17.080000 - 2:38:31.080000] ( SPEAKER_04): Este tipo de amor hablo, ¿no? No, no, no de un amor erótico, sexualizado, pero es una manera del amor.
+[2:38:45.080000 - 2:39:03.080000] ( SPEAKER_00): ¿Cuándo uno empieza a tener ese vínculo con el paciente? Cuando el paciente viene y te dice,
+[2:39:21.080000 - 2:39:43.080000] ( SPEAKER_05): mirá, te voy a contar algo que yo no se lo conté nunca a nadie, listo.
+[2:40:05.080000 - 2:40:31.080000] ( SPEAKER_04): Ahí se abre una puerta donde decís, esto empieza a funcionar.
+[2:40:57.080000 - 2:41:29.080000] ( SPEAKER_06): Del mismo modo pasa con las relaciones. Uno empieza a mostrar con qué cosas es vulnerable,
+[2:42:01.080000 - 2:42:39.080000] ( SPEAKER_03): a qué le tiene miedo, qué anhela, qué sueños cree que va a alcanzar, cuáles cree que son imposibles
+[2:43:17.080000 - 2:44:05.080000] ( SPEAKER_04): y empieza a escuchar la voz de ese otro y empieza a entender que este otro también pasa a ser una voz
+[2:44:53.080000 - 2:45:46.080000] ( SPEAKER_05): que va a ser mía después de un tiempo. Funciona o no funcione para siempre, ¿eh?
+[2:46:39.080000 - 2:47:38.080000] ( SPEAKER_04): Porque muchos llevamos una frase o alguien que uno podrá decir, ¿sabés qué me decía una pareja
+[2:48:37.080000 - 2:49:42.080000] ( SPEAKER_03): que alguna vez tuve? Y tirás esa frase que ahora es tuya, que te quedó recorriendo, que te lo dijo en un momento.
+[2:50:47.080000 - 2:51:57.080000] ( SPEAKER_00): Bueno, lo dejaste empezar a formar parte de las multitudes que te componen, ¿sí?
+[2:53:07.080000 - 2:54:28.080000] ( SPEAKER_04): Entonces yo creo que este es ese punto. Bueno, y los mandatos son esas voces que a veces son maravillosas.
+[2:54:28.080000 - 2:54:31.620000] ( SPEAKER_03): Digo, porque uno escucha la palabra mandato y piensa que es algo malo.
+[2:54:35.160000 - 2:54:41.200000] ( SPEAKER_04): Pero cuando vos decís...
+[2:54:41.200000 - 2:54:44.200000] ( SPEAKER_03): piensa que es algo más.
+[2:54:44.200000 - 2:54:49.600000] ( SPEAKER_03): Mira, mi viejo o mi vieja me decían que yo tenía que seguir.
+[2:54:55 - 2:55:02.960000] ( SPEAKER_04): Cuando tenía ganas de dejar, me decían, no, no, no,
+[2:55:10.920000 - 2:55:21.440000] ( SPEAKER_00): vos no tenés que dejar, vos tenés que seguir,
+[2:55:31.960000 - 2:55:45.080000] ( SPEAKER_05): porque este es tu sueño, vos no aflojés.
+[2:55:58.200000 - 2:56:14.040000] ( SPEAKER_04): Digo, pienso, no sé, en esos momentos,
+[2:56:29.880000 - 2:56:48.920000] ( SPEAKER_06): en esa emoción que quebró al Dibu Martínez, cuando dijo,
+[2:57:07.960000 - 2:57:29.840000] ( SPEAKER_03): me acuerdo mi vieja laburando, mi viejo laburando,
+[2:57:51.720000 - 2:58:16.160000] ( SPEAKER_04): y yo que en algún momento el tipo había pensado en dejar
+[2:58:40.600000 - 2:59:08.080000] ( SPEAKER_05): porque no había un espacio para él y alguien que vino le dijo,
+[2:59:35.560000 - 3:00:05.160000] ( SPEAKER_04): no, ¿cómo vas a dejar si este es tu sueño?
+[3:00:34.800000 - 3:01:07.800000] ( SPEAKER_03): Bueno, esos son mandatos, y son mandatos que a veces
+[3:01:40.800000 - 3:02:18.200000] ( SPEAKER_00): te ayudan a recordar que sos lo que deseás
+[3:02:55.600000 - 3:03:35.280000] ( SPEAKER_04): y que tu deseo auténtico es ese.
+[3:04:14.960000 - 3:04:57.160000] ( SPEAKER_02): Y hay otros mandatos que por el contrario,
+[3:05:39.360000 - 3:06:26.920000] ( SPEAKER_04): te llenan de culpa, te llenan de miedo, te frustran,
+[3:07:14.480000 - 3:08:04.920000] ( SPEAKER_02): que vienen y te dicen, ¿en serio querés jugar al fútbol?
+[3:08:55.360000 - 3:09:48.040000] ( SPEAKER_03): ¿En serio querés bailar? ¿Vos sabés cuántos llegan?
+[3:10:40.720000 - 3:11:34.920000] ( SPEAKER_04): ¿Cuántos cantantes llegan?
+[3:12:29.120000 - 3:13:24.920000] ( SPEAKER_00): Dejáte de bromar, ¿qué vas a cantar?
+[3:14:20.720000 - 3:15:18.600000] ( SPEAKER_06): ¿Por qué vas a llegar vos?
+[3:16:16.560000 - 3:17:17.080000] ( SPEAKER_05): Entonces, bueno, con todas esas voces,
+[3:18:17.600000 - 3:19:20.760000] ( SPEAKER_00): y esto de vos no podés ser de otro equipo,
+[3:20:23.920000 - 3:21:28.840000] ( SPEAKER_03): ¿sabés qué quiere decir?
+[3:22:33.760000 - 3:23:39.640000] ( SPEAKER_01): Mira que si yo soy de otro equipo,
+[3:24:45.520000 - 3:25:52.400000] ( SPEAKER_04): yo te voy a querer menos.
+[3:25:52.400000 - 3:25:56.400000] ( SPEAKER_03): ¿Por qué? Porque te vas a parecer menos a mí.
+[3:26:00.400000 - 3:26:06.640000] ( SPEAKER_04): Y es tremendo eso.
+[3:26:12.880000 - 3:26:23.360000] ( SPEAKER_00): Es tremendo instalar en el otro que sólo va a ser querido si nos parecemos
+[3:26:33.840000 - 3:26:45.840000] ( SPEAKER_05): a esa persona.
+[3:26:57.840000 - 3:27:14.080000] ( SPEAKER_04): Porque a veces corremos el riesgo de, para ser amados, confundirnos tanto con
+[3:27:30.320000 - 3:27:47.280000] ( SPEAKER_06): el otro
+[3:28:04.240000 - 3:28:23.480000] ( SPEAKER_03): que terminamos sin saber quiénes somos nosotros de verdad.
+[3:28:23.480000 - 3:28:28.680000] ( SPEAKER_03): Es el otro tema, ¿no? La independencia o la no dependencia emocional del otro.
+[3:28:33.880000 - 3:28:43.280000] ( SPEAKER_04): ¿Hasta qué punto uno puede depender emocionalmente del otro?
+[3:28:52.680000 - 3:29:03.480000] ( SPEAKER_00): ¿Hasta qué punto es sano? ¿Hasta qué punto no?
+[3:29:03.480000 - 3:29:05.880000] ( SPEAKER_03): Mira, todos dependemos emocionalmente de alguien.
+[3:29:05.880000 - 3:29:12.480000] ( SPEAKER_03): digo, la independencia total es una compadrada de algunos que dicen
+[3:29:19.080000 - 3:29:29.480000] ( SPEAKER_04): yo no dependo de nadie, a mí no me interesa lo que diga nadie, es mentira.
+[3:29:29.480000 - 3:29:31.480000] ( SPEAKER_03): esa persona se engaña.
+[3:29:34.480000 - 3:29:39.880000] ( SPEAKER_04): El punto, una cosa es que vos digas,
+[3:29:45.280000 - 3:29:53.880000] ( SPEAKER_00): mira, tuve un día tremendo, me pasó algo horrible,
+[3:30:02.480000 - 3:30:13.280000] ( SPEAKER_05): ¿sabes qué? ¿Te habrá pasado, Andy?
+[3:30:24.080000 - 3:30:37.880000] ( SPEAKER_04): No veo la hora de llegar a mi casa y que mi mujer me dé un abrazo.
+[3:30:51.680000 - 3:31:08.080000] ( SPEAKER_06): No veo la hora de abrazar a mi hija, sentarme,
+[3:31:24.480000 - 3:31:44.080000] ( SPEAKER_03): estar con mi familia. ¿Y eso qué es?
+[3:32:03.680000 - 3:32:27.680000] ( SPEAKER_04): Y sí, dependo de ellos para ser feliz,
+[3:32:51.680000 - 3:33:20.680000] ( SPEAKER_05): para sentirme contenido, para compartir una alegría.
+[3:33:49.680000 - 3:34:21.280000] ( SPEAKER_04): No veía la hora de llegar y contártelo,
+[3:34:52.880000 - 3:35:27.880000] ( SPEAKER_03): algo que me hace bien o algo que me hace mal.
+[3:36:02.880000 - 3:36:42.880000] ( SPEAKER_00): Algún tipo de dependencia en ese sentido hay.
+[3:37:22.880000 - 3:38:05.880000] ( SPEAKER_04): ¿Cuál es el problema?
+[3:38:48.880000 - 3:39:35.880000] ( SPEAKER_02): Cuando esa dependencia se extralimita a un punto tal
+[3:40:22.880000 - 3:41:12.480000] ( SPEAKER_04): que yo sin la aprobación del otro, sin el otro,
+[3:42:02.080000 - 3:42:53.080000] ( SPEAKER_02): siento que no puedo vivir.
+[3:43:44.080000 - 3:44:38.080000] ( SPEAKER_03): Cuando me duele de un modo tal que soy incapaz de decidir
+[3:45:32.080000 - 3:46:28.080000] ( SPEAKER_04): si el otro no me dice qué hacer.
+[3:47:24.080000 - 3:48:23.080000] ( SPEAKER_00): Cuando siento que si el otro me deja, me muero,
+[3:49:22.080000 - 3:50:23.480000] ( SPEAKER_06): que mi vida no tiene sentido si no estoy con el otro.
+[3:51:24.880000 - 3:52:29.680000] ( SPEAKER_05): En esa desmesura es donde la dependencia se hace mal.
+[3:52:29.680000 - 3:52:33.680000] ( SPEAKER_03): Sí, ahora, sin ir a ponerle a un ejemplo tan extremo.
+[3:52:37.680000 - 3:52:45.680000] ( SPEAKER_04): Pasa mucho, lo veo en mis relaciones, en mis amigos o lo que sea,
+[3:52:53.680000 - 3:53:06.680000] ( SPEAKER_00): esto de, si está en línea no me responde un mensaje, mezcla un poco con la ansiedad también,
+[3:53:19.680000 - 3:53:34.680000] ( SPEAKER_05): quizás, pero al toque le enojo.
+[3:53:49.680000 - 3:54:08.680000] ( SPEAKER_04): No sé, por ahí, la dependencia emocional no me refiero a esto de mi vida no tiene sentido,
+[3:54:27.680000 - 3:54:48.680000] ( SPEAKER_06): pero sí que ya me pone mal humor y me cambia el día.
+[3:55:09.680000 - 3:55:32.680000] ( SPEAKER_03): Dale, ¿por qué no me respondes?
+[3:55:55.680000 - 3:56:20.680000] ( SPEAKER_04): Si estás en línea, si yo veo que estás en línea.
+[3:56:45.680000 - 3:57:17.680000] ( SPEAKER_05): No sé, como en esos pequeños detalles, no me respondió si viene conmigo a no sé dónde.
+[3:57:17.680000 - 3:57:19.680000] ( SPEAKER_03): Bueno, en una pareja directamente.
+[3:57:19.680000 - 3:57:21.680000] ( SPEAKER_03): Sí. Uy, nada, mi historia también puede ser, eh.
+[3:57:23.680000 - 3:57:26.980000] ( SPEAKER_04): Y porque yo pongo mi grupo de amigos,
+[3:57:30.280000 - 3:57:35.580000] ( SPEAKER_00): chiquín está para hacer algo y nadie me responde.
+[3:57:40.880000 - 3:57:46.680000] ( SPEAKER_05): Estoy mal.
+[3:57:52.480000 - 3:57:59.280000] ( SPEAKER_04): Son todos unos pelos.
+[3:58:06.080000 - 3:58:14.080000] ( SPEAKER_06): Bueno, no, ¿sabés qué?
+[3:58:14.080000 - 3:58:14.580000] ( SPEAKER_03): Bye.
+[3:58:14.580000 - 3:58:17.580000] ( SPEAKER_03): Bueno, pero ¿sabes qué pasa, Sofí?
+[3:58:20.580000 - 3:58:28.580000] ( SPEAKER_04): El intercambio con los demás, digo, la vida en general,
+[3:58:36.580000 - 3:58:48.580000] ( SPEAKER_00): puede provocarte muchas sensaciones, siempre.
+[3:59:00.580000 - 3:59:15.580000] ( SPEAKER_05): De vez en cuando la vida nos besa en la boca, dice Serrat,
+[3:59:30.580000 - 3:59:50.580000] ( SPEAKER_04): y de vez en cuando nos encontramos sin saber qué pasa, dice sobre el final,
+[4:00:10.580000 - 4:00:32.580000] ( SPEAKER_06): como están los extremos.
+[4:00:54.580000 - 4:01:20.580000] ( SPEAKER_03): Una de esas cosas que la vida te puede generar es frustración.
+[4:01:20.580000 - 4:01:23.980000] ( SPEAKER_03): Yo digo, chicos, ¿quién sale conmigo hoy?
+[4:01:27.380000 - 4:01:31.940000] ( SPEAKER_04): Que estoy solo.
+[4:01:31.940000 - 4:01:35.660000] ( SPEAKER_03): no me responde nadie, o sea, somos 14 en el grupo,
+[4:01:39.380000 - 4:01:44.940000] ( SPEAKER_04): ninguno de los otros 13 tiene...
+[4:01:50.500000 - 4:01:57.660000] ( SPEAKER_00): nadie me responde.
+[4:02:04.820000 - 4:02:15.460000] ( SPEAKER_05): Bueno, te frustra, ¿sí?
+[4:02:26.100000 - 4:02:39.860000] ( SPEAKER_04): ¿Por qué? Porque la frustración es
+[4:02:53.620000 - 4:03:09.580000] ( SPEAKER_06): una emoción que aparece cuando a vos no te dan algo
+[4:03:25.540000 - 4:03:43.740000] ( SPEAKER_03): que vos creés que te mereces.
+[4:04:01.940000 - 4:04:21.460000] ( SPEAKER_04): Esa es la frustración.
+[4:04:40.980000 - 4:05:04.500000] ( SPEAKER_05): ¿Sí? Yo creo que me merezco un mejor horario en la radio,
+[4:05:28.020000 - 4:05:53.260000] ( SPEAKER_04): creo que me merezco un mejor sueldo,
+[4:06:18.500000 - 4:06:46.740000] ( SPEAKER_03): creo que me merezco que alguien me elija como pareja,
+[4:07:14.980000 - 4:07:45.620000] ( SPEAKER_00): creo que me merezco que mis amigos me respondan.
+[4:08:16.260000 - 4:08:49.700000] ( SPEAKER_04): O sea, yo creo que me merezco algo y no me lo dan.
+[4:09:23.140000 - 4:10:01.140000] ( SPEAKER_02): Entonces aparece una emoción que se llama frustración, ¿sí?
+[4:10:39.140000 - 4:11:18.500000] ( SPEAKER_04): ¿Y sabes qué genera la frustración?
+[4:11:57.860000 - 4:12:38.220000] ( SPEAKER_02): Enojo.
+[4:12:38.220000 - 4:12:39.220000] ( SPEAKER_03): Esa es la frustración.
+[4:12:39.220000 - 4:12:40.020000] ( SPEAKER_03): No lo puedo controlar.
+[4:12:40.820000 - 4:12:42.120000] ( SPEAKER_04): Enojo.
+[4:12:43.920000 - 4:12:46.220000] ( SPEAKER_00): Enojo.
+[4:12:46.220000 - 4:12:51.020000] ( SPEAKER_03): Enojo, enojo. Hay situaciones que no te frustran, te duelen, te generan un dolor.
+[4:12:55.820000 - 4:13:03.620000] ( SPEAKER_04): La frustración no genera dolor, genera enojo.
+[4:13:11.420000 - 4:13:22.620000] ( SPEAKER_00): Tú decís, esto es una manga de salame, ¿qué hacen acá?
+[4:13:33.820000 - 4:13:47.420000] ( SPEAKER_05): Mirá, ¿sabes qué? Me voy del grupo, dice uno.
+[4:14:01.020000 - 4:14:16.820000] ( SPEAKER_04): Entonces uno dice, che, ¿qué pasó con Sofi que se fue?
+[4:14:32.620000 - 4:14:51.020000] ( SPEAKER_06): Listo, seguramente a las 3 horas alguien la llama y vuelve.
+[4:15:09.420000 - 4:15:29.220000] ( SPEAKER_03): ¿Cómo lo manejas?
+[4:15:49.020000 - 4:16:18.420000] ( SPEAKER_04): Bueno, ahí hay que ser muy, muy, muy rápido, digo, mentalmente, conocerse.
+[4:16:47.820000 - 4:17:20.820000] ( SPEAKER_05): Es todo un laburo, Andy, ¿por qué? Porque la emoción es más rápida que el pensamiento.
+[4:17:20.820000 - 4:17:22.820000] ( SPEAKER_03): ¿Cómo lo manejas?
+[4:17:22.820000 - 4:17:24.460000] ( SPEAKER_03): Yo digo algo que no te gusta.
+[4:17:24.460000 - 4:17:25.660000] ( SPEAKER_03): lo siento en mi cuerpo.
+[4:17:25.660000 - 4:17:29.140000] ( SPEAKER_03): No, yo digo, hago un comentario, por ahí, sin mala intención,
+[4:17:32.620000 - 4:17:37.980000] ( SPEAKER_04): que a Ebe le cae mal.
+[4:17:43.340000 - 4:17:52.740000] ( SPEAKER_00): Ebe lo siente y se queda mal conmigo.
+[4:18:02.140000 - 4:18:14.180000] ( SPEAKER_05): Después, cuando lo piensa, puede decir, no, che...
+[4:18:14.180000 - 4:18:15.180000] ( SPEAKER_03): A ver...
+[4:18:15.180000 - 4:18:24.680000] ( SPEAKER_03): Gaby no lo dijo para lastimarme seguramente, pero es todo un proceso racional mientras que la emoción te pega en el momento uno.
+[4:18:34.180000 - 4:18:47.680000] ( SPEAKER_04): La emoción es como el deseo, ¿no?
+[4:18:47.680000 - 4:18:48.800000] ( SPEAKER_03): 😤😎LE BEBAN NEVEGOI! 😤👀
+[4:18:48.800000 - 4:18:49.640000] ( SPEAKER_03): Oh no!
+[4:18:49.640000 - 4:18:55.140000] ( SPEAKER_03): 지금까지 신선한 경제였습니다.
+[4:18:55.140000 - 4:18:57.140000] ( SPEAKER_03): es como el deseo, ¿no?
+[4:18:59.140000 - 4:19:06.140000] ( SPEAKER_04): De sentirte rechazado, de sentirte que no te tienen en cuenta
+[4:19:13.140000 - 4:19:22.140000] ( SPEAKER_00): por las redes sociales, es un poco eso.
+[4:19:31.140000 - 4:19:43.140000] ( SPEAKER_05): No me pusieron like a esto, no me aceptaron, no me dijeron,
+[4:19:55.140000 - 4:20:11.140000] ( SPEAKER_04): no me meten comentarios, vi que el otro está con el otro
+[4:20:27.140000 - 4:20:45.140000] ( SPEAKER_06): en tal lugar y no me llamaron.
+[4:21:03.140000 - 4:21:24.140000] ( SPEAKER_03): Es frustrante casi todo el tiempo las redes sociales.
+[4:21:45.140000 - 4:22:07.140000] ( SPEAKER_04): Sí, claro.
+[4:22:07.140000 - 4:22:10.580000] ( SPEAKER_03): Claro, claro. Es más, viste que uno estaba contento y dice,
+[4:22:14.020000 - 4:22:20.500000] ( SPEAKER_04): ¿viste cuántos likes tuvo lo que dije?
+[4:22:26.980000 - 4:22:36.700000] ( SPEAKER_00): Es como, viste, una cosa maravillosa y, che,
+[4:22:46.420000 - 4:22:57.780000] ( SPEAKER_05): al final no gustó lo que subí.
+[4:23:09.140000 - 4:23:22.220000] ( SPEAKER_04): Viste, no, nada.
+[4:23:35.300000 - 4:23:51.780000] ( SPEAKER_06): Sentís esa desaprobación de los demás, ¿no?
+[4:24:08.260000 - 4:24:25.740000] ( SPEAKER_03): Sí, sí.
+[4:24:43.220000 - 4:25:01.700000] ( SPEAKER_04): Todo el tiempo.
+[4:25:20.180000 - 4:25:40.740000] ( SPEAKER_05): Bueno, y eso obvio que te frustra.
+[4:26:01.300000 - 4:26:24.660000] ( SPEAKER_04): O sea, te frustra hasta el punto tal de unubilarte.
+[4:26:48.020000 - 4:27:14.500000] ( SPEAKER_03): Digo, si de verdad tuviste mil comentarios maravillosos y
+[4:27:40.980000 - 4:28:11.340000] ( SPEAKER_00): el minuno feo te fruta, te los tenga cualquier.
+[4:28:11.340000 - 4:28:12.180000] ( SPEAKER_03): I know.
+[4:28:12.180000 - 4:28:20.180000] ( SPEAKER_03): Y el que no se expone, no se frustra. Exponerse puede ser frustrante también.
+[4:28:28.180000 - 4:28:42.180000] ( SPEAKER_04): Yo no me expongo y no propongo nada, nadie me va a rechazar.
+[4:28:56.180000 - 4:29:15.180000] ( SPEAKER_00): Yo no digo nada, tiro un chiste, no tiro chiste, nadie se va a reír.
+[4:29:34.180000 - 4:29:55.180000] ( SPEAKER_05): No está ni la rechazo, no me expongo.
+[4:30:16.180000 - 4:30:39.180000] ( SPEAKER_04): Listo, no me expongo más.
+[4:31:02.180000 - 4:31:27.180000] ( SPEAKER_06): Pero no vivo tampoco.
+[4:31:27.180000 - 4:31:27.680000] ( SPEAKER_03): I know.
+[4:31:27.680000 - 4:31:29.760000] ( SPEAKER_03): you
+[4:31:29.760000 - 4:31:31.760000] ( SPEAKER_03): Lito no me expongo más.
+[4:31:31.760000 - 4:31:32.760000] ( SPEAKER_03): Claro, lo que pasa...
+[4:31:33.760000 - 4:31:35.760000] ( SPEAKER_04): Pero no vivo tampoco.
+[4:31:37.760000 - 4:31:41.760000] ( SPEAKER_00): Por eso es difícil retirarse de la vida, ¿no?
+[4:31:45.760000 - 4:31:51.760000] ( SPEAKER_05): O sea, porque es eso.
+[4:31:57.760000 - 4:32:05.760000] ( SPEAKER_04): A ver, vivir es estar expuesto.
+[4:32:05.760000 - 4:32:06.260000] ( SPEAKER_03): here.
+[4:32:06.260000 - 4:32:09.820000] ( SPEAKER_03): Estás expuesto a enamorarte, por ejemplo.
+[4:32:09.820000 - 4:32:11.880000] ( SPEAKER_03): you
+[4:32:11.880000 - 4:32:13.880000] ( SPEAKER_03): y el amor es exponerte a sufrir.
+[4:32:13.880000 - 4:32:16.320000] ( SPEAKER_03): ¿No te querés exponer a ese sufrimiento?
+[4:32:18.760000 - 4:32:23.200000] ( SPEAKER_04): Bueno, listo, yo no me enamoro de nadie.
+[4:32:27.640000 - 4:32:33.280000] ( SPEAKER_00): Yo no salgo con nadie.
+[4:32:38.920000 - 4:32:46.840000] ( SPEAKER_05): A mí no me gustan las relaciones serias, dice alguien.
+[4:32:54.760000 - 4:33:04.800000] ( SPEAKER_04): No, ¿sabés qué? Yo a esta altura ya está.
+[4:33:14.840000 - 4:33:26.040000] ( SPEAKER_06): Yo no me quiero comprometer.
+[4:33:37.240000 - 4:33:50.280000] ( SPEAKER_03): Tenés miedo a veces.
+[4:33:50.280000 - 4:33:52.280000] ( SPEAKER_03): I love the way he stays.
+[4:33:52.280000 - 4:33:54.520000] ( SPEAKER_03): Entiendo que a veces alguien pueda decir genuinamente,
+[4:33:56.760000 - 4:34:00.800000] ( SPEAKER_04): mira, no es mi momento para estar con alguien.
+[4:34:04.840000 - 4:34:12.440000] ( SPEAKER_00): Pero a veces, todo ese, no, yo hace como 5 o 6 años que no salgo con...
+[4:34:20.040000 - 4:34:29.840000] ( SPEAKER_05): ¿Sabés lo que pasa? Que estoy tan bien...
+[4:34:39.640000 - 4:34:51.560000] ( SPEAKER_04): Yo te juro que muchas veces, no digo todos,
+[4:35:03.480000 - 4:35:17.800000] ( SPEAKER_06): pero muchas veces eso esconde un miedo.
+[4:35:32.120000 - 4:35:49.240000] ( SPEAKER_03): Un miedo a qué? A la vulnerabilidad que te genera el amor.
+[4:35:49.240000 - 4:35:51.240000] ( SPEAKER_03): a eso que es muy vulnerable.
+[4:35:53.240000 - 4:36:01.240000] ( SPEAKER_04): A partir de ahora, con vos, lo que me haga me va a doler potencialmente.
+[4:36:09.240000 - 4:36:19.240000] ( SPEAKER_00): No tengo ganas, dice uno.
+[4:36:29.240000 - 4:36:41.240000] ( SPEAKER_05): No quiero pasar por ese...
+[4:36:53.240000 - 4:37:09.240000] ( SPEAKER_04): Me decía un amigo que había sufrido mucho por amor,
+[4:37:25.240000 - 4:37:43.240000] ( SPEAKER_06): estaba conociendo a alguien y me dice,
+[4:38:01.240000 - 4:38:21.240000] ( SPEAKER_03): yo cuando veo que me pasa algo, ya interrumpo.
+[4:38:41.240000 - 4:39:03.240000] ( SPEAKER_04): Le digo, ¿por qué?
+[4:39:25.240000 - 4:39:49.240000] ( SPEAKER_05): Porque ya estuve ahí.
+[4:39:49.240000 - 4:39:50.080000] ( SPEAKER_03): Oh yeah.
+[4:39:50.080000 - 4:39:51.620000] ( SPEAKER_03): Oh.
+[4:39:51.620000 - 4:39:55.300000] ( SPEAKER_03): Ya estuve en el amor y ¿sabes qué? No me gustó lo que se siente.
+[4:39:58.980000 - 4:40:09.260000] ( SPEAKER_04): ¿No? Como una situación de mucho... Claro, porque sentís incertidumbre, temor,
+[4:40:19.540000 - 4:40:32.420000] ( SPEAKER_00): discutís, falta de aprobación.
+[4:40:45.300000 - 4:41:00.500000] ( SPEAKER_05): Vos dijiste algo y te das cuenta que tu pareja te dice,
+[4:41:15.700000 - 4:41:33.420000] ( SPEAKER_04): bueno, ¿sabes qué? Mejor hablemos luego después cuando llegues a casa.
+[4:41:51.140000 - 4:42:10.860000] ( SPEAKER_06): Ya está, te quedaste todo el día amado.
+[4:42:10.860000 - 4:42:16.360000] ( SPEAKER_03): 지금까지 뉴스 스토리였습니다.
+[4:42:16.360000 - 4:42:18.360000] ( SPEAKER_03): Ça a été très émouvant.
+[4:42:18.360000 - 4:42:24.360000] ( SPEAKER_03): Bueno, porque tiene que ver con qué tu emoción es afectada por lo que le pasa al otro.
+[4:42:30.360000 - 4:42:38.360000] ( SPEAKER_04): Pero estos son los riesgos de estar vivo.
+[4:42:46.360000 - 4:42:58.360000] ( SPEAKER_00): Y en la vida todo el tiempo alguien nos aprueba y alguien nos desaprueba.
+[4:43:10.360000 - 4:43:25.360000] ( SPEAKER_05): Yo me imagino que debe ser muy frustrante.
+[4:43:40.360000 - 4:44:02.360000] ( SPEAKER_04): No es mi caso, pero quien entra a estos sitios de redes, no los conozco bien,
+[4:44:24.360000 - 4:44:52.360000] ( SPEAKER_06): pero cuando vos le mandás un intento de contacto a alguien, sea como fuere,
+[4:45:20.360000 - 4:45:50.360000] ( SPEAKER_03): y el otro no te responde.
+[4:46:20.360000 - 4:46:55.360000] ( SPEAKER_04): O cuando te responde y después de hablar tres minutos te bajas la cortina y desapareces.
+[4:47:30.360000 - 4:48:08.360000] ( SPEAKER_05): Debes generar esa frustración.
+[4:48:08.360000 - 4:48:08.860000] ( SPEAKER_03): خدا باریکلا
+[4:48:08.860000 - 4:48:10.860000] ( SPEAKER_03): Debes generar esa frustración.
+[4:48:12.860000 - 4:48:20.860000] ( SPEAKER_04): El otro día, la pará, lo conté recién, dentro de eso dije que volví a las aplicaciones de cita,
+[4:48:28.860000 - 4:48:42.860000] ( SPEAKER_00): quería chusmear que había por ahí, y con uno hicimos, hubo coincidencia,
+[4:48:56.860000 - 4:49:14.860000] ( SPEAKER_05): entonces fue empezar una conversación, la conversación duró 10 minutos,
+[4:49:32.860000 - 4:49:54.860000] ( SPEAKER_04): y por algún motivo que desconozco, no, en realidad se fue por...
+[4:50:16.860000 - 4:50:44.860000] ( SPEAKER_06): él canceló esa coincidencia, y hubo un segundo que dije, ¡oh!
+[4:51:12.860000 - 4:51:42.860000] ( SPEAKER_03): Y después dije, bueno, ya está.
+[4:52:12.860000 - 4:52:48.860000] ( SPEAKER_04): Pero sentí ese rechazo, dije, ¡wow! No le gusté, y fue muy obvio,
+[4:53:24.860000 - 4:54:04.860000] ( SPEAKER_05): porque en otros casos quizás alguien no te presta atención o directamente ni aparece.
+[4:54:44.860000 - 4:55:26.860000] ( SPEAKER_04): Acá hubo algo y se fue.
+[4:56:08.860000 - 4:56:52.860000] ( SPEAKER_03): ¿Qué es esto que estabas diciendo vos?
+[4:56:52.860000 - 4:56:54.860000] ( SPEAKER_03): Me arquearía por ahí.
+[4:56:54.860000 - 4:56:56.860000] ( SPEAKER_03): Lo que pasa es que...
+[4:56:56.860000 - 4:57:03.360000] ( SPEAKER_03): El peor dolor que puede experimentar alguien emocional, ¿no?
+[4:57:09.860000 - 4:57:19.160000] ( SPEAKER_04): Es el dolor que se siente ante la indiferencia.
+[4:57:19.160000 - 4:57:22.160000] ( SPEAKER_03): emocional
+[4:57:22.160000 - 4:57:27.160000] ( SPEAKER_03): ante esta sensación de no ser nada para el otro.
+[4:57:27.160000 - 4:57:29.160000] ( SPEAKER_03): No importa nada. No hace nada para el otro.
+[4:57:31.160000 - 4:57:36.160000] ( SPEAKER_04): Tiene que ver con lo que habías planteado de Leo.
+[4:57:41.160000 - 4:57:48.160000] ( SPEAKER_00): ¿Por qué a mí, Cotto?
+[4:57:48.160000 - 4:57:54.160000] ( SPEAKER_03): Claro, claro, bueno, entonces a veces uno se protege de la indiferencia y se excluye, se queda fuera.
+[4:58:00.160000 - 4:58:06.660000] ( SPEAKER_04): Solo.
+[4:58:13.160000 - 4:58:23.160000] ( SPEAKER_00): Viste, claro, como vos decís, bueno, soy el más tronco, entonces cuando van a hacer el pan y queso digo,
+[4:58:33.160000 - 4:58:49.160000] ( SPEAKER_05): che, yo no juego, porque sé que me van a elegir último y no quiero comerme ese dolor de saber que siempre,
+[4:59:05.160000 - 4:59:24.160000] ( SPEAKER_04): bueno, está bien, usted tiene uno más, pero llévatelo a Rolón.
+[4:59:43.160000 - 5:00:05.660000] ( SPEAKER_06): Claro, viste, como diciendo, total, este es uno menos, ¿no?
+[5:00:28.160000 - 5:00:58.660000] ( SPEAKER_03): Pero digo, es esa indiferencia que a veces hay que concientizar para no cometer con los demás.
+[5:00:58.660000 - 5:01:00.660000] ( SPEAKER_03): se queda fuerte.
+[5:01:00.660000 - 5:01:02.660000] ( SPEAKER_03): Sólo.
+[5:01:02.660000 - 5:01:04.660000] ( SPEAKER_03): Es esa indiferencia a la que nos acostumbramos.
+[5:01:04.660000 - 5:01:06.060000] ( SPEAKER_03): de ver que...
+[5:01:06.060000 - 5:01:12.460000] ( SPEAKER_03): un pibe pasa cuando están los coches estacionados pidiendo una moneda
+[5:01:18.860000 - 5:01:28.760000] ( SPEAKER_04): y uno sigue conversando y no quiere ni mirarlo.
+[5:01:38.660000 - 5:01:52.260000] ( SPEAKER_00): Es esa indiferencia que nos genera ahora ya cuando alguien está durmiendo en la calle
+[5:02:05.860000 - 5:02:20.860000] ( SPEAKER_05): y uno pasa como si nada.
+[5:02:35.860000 - 5:02:54.860000] ( SPEAKER_04): Digo, eso es lo que duele, eso es lo que lastima, eso es lo que excluye,
+[5:03:13.860000 - 5:03:41.460000] ( SPEAKER_06): eso es lo que nos, como género, nos vuelve seres difíciles, complejos.
+[5:04:09.060000 - 5:04:41.160000] ( SPEAKER_03): Que es el hecho de tener una mirada indiferente sobre el dolor de los demás.
+[5:05:13.260000 - 5:05:50.860000] ( SPEAKER_04): A veces, y yo creo que todo el mundo merece el respeto, con justo derecho,
+[5:06:28.460000 - 5:07:10.560000] ( SPEAKER_05): si yo te digo, si estamos en una red, y a los diez minutos digo,
+[5:07:52.660000 - 5:08:40.760000] ( SPEAKER_04): Ebe, no te enojes, pero estamos yendo para un lado que me parece que no era lo que yo quería,
+[5:09:28.860000 - 5:10:22.460000] ( SPEAKER_03): igual, gracias, me encantó charlar con vos, pero dejemos acá, ¿te parece?
+[5:11:16.060000 - 5:12:14.660000] ( SPEAKER_00): Listo, a vos por ahí no te va a gustar lo que digo, pero no es lo mismo que vos me pones una pregunta
+[5:13:13.260000 - 5:14:13.860000] ( SPEAKER_04): y yo desaparezca de la nada.
+[5:15:14.460000 - 5:16:21.060000] ( SPEAKER_02): Porque por lo menos te ganaste el derecho a que yo te dijera, mira, yo quería, iba por otro lado
+[5:17:27.660000 - 5:18:37.260000] ( SPEAKER_04): y veo que no estamos buscando lo mismo.
+[5:19:46.860000 - 5:21:01.960000] ( SPEAKER_02): Entonces yo creo que esa sensación la tenemos cada vez que salimos a la vida,
+[5:22:17.060000 - 5:23:34.660000] ( SPEAKER_03): la tenemos cada vez nosotros que enfrentamos un micrófono.
+[5:24:52.260000 - 5:26:12.360000] ( SPEAKER_04): ¿Cómo saldrá hoy? ¿Nos aprobarán? ¿No nos aprobarán?
+[5:27:32.460000 - 5:28:54.560000] ( SPEAKER_00): ¿Dirán que estuvo el programa bueno? ¿Dirán que estuvo malo?
+[5:30:16.660000 - 5:31:40.760000] ( SPEAKER_06): ¿Nos citarán? ¿No nos levantará nadie?
+[5:33:04.860000 - 5:34:35.460000] ( SPEAKER_05): O sea, todos enfrentamos a nuestra manera y en su escala el desafío de ser aprobados por la vida.
+[5:36:06.060000 - 5:37:41.660000] ( SPEAKER_00): Entonces, hay que vivir sabiendo que esto es parte de la vida,
+[5:39:17.260000 - 5:40:56.860000] ( SPEAKER_03): que es necesario el reconocimiento de los demás para estar bien,
+[5:42:36.460000 - 5:44:21.060000] ( SPEAKER_01): pero que no puede ser esa necesidad de reconocimiento tan excesiva,
+[5:46:05.660000 - 5:47:54.760000] ( SPEAKER_04): digamos que nuestro deseo quede opacado simplemente porque a otro no le gusta lo que deseamos.
+[5:47:54.760000 - 5:47:55.260000] ( SPEAKER_03): you
+[5:47:55.260000 - 5:48:00.260000] ( SPEAKER_03): Thank you.
+[5:48:00.260000 - 5:48:02.260000] ( SPEAKER_03): listo
+[5:48:02.260000 - 5:48:02.940000] ( SPEAKER_03): la obra.
+[5:48:02.940000 - 5:48:05] ( SPEAKER_03): you
+[5:48:05 - 5:48:07.060000] ( SPEAKER_03): you
+[5:48:07.060000 - 5:48:11.080000] ( SPEAKER_03): Claro, para mí a veces pasa esto de, bueno, cuando te animás,
+[5:48:15.100000 - 5:48:21.400000] ( SPEAKER_04): das el paso, estás con alguien, ponele, ¿no?
+[5:48:27.700000 - 5:48:36.820000] ( SPEAKER_00): Venciste esas inseguridades que te hacían sentir que nadie te
+[5:48:45.940000 - 5:48:57.580000] ( SPEAKER_05): iba a ver o, bueno, finalmente fuiste visto por alguien,
+[5:49:09.220000 - 5:49:21.980000] ( SPEAKER_04): gustaste, bien.
+[5:49:34.740000 - 5:49:48.300000] ( SPEAKER_06): Estás con alguien.
+[5:50:01.860000 - 5:50:17.740000] ( SPEAKER_03): Después viene la inseguridad propia de la relación,
+[5:50:33.620000 - 5:50:51.980000] ( SPEAKER_04): de decir, estás enganchado y qué suerte,
+[5:51:10.340000 - 5:51:31.420000] ( SPEAKER_05): pero va a pasar una y probablemente te vayas con la
+[5:51:52.500000 - 5:52:14.340000] ( SPEAKER_04): otra.
+[5:52:36.180000 - 5:52:59.820000] ( SPEAKER_03): No, me parece que un poco todos tenemos eso.
+[5:53:23.460000 - 5:53:50.220000] ( SPEAKER_00): En una medida es sano, no sé, me pregunto yo.
+[5:54:16.980000 - 5:54:46.860000] ( SPEAKER_04): Y en otra puede llegar a ser realmente muy doloroso.
+[5:55:16.740000 - 5:55:49.380000] ( SPEAKER_02): Si uno vive con ese sentimiento.
+[5:55:49.380000 - 5:55:54.980000] ( SPEAKER_03): Una cosa es vivir con ese sentimiento y otra cosa es vivir con ese conocimiento,
+[5:56:00.580000 - 5:56:07.580000] ( SPEAKER_04): que no es lo mismo.
+[5:56:14.580000 - 5:56:23.580000] ( SPEAKER_00): Digo, entender que...
+[5:56:23.580000 - 5:56:26.940000] ( SPEAKER_03): tranquilamente la persona con la que está se puede ir con otra persona.
+[5:56:26.940000 - 5:56:30.940000] ( SPEAKER_03): es algo que nos puede pasar a cualquiera y en cualquier momento.
+[5:56:34.940000 - 5:56:41.640000] ( SPEAKER_04): Y entenderlo es interesante, ¿por qué?
+[5:56:48.340000 - 5:57:00.040000] ( SPEAKER_00): Porque te saca del mundo de la ilusa seguridad.
+[5:57:00.040000 - 5:57:02.340000] ( SPEAKER_03): te saca de la idea de que yo ya no tengo que hacer mucho,
+[5:57:04.640000 - 5:57:07.940000] ( SPEAKER_04): si ya está conmigo.
+[5:57:07.940000 - 5:57:11.940000] ( SPEAKER_03): Ya está, ya vive conmigo, ya nos casamos, sea cual fuere la historia de cada quien.
+[5:57:15.940000 - 5:57:23.220000] ( SPEAKER_04): Pero ya está, listo, sí, estamos en pareja, vamos para adelante.
+[5:57:23.220000 - 5:57:24.220000] ( SPEAKER_03): este no.
+[5:57:25.220000 - 5:57:29.020000] ( SPEAKER_04): ¿Das por sentado que ya está, que eso no va a pasar?
+[5:57:29.020000 - 5:57:31.020000] ( SPEAKER_03): Claro, no, sí, porque no va a pasar. Puede pasar.
+[5:57:31.020000 - 5:57:33.020000] ( SPEAKER_03): Puede pasar.
+[5:57:33.020000 - 5:57:36.100000] ( SPEAKER_03): En la foto de hoy, la verdad, no ves nada que pase.
+[5:57:39.180000 - 5:57:44.420000] ( SPEAKER_04): Y mañana conoció a alguien y puede pasar.
+[5:57:49.660000 - 5:57:57.100000] ( SPEAKER_00): ¿Qué sé yo? Como vos podés conocer a alguien, como todo,
+[5:58:04.540000 - 5:58:13.300000] ( SPEAKER_05): podemos, se puede pasar.
+[5:58:22.060000 - 5:58:35.020000] ( SPEAKER_04): Lo que pasa es que para mí generalmente es como hay algo,
+[5:58:47.980000 - 5:59:03.860000] ( SPEAKER_06): si vos tenés algo que decir, sí, sigo,
+[5:59:19.740000 - 5:59:37.020000] ( SPEAKER_03): que en realidad no estás feliz.
+[5:59:37.020000 - 5:59:40.380000] ( SPEAKER_03): es mucho más fácil que te entre alguien de afuera y te enamore.
+[5:59:43.740000 - 5:59:49.820000] ( SPEAKER_04): Si vos estás bien, estás al día, estás bien, es más difícil.
+[5:59:55.900000 - 6:00:04.060000] ( SPEAKER_00): Te puede atraer otras personas,
+[6:00:12.220000 - 6:00:24.140000] ( SPEAKER_05): puede venir una persona super carismática, no sé qué, te genera un deseo.
+[6:00:36.060000 - 6:00:51.340000] ( SPEAKER_04): Pero vos estás bien, entonces no te pone tan en duda, pienso yo,
+[6:01:06.620000 - 6:01:23.900000] ( SPEAKER_06): al caer a ser especialista. Yo creo que...
+[6:01:23.900000 - 6:01:25.900000] ( SPEAKER_03): Sí, sí, sí, el deseo es otra historia.
+[6:01:25.900000 - 6:01:30.220000] ( SPEAKER_03): Las dudas, el agua entra cuando la gotera aparece,
+[6:01:34.860000 - 6:01:43.820000] ( SPEAKER_04): cuando ya hay una rajadura que ni la viste y ahí entonces la gotera llega al techo.
+[6:01:52.860000 - 6:02:03.620000] ( SPEAKER_00): Si hay un buen, ¿cómo se llama?
+[6:02:14.380000 - 6:02:27.540000] ( SPEAKER_05): Una buena losa.
+[6:02:40.700000 - 6:02:57.260000] ( SPEAKER_04): Aislante y puede llover, pero no te entra la gota.
+[6:02:57.260000 - 6:02:58.660000] ( SPEAKER_03): Una Buena Elisa
+[6:03:00.060000 - 6:03:02.980000] ( SPEAKER_04): Ahh
+[6:03:02.980000 - 6:03:03.360000] ( SPEAKER_03): Me!
+[6:03:03.360000 - 6:03:06.520000] ( SPEAKER_03): Mirá, se hace más difícil, siempre puede aparecer un tsunami.
+[6:03:09.680000 - 6:03:13.840000] ( SPEAKER_04): Bueno, bueno.
+[6:03:18 - 6:03:26.640000] ( SPEAKER_00): Que te tira todas las ventanas al diablo y vos siempre me llevo puesta.
+[6:03:35.280000 - 6:03:46.400000] ( SPEAKER_05): Y está bueno saber que puede pasar esto.
+[6:03:57.520000 - 6:04:14.960000] ( SPEAKER_04): Pero no para vivir angustiado y atemorizado, sino simplemente para estar atento
+[6:04:32.400000 - 6:04:56] ( SPEAKER_06): y siguiendo tu metáfora, cada tanto decir, ché, está bien, las ventanas están bien aseguradas,
+[6:05:19.600000 - 6:05:46.960000] ( SPEAKER_03): el aislante del techo está bien, cómo venimos con esto.
+[6:06:14.480000 - 6:06:48.320000] ( SPEAKER_04): Quiero decir, trabajar, ser conscientes de que el otro está, no por una obligación,
+[6:07:22.160000 - 6:07:58.960000] ( SPEAKER_05): no para siempre, entonces, ¿qué es lo que uno intenta?
+[6:08:35.760000 - 6:09:15.040000] ( SPEAKER_04): Es fortalecer todo el tiempo el vínculo.
+[6:09:54.320000 - 6:10:34.600000] ( SPEAKER_03): ¿Por qué?
+[6:11:14.880000 - 6:11:58.800000] ( SPEAKER_00): Porque algunos vientos van a tener que aguantarse esa casa que tenemos.
+[6:12:42.720000 - 6:13:29.760000] ( SPEAKER_04): Y para que lo aguante, nosotros tenemos que sostenerla.
+[6:13:29.760000 - 6:13:31] ( SPEAKER_03): no me da tu relación.
+[6:13:31 - 6:13:35] ( SPEAKER_03): No, viene bien. Yo hablo mucho también por lo que veo con mis amigas,
+[6:13:39 - 6:13:44.800000] ( SPEAKER_04): lo que les ha pasado y demás.
+[6:13:50.600000 - 6:13:59.400000] ( SPEAKER_00): Siento como que en esta generación, vos recién decías,
+[6:14:08.200000 - 6:14:19.800000] ( SPEAKER_05): uno da por hecho como que la relación va a seguir.
+[6:14:31.400000 - 6:14:45] ( SPEAKER_04): Creo que por ahí lo que me toca ver a mí,
+[6:14:58.600000 - 6:15:14] ( SPEAKER_06): uno da por hecho que en algún momento se va a terminar
+[6:15:29.400000 - 6:15:47.200000] ( SPEAKER_03): porque es al revés, ¿entendés?
+[6:16:05 - 6:16:26.400000] ( SPEAKER_04): Como que alguien en definitiva va a aparecer y todo.
+[6:16:47.800000 - 6:17:13] ( SPEAKER_05): Porque hay algo para mí, esto del amor para toda la vida ya como no existe,
+[6:17:38.200000 - 6:18:07.400000] ( SPEAKER_04): esa concepción no lo tiene tan presente, ni siquiera por ahí lo quiere.
+[6:18:37.400000 - 6:19:08.400000] ( SPEAKER_03): Entonces...
+[6:19:08.400000 - 6:19:08.900000] ( SPEAKER_03): and
+[6:19:08.900000 - 6:19:09.900000] ( SPEAKER_03): Te da miedo.
+[6:19:10.900000 - 6:19:17.340000] ( SPEAKER_04): Creo que están en unas relaciones paravalientes en definitiva, esto de la vulnerabilidad.
+[6:19:23.780000 - 6:19:35.380000] ( SPEAKER_00): Porque en definitiva tarde o temprano alguien va a aparecer que me va a pasar a mí o le
+[6:19:46.980000 - 6:20:01.980000] ( SPEAKER_05): va a pasar a él o lo que sea, pero la relación como que se va a terminar.
+[6:20:16.980000 - 6:20:32.980000] ( SPEAKER_04): ¿No?
+[6:20:48.980000 - 6:21:05.980000] ( SPEAKER_06): ¿A vos no te pasa?
+[6:21:22.980000 - 6:21:40] ( SPEAKER_03): El problema... no, no.
+[6:21:40 - 6:21:40.840000] ( SPEAKER_03): Damn, Mario.
+[6:21:40.840000 - 6:21:43.920000] ( SPEAKER_03): El problema no, no. El problema es la certeza, Sofía.
+[6:21:43.920000 - 6:21:47.920000] ( SPEAKER_03): No, no, no, a mí no me pasa, pero no tengo idea que me va a pasar.
+[6:21:51.920000 - 6:21:58.920000] ( SPEAKER_04): No tengo idea, yo no digo como, no, a mí no me va a pasar.
+[6:22:05.920000 - 6:22:14.920000] ( SPEAKER_00): No, no pienso en eso.
+[6:22:23.920000 - 6:22:34.920000] ( SPEAKER_05): No pienso en eso.
+[6:22:34.920000 - 6:22:38.920000] ( SPEAKER_03): No tengo idea que me va a pasar.
+[6:22:38.920000 - 6:22:40.920000] ( SPEAKER_03): No pienso en eso.
+[6:22:42.920000 - 6:22:50.920000] ( SPEAKER_04): Pero yo creo, cada vez que veo una pareja, siento que en algún momento esa relación, a la larga o a la corta, se va a terminar.
+[6:22:58.920000 - 6:23:07.920000] ( SPEAKER_00): Exacto.
+[6:23:16.920000 - 6:23:26.920000] ( SPEAKER_05): Nada es para siempre.
+[6:23:26.920000 - 6:23:30.920000] ( SPEAKER_03): Bueno, pero el problema es la certeza, insisto, ¿no?
+[6:23:34.920000 - 6:23:43.920000] ( SPEAKER_04): Es tan problemática la certeza de esto no se va a terminar nunca,
+[6:23:52.920000 - 6:24:04.920000] ( SPEAKER_00): como la certeza de y si igual se va a terminar.
+[6:24:16.920000 - 6:24:32.920000] ( SPEAKER_05): ¿Sabes por qué? Porque uno no tiene idea de lo que le va a pasar en la vida.
+[6:24:48.920000 - 6:25:10.920000] ( SPEAKER_04): Y justamente si algo tiene de mágico estar en este lugar transitando la vida,
+[6:25:32.920000 - 6:25:56.920000] ( SPEAKER_06): es la incertidumbre en algún punto.
+[6:25:56.920000 - 6:25:57.920000] ( SPEAKER_03): Claro.
+[6:25:58.920000 - 6:26:00.920000] ( SPEAKER_04): Yo no tengo idea.
+[6:26:00.920000 - 6:26:01.420000] ( SPEAKER_03): you
+[6:26:01.420000 - 6:26:04.720000] ( SPEAKER_03): Es el miedo. Es la incertidumbre en algún punto.
+[6:26:08.020000 - 6:26:14.320000] ( SPEAKER_04): Es incertidumbre cuando lo ponés como, se va a terminar, es el miedo.
+[6:26:20.620000 - 6:26:28.920000] ( SPEAKER_00): Y bueno, sí, en algún momento se va a terminar.
+[6:26:37.220000 - 6:26:49.020000] ( SPEAKER_05): Porque en vez de apostar más, digo, bueno, pero igual se va a terminar.
+[6:27:00.820000 - 6:27:14.120000] ( SPEAKER_04): En vez de darlo todo.
+[6:27:27.420000 - 6:27:46.420000] ( SPEAKER_06): Porque si lo das todo, y la otra persona después no quiere estar con vos, te va a sentir muy mal.
+[6:28:05.420000 - 6:28:28.220000] ( SPEAKER_03): Entonces ya es que hablo con miedo, no doy todo, porque se va a terminar.
+[6:28:51.020000 - 6:29:14.820000] ( SPEAKER_04): Y bueno, hasta acá.
+[6:29:14.820000 - 6:29:16.820000] ( SPEAKER_03): y bueno, hasta acá.
+[6:29:16.820000 - 6:29:18.820000] ( SPEAKER_03): ¿Para qué no vas a dar todo sin definir?
+[6:29:20.820000 - 6:29:23.820000] ( SPEAKER_04): ¿Entendés?
+[6:29:26.820000 - 6:29:32.820000] ( SPEAKER_00): Porque podés vacilar el fondo y se termina cuando estás en el pico.
+[6:29:38.820000 - 6:29:45.820000] ( SPEAKER_05): Dale todo porque solo terminar igual.
+[6:29:52.820000 - 6:30:00.820000] ( SPEAKER_04): Sofía.
+[6:30:08.820000 - 6:30:20.820000] ( SPEAKER_06): No, no. Viste cómo dice Tini, mirá, estoy citando a Tini, esto es él.
+[6:30:32.820000 - 6:30:45.820000] ( SPEAKER_03): Contemporánea.
+[6:30:58.820000 - 6:31:14.820000] ( SPEAKER_04): La triplete. Cupido. Uno de los últimos temas que dice...
+[6:31:30.820000 - 6:31:48.820000] ( SPEAKER_05): Yo no sé si enamorarme porque después de enamorarme...
+[6:32:06.820000 - 6:32:26.820000] ( SPEAKER_04): ¿Enamorarte? ¿Ese laburito?
+[6:32:46.820000 - 6:33:07.820000] ( SPEAKER_03): Así arranca.
+[6:33:07.820000 - 6:33:09.820000] ( SPEAKER_03): No, para mí es al revés.
+[6:33:09.820000 - 6:33:11.820000] ( SPEAKER_03): Dale todo, dale todo.
+[6:33:13.820000 - 6:33:17.820000] ( SPEAKER_04): Sofía.
+[6:33:17.820000 - 6:33:19.820000] ( SPEAKER_03): contemporánea.
+[6:33:19.820000 - 6:33:21.820000] ( SPEAKER_03): ¡Enamorarme!
+[6:33:21.820000 - 6:33:23.820000] ( SPEAKER_03): te digo que es el lauro
+[6:33:23.820000 - 6:33:25.880000] ( SPEAKER_03): you
+[6:33:25.880000 - 6:33:26.380000] ( SPEAKER_03): You know.
+[6:33:26.380000 - 6:33:28.380000] ( SPEAKER_03):シークレット
+[6:33:28.380000 - 6:33:33.380000] ( SPEAKER_03): Sí, claro, bueno, desenamorarte se llama duelo y es dificilísimo.
+[6:33:38.380000 - 6:33:52.380000] ( SPEAKER_04): Pero ¿sabes qué? Yo creo que muchas veces lo que alguien hace es intentar de un modo patológico
+[6:34:06.380000 - 6:34:25.380000] ( SPEAKER_00): aminorar la angustia que genera la posibilidad de la pérdida.
+[6:34:44.380000 - 6:35:07.380000] ( SPEAKER_05): Entonces uno dice, yo ya sé que esto se va a terminar, ¿sí?
+[6:35:30.380000 - 6:36:03.380000] ( SPEAKER_04): Y cree que con esto y esta preparación va a alcanzar para que no te tome tan de sorpresa
+[6:36:36.380000 - 6:37:14.380000] ( SPEAKER_06): si es que ocurre y para que no te duela tanto. ¿Sabes qué? Te va a doler igual.
+[6:37:52.380000 - 6:38:31.380000] ( SPEAKER_03): Claro.
+[6:39:10.380000 - 6:39:50.380000] ( SPEAKER_04): Te va a doler igual.
+[6:40:30.380000 - 6:41:12.380000] ( SPEAKER_05): Y te va a doler no haberlo dado todo.
+[6:41:54.380000 - 6:42:37.380000] ( SPEAKER_04): Claro.
+[6:43:20.380000 - 6:44:04.380000] ( SPEAKER_03): Si va mal.
+[6:44:04.380000 - 6:44:06.380000] ( SPEAKER_03): Y te va a doler no haberlo dado todo.
+[6:44:08.380000 - 6:44:11.380000] ( SPEAKER_04): Claro.
+[6:44:14.380000 - 6:44:18.380000] ( SPEAKER_00): Si va mal.
+[6:44:22.380000 - 6:44:28.100000] ( SPEAKER_05): Te va a doler decir, qué pelotuda, ¿por qué no lo doy todo?
+[6:44:33.820000 - 6:44:41.380000] ( SPEAKER_04): Si lo hubiera dado todo no estaría acá.
+[6:44:48.940000 - 6:44:57.900000] ( SPEAKER_06): Así que, dalo todo siempre.
+[6:45:06.860000 - 6:45:16.820000] ( SPEAKER_03): Yo lo doy todo.
+[6:45:26.780000 - 6:45:38.860000] ( SPEAKER_04): No, vos dejas un poquito.
+[6:45:38.860000 - 6:45:40.860000] ( SPEAKER_03): Sim, hoje é oito horas.
+[6:45:40.860000 - 6:45:43.140000] ( SPEAKER_03): नहां नहां इसलिए आईजालाईगा
+[6:45:43.140000 - 6:45:48.140000] ( SPEAKER_03): Además, perdoname, cierta cuota de intranquilidad.
+[6:45:53.140000 - 6:45:59.140000] ( SPEAKER_04): Claro.
+[6:46:05.140000 - 6:46:14.140000] ( SPEAKER_00): No digo, esa mínima cuota de intranquilidad.
+[6:46:23.140000 - 6:46:35.140000] ( SPEAKER_05): Está bien, puede pasar esto, pero también puede pasar aquello.
+[6:46:47.140000 - 6:47:04.140000] ( SPEAKER_04): Y en definitiva te preguntás, hoy, aquí y ahora, ¿está bueno estar con esta persona?
+[6:47:21.140000 - 6:47:39.140000] ( SPEAKER_06): Bien.
+[6:47:57.140000 - 6:48:16.140000] ( SPEAKER_03): Listo, veremos después qué pasa.
+[6:48:16.140000 - 6:48:16.640000] ( SPEAKER_03): Ja, klar.
+[6:48:16.640000 - 6:48:18.640000] ( SPEAKER_03): Это так несправедливо.
+[6:48:18.640000 - 6:48:23.880000] ( SPEAKER_03): No, pero el tema, claro, es cuando esa mínima, se crece un poquito más y eso hace que ante
+[6:48:29.120000 - 6:48:38.860000] ( SPEAKER_04): cualquier síntoma que te puede llevar a tener una mala percepción, ya, ¿entendés?
+[6:48:48.600000 - 6:48:59.280000] ( SPEAKER_00): Sale como la reacción.
+[6:48:59.280000 - 6:49:03.280000] ( SPEAKER_03): Me queda para la próxima, Rolón, porque son tantos conceptos, ya no puedo asimilar más.
+[6:49:07.280000 - 6:49:12.280000] ( SPEAKER_04): No puedo asimilar más.
+[6:49:17.280000 - 6:49:24.280000] ( SPEAKER_00): Pero me queda para la próxima.
+[6:49:31.280000 - 6:49:40.280000] ( SPEAKER_05): Esto yo te decía que tiene que ver con eso.
+[6:49:49.280000 - 6:50:02.280000] ( SPEAKER_04): ¿Por qué esa inseguridad, estos pibes que te digo que dominan, entran ahí?
+[6:50:15.280000 - 6:50:33.280000] ( SPEAKER_06): En esa inseguridad entran para manejarte y te empieza a bajar.
+[6:50:33.280000 - 6:50:33.780000] ( SPEAKER_03): you
+[6:50:33.780000 - 6:50:34.780000] ( SPEAKER_03): a la manipulación.
+[6:50:34.780000 - 6:50:36.840000] ( SPEAKER_03): you
+[6:50:36.840000 - 6:50:41.240000] ( SPEAKER_03): Entonces, porque si estás muy arriba, es su inseguridad, me vas a dejar a mí, porque estás muy arriba.
+[6:50:41.240000 - 6:50:44.240000] ( SPEAKER_03): ¿Cómo identificar al manipulador que te va a bajar?
+[6:50:44.240000 - 6:50:48.280000] ( SPEAKER_03): De afuera se ve muy fácil, pero cómo estar ahí y darte cuenta.
+[6:50:52.320000 - 6:51:00.760000] ( SPEAKER_04): Una es, tu pareja te tiene que apoyar, tiene que empujarte para adelante,
+[6:51:09.200000 - 6:51:20.360000] ( SPEAKER_00): tiene que decirte dale, hacelo, dale, está buenísimo, dale.
+[6:51:31.520000 - 6:51:47.760000] ( SPEAKER_05): Si empieza a decir, esto no va, es mi forma de pensar.
+[6:52:04 - 6:52:25.960000] ( SPEAKER_04): Me encantaría dar un ejemplo muy conocido, público, al aire, pero no lo puedo hacer.
+[6:52:25.960000 - 6:52:26.960000] ( SPEAKER_03): No va.
+[6:52:26.960000 - 6:52:29.600000] ( SPEAKER_03): No, lo que pasa es que es complejo, Andi, es complejo.
+[6:52:32.240000 - 6:52:36.400000] ( SPEAKER_04): Para otro momento ya.
+[6:52:40.560000 - 6:52:45.360000] ( SPEAKER_00): Para otro momento.
+[6:52:50.160000 - 6:52:57.480000] ( SPEAKER_05): No, no, pero sí, déjame señalarlo, porque...
+[6:53:05.280000 - 6:53:13.960000] ( SPEAKER_04): Porque...
+[6:53:22.640000 - 6:53:31.960000] ( SPEAKER_06): Yo hacía el...
+[6:53:41.280000 - 6:53:51.440000] ( SPEAKER_03): No, no, pero la pareja...
+[6:53:51.440000 - 6:53:53.440000] ( SPEAKER_03): I don't know man.
+[6:53:53.440000 - 6:53:57.440000] ( SPEAKER_03): Yo voy a decir esto solo, yo hacía un programa que trabajé con muchas modelos,
+[6:54:01.440000 - 6:54:07.440000] ( SPEAKER_04): en un ambiente que era el rayo.
+[6:54:13.440000 - 6:54:23.440000] ( SPEAKER_00): Entonces al principio era productor y vi mucho, y había muchas relaciones ahí.
+[6:54:33.440000 - 6:54:48.440000] ( SPEAKER_05): Veía mucho a ella modelo y a él que la bajaba, ¿entendés?
+[6:55:03.440000 - 6:55:21.440000] ( SPEAKER_04): La bajaba porque era tan linda, tan no sé qué, la bajaba, la bajaba, la bajaba
+[6:55:39.440000 - 6:55:59.440000] ( SPEAKER_06): y ella creía que sin él no podía.
+[6:55:59.440000 - 6:56:01.500000] ( SPEAKER_03): you
+[6:56:01.500000 - 6:56:02.840000] ( SPEAKER_03): No, amiga, no es así.
+[6:56:04.180000 - 6:56:06.520000] ( SPEAKER_04): No, pero...
+[6:56:08.860000 - 6:56:12.200000] ( SPEAKER_00): ¿Se separaron?
+[6:56:12.200000 - 6:56:16.200000] ( SPEAKER_03): No, pero ojo también con él.
+[6:56:20.200000 - 6:56:24.700000] ( SPEAKER_04): Sí.
+[6:56:29.200000 - 6:56:36.700000] ( SPEAKER_00): Es lo que decís, que el otro te empuja, te empuja, te empuja.
+[6:56:44.200000 - 6:56:53.700000] ( SPEAKER_05): Porque en ese te empuja, ¿sabés qué hay?
+[6:57:03.200000 - 6:57:15.700000] ( SPEAKER_04): Hay un dale que vos podés, dale que vos podés con todo.
+[6:57:28.200000 - 6:57:42.200000] ( SPEAKER_06): Y nadie puede con todo.
+[6:57:56.200000 - 6:58:13.700000] ( SPEAKER_03): Yo creo que la buena pareja te acompaña.
+[6:58:31.200000 - 6:58:52.200000] ( SPEAKER_04): Hasta cuando te dice, mira, me parece que te vas a pegar un tortazo.
+[6:59:13.200000 - 6:59:34.700000] ( SPEAKER_05): Claro.
+[6:59:56.200000 - 7:00:20.200000] ( SPEAKER_04): O sea, es más, yo te sugiero, bajate acá.
+[7:00:44.200000 - 7:01:09.700000] ( SPEAKER_03): Si vos decís, no, mira, yo quiero seguir.
+[7:01:35.200000 - 7:02:01.700000] ( SPEAKER_00): Listo.
+[7:02:28.200000 - 7:02:55.700000] ( SPEAKER_04): O sea, te acompaño.
+[7:03:23.200000 - 7:03:53.200000] ( SPEAKER_02): Siempre y cuando yo no me pegue el tortazo con vos.
+[7:03:53.200000 - 7:03:54.400000] ( SPEAKER_03): 백두교 Making
+[7:03:54.400000 - 7:03:55.400000] ( SPEAKER_03): Así que el otro...
+[7:03:55.400000 - 7:03:57.480000] ( SPEAKER_03): you
+[7:03:57.480000 - 7:03:59.480000] ( SPEAKER_03): Listo. Te acompaño.
+[7:03:59.480000 - 7:04:01.480000] ( SPEAKER_03): Siempre y cuando yo no me pegue el tortazo con vos.
+[7:04:03.480000 - 7:04:07.480000] ( SPEAKER_04): Que después no te diga yo te lo dije.
+[7:04:11.480000 - 7:04:17.480000] ( SPEAKER_00): Obvio.
+[7:04:17.480000 - 7:04:24.240000] ( SPEAKER_03): lo seguimos la semana que viene, lamentablemente no hay más tiempo, pero ponen amistades peligrosas.
+[7:04:31 - 7:04:43.280000] ( SPEAKER_04): Gracias Rolón, nos vemos la semana que viene.
+[7:04:43.280000 - 7:04:47.300000] ( SPEAKER_03): terminalueventa y tipo
+[7:04:47.300000 - 7:04:49.300000] ( SPEAKER_03): No me volvés el verano que viene.
+[7:04:49.300000 - 7:04:51.300000] ( SPEAKER_03): The sun in his crawls
+[7:04:51.300000 - 7:04:53.300000] ( SPEAKER_03): So good
+[7:04:53.300000 - 7:04:56.860000] ( SPEAKER_03): Ay, ay, y aprovéchame, oh
+[7:04:56.860000 - 7:04:58.940000] ( SPEAKER_03): you
+[7:04:58.940000 - 7:05:00.940000] ( SPEAKER_03): Y no sé cuándo vuelvo
+[7:05:00.940000 - 7:05:03.500000] ( SPEAKER_03): Si en tus ojos me pierdo
+[7:05:06.060000 - 7:05:10.120000] ( SPEAKER_04): Y aprovecho más
