@@ -1,4 +1,3 @@
-# transcriptions
 # Diarization and Transcription Approaches
 
 This repository contains two different approaches for diarization and transcription of audio files.
