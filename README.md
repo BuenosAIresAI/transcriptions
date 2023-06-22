@@ -19,6 +19,3 @@ We use Whisperx for this approach. Here is the process we follow:
 1. Process an audio file using Whisperx.
 2. Extract speakers data.
 3. Generate a single transcription file.
-
-
-For more information, please refer to the individual README files in each approach's directory.
